@@ -1,2 +1,2 @@
 # devframe
-Development Frame for multicopter, rover and fixed wing use.  
+Development Frame is an easy to build and maintain multicopter frame. 
