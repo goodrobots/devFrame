@@ -10,13 +10,13 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 
-'C:/Users/coby/Documents/GitHub/DevFrame/DevFrame/step/DevFrame GPS Mo
-unt 30x30 v1.step',
-/* time_stamp */ '2018-05-12T11:47:12-05:00',
-/* author */ ('cglusky'),
+'/Users/coby/Documents/GitHub/devFrame/step/Accessory Mounts/Generic/d
+evFrame GPS Mount 30x30.step',
+/* time_stamp */ '2020-01-09T16:27:33-06:00',
+/* author */ (''),
 /* organization */ (''),
-/* preprocessor_version */ 'ST-DEVELOPER v17',
-/* originating_system */ 'Autodesk Translation Framework v7.1.0.215',
+/* preprocessor_version */ 'ST-DEVELOPER v18',
+/* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
@@ -191,9 +191,9 @@ DATA;
 #175=EDGE_CURVE('',#143,#135,#82,.T.);
 #176=EDGE_CURVE('',#144,#144,#120,.T.);
 #177=EDGE_CURVE('',#145,#145,#121,.T.);
-#178=EDGE_CURVE('',#145,#142,#83,.T.);
+#178=EDGE_CURVE('',#145,#144,#83,.T.);
 #179=EDGE_CURVE('',#146,#146,#122,.T.);
-#180=EDGE_CURVE('',#146,#144,#84,.T.);
+#180=EDGE_CURVE('',#146,#142,#84,.T.);
 #181=EDGE_CURVE('',#136,#124,#85,.T.);
 #182=EDGE_CURVE('',#140,#139,#86,.T.);
 #183=ORIENTED_EDGE('',*,*,#147,.T.);
@@ -244,11 +244,11 @@ DATA;
 #228=ORIENTED_EDGE('',*,*,#174,.T.);
 #229=ORIENTED_EDGE('',*,*,#177,.F.);
 #230=ORIENTED_EDGE('',*,*,#178,.T.);
-#231=ORIENTED_EDGE('',*,*,#173,.T.);
+#231=ORIENTED_EDGE('',*,*,#176,.T.);
 #232=ORIENTED_EDGE('',*,*,#178,.F.);
 #233=ORIENTED_EDGE('',*,*,#179,.F.);
 #234=ORIENTED_EDGE('',*,*,#180,.T.);
-#235=ORIENTED_EDGE('',*,*,#176,.T.);
+#235=ORIENTED_EDGE('',*,*,#173,.T.);
 #236=ORIENTED_EDGE('',*,*,#180,.F.);
 #237=ORIENTED_EDGE('',*,*,#148,.F.);
 #238=ORIENTED_EDGE('',*,*,#181,.F.);
@@ -458,10 +458,10 @@ POSITIVE_RATIO_MEASURE(7850.),#283);
 #436=CARTESIAN_POINT('',(2.,0.,0.));
 #437=CARTESIAN_POINT('',(0.,0.,0.));
 #438=CARTESIAN_POINT('Origin',(2.,0.,-2.));
-#439=CARTESIAN_POINT('',(20.5,0.,-15.));
-#440=CARTESIAN_POINT('Origin',(22.,0.,-15.));
-#441=CARTESIAN_POINT('',(6.5,0.,-15.));
-#442=CARTESIAN_POINT('Origin',(8.,0.,-15.));
+#439=CARTESIAN_POINT('',(21.,0.,-15.));
+#440=CARTESIAN_POINT('Origin',(22.5,0.,-15.));
+#441=CARTESIAN_POINT('',(6.,0.,-15.));
+#442=CARTESIAN_POINT('Origin',(7.5,0.,-15.));
 #443=CARTESIAN_POINT('Origin',(28.,0.,-28.));
 #444=CARTESIAN_POINT('',(28.,5.,-30.));
 #445=CARTESIAN_POINT('',(30.,5.,-28.));
@@ -480,28 +480,28 @@ POSITIVE_RATIO_MEASURE(7850.),#283);
 #458=CARTESIAN_POINT('',(2.,5.,0.));
 #459=CARTESIAN_POINT('Origin',(2.,5.,-2.));
 #460=CARTESIAN_POINT('',(2.,0.,0.));
-#461=CARTESIAN_POINT('Origin',(22.,0.,-15.));
-#462=CARTESIAN_POINT('',(20.5,2.,-15.));
-#463=CARTESIAN_POINT('Origin',(22.,2.,-15.));
-#464=CARTESIAN_POINT('',(20.5,0.,-15.));
-#465=CARTESIAN_POINT('Origin',(22.,2.,-15.));
-#466=CARTESIAN_POINT('',(19.,2.,-15.));
-#467=CARTESIAN_POINT('Origin',(22.,2.,-15.));
-#468=CARTESIAN_POINT('Origin',(8.,0.,-15.));
-#469=CARTESIAN_POINT('',(6.5,2.,-15.));
-#470=CARTESIAN_POINT('Origin',(8.,2.,-15.));
-#471=CARTESIAN_POINT('',(6.5,0.,-15.));
-#472=CARTESIAN_POINT('Origin',(8.,2.,-15.));
-#473=CARTESIAN_POINT('',(5.,2.,-15.));
-#474=CARTESIAN_POINT('Origin',(8.,2.,-15.));
-#475=CARTESIAN_POINT('Origin',(22.,0.,-15.));
-#476=CARTESIAN_POINT('',(19.,5.,-15.));
-#477=CARTESIAN_POINT('Origin',(22.,5.,-15.));
-#478=CARTESIAN_POINT('',(19.,0.,-15.));
-#479=CARTESIAN_POINT('Origin',(8.,0.,-15.));
-#480=CARTESIAN_POINT('',(5.,5.,-15.));
-#481=CARTESIAN_POINT('Origin',(8.,5.,-15.));
-#482=CARTESIAN_POINT('',(5.,0.,-15.));
+#461=CARTESIAN_POINT('Origin',(22.5,0.,-15.));
+#462=CARTESIAN_POINT('',(21.,2.,-15.));
+#463=CARTESIAN_POINT('Origin',(22.5,2.,-15.));
+#464=CARTESIAN_POINT('',(21.,0.,-15.));
+#465=CARTESIAN_POINT('Origin',(22.5,2.,-15.));
+#466=CARTESIAN_POINT('',(19.5,2.,-15.));
+#467=CARTESIAN_POINT('Origin',(22.5,2.,-15.));
+#468=CARTESIAN_POINT('Origin',(7.5,0.,-15.));
+#469=CARTESIAN_POINT('',(6.,2.,-15.));
+#470=CARTESIAN_POINT('Origin',(7.5,2.,-15.));
+#471=CARTESIAN_POINT('',(6.,0.,-15.));
+#472=CARTESIAN_POINT('Origin',(7.5,2.,-15.));
+#473=CARTESIAN_POINT('',(4.5,2.,-15.));
+#474=CARTESIAN_POINT('Origin',(7.5,2.,-15.));
+#475=CARTESIAN_POINT('Origin',(7.5,0.,-15.));
+#476=CARTESIAN_POINT('',(4.5,5.,-15.));
+#477=CARTESIAN_POINT('Origin',(7.5,5.,-15.));
+#478=CARTESIAN_POINT('',(4.5,0.,-15.));
+#479=CARTESIAN_POINT('Origin',(22.5,0.,-15.));
+#480=CARTESIAN_POINT('',(19.5,5.,-15.));
+#481=CARTESIAN_POINT('Origin',(22.5,5.,-15.));
+#482=CARTESIAN_POINT('',(19.5,0.,-15.));
 #483=CARTESIAN_POINT('Origin',(30.,0.,-30.));
 #484=CARTESIAN_POINT('',(30.,5.,-30.));
 #485=CARTESIAN_POINT('Origin',(0.,0.,0.));
@@ -518,13 +518,13 @@ onnectivities');
 #490=(
 GEOMETRIC_REPRESENTATION_CONTEXT(3)
 GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT((#488))
-GLOBAL_UNIT_ASSIGNED_CONTEXT((#492,#495,#494))
+GLOBAL_UNIT_ASSIGNED_CONTEXT((#492,#494,#495))
 REPRESENTATION_CONTEXT('','3D')
 );
 #491=(
 GEOMETRIC_REPRESENTATION_CONTEXT(3)
 GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT((#489))
-GLOBAL_UNIT_ASSIGNED_CONTEXT((#492,#495,#494))
+GLOBAL_UNIT_ASSIGNED_CONTEXT((#492,#494,#495))
 REPRESENTATION_CONTEXT('','3D')
 );
 #492=(
@@ -539,29 +539,29 @@ SI_UNIT($,.METRE.)
 );
 #494=(
 NAMED_UNIT(*)
-SI_UNIT($,.STERADIAN.)
-SOLID_ANGLE_UNIT()
+PLANE_ANGLE_UNIT()
+SI_UNIT($,.RADIAN.)
 );
 #495=(
 NAMED_UNIT(*)
-PLANE_ANGLE_UNIT()
-SI_UNIT($,.RADIAN.)
+SI_UNIT($,.STERADIAN.)
+SOLID_ANGLE_UNIT()
 );
 #496=SHAPE_DEFINITION_REPRESENTATION(#497,#498);
 #497=PRODUCT_DEFINITION_SHAPE('',$,#500);
 #498=SHAPE_REPRESENTATION('',(#292),#490);
 #499=PRODUCT_DEFINITION_CONTEXT('part definition',#504,'design');
-#500=PRODUCT_DEFINITION('DevFrame GPS Mount 30x30',
-'DevFrame GPS Mount 30x30 v1',#501,#499);
+#500=PRODUCT_DEFINITION('devFrame GPS Mount 30x30',
+'devFrame GPS Mount 30x30 v2',#501,#499);
 #501=PRODUCT_DEFINITION_FORMATION('',$,#506);
-#502=PRODUCT_RELATED_PRODUCT_CATEGORY('DevFrame GPS Mount 30x30 v1',
-'DevFrame GPS Mount 30x30 v1',(#506));
+#502=PRODUCT_RELATED_PRODUCT_CATEGORY('devFrame GPS Mount 30x30 v2',
+'devFrame GPS Mount 30x30 v2',(#506));
 #503=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#504);
 #504=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #505=PRODUCT_CONTEXT('part definition',#504,'mechanical');
-#506=PRODUCT('DevFrame GPS Mount 30x30','DevFrame GPS Mount 30x30 v1',$,
+#506=PRODUCT('devFrame GPS Mount 30x30','devFrame GPS Mount 30x30 v2',$,
 (#505));
 #507=PRESENTATION_STYLE_ASSIGNMENT((#508));
 #508=SURFACE_STYLE_USAGE(.BOTH.,#509);
