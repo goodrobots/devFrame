@@ -1,5 +1,5 @@
-# DevFrame
-The Development Frame is an easy to build and maintain multicopter frame. 
+# devFrame
+The Development Frame, or devFrame, is an easy to build and maintain multicopter frame. 
 
 This is a Work In Progress.
 
