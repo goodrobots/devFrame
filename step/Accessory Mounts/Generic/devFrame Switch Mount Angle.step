@@ -12,7 +12,7 @@ FILE_NAME(
 /* name */ 
 '/Users/coby/Documents/GitHub/devFrame/step/Accessory Mounts/Generic/d
 evFrame Switch Mount Angle.step',
-/* time_stamp */ '2020-01-09T16:45:12-06:00',
+/* time_stamp */ '2020-01-11T10:12:04-06:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
@@ -130,7 +130,7 @@ DATA;
 #114=VECTOR('',#428,1.5);
 #115=VECTOR('',#433,1.5);
 #116=VECTOR('',#438,10.);
-#117=VECTOR('',#445,4.);
+#117=VECTOR('',#445,4.1);
 #118=VECTOR('',#448,10.);
 #119=CIRCLE('',#328,2.);
 #120=CIRCLE('',#329,2.);
@@ -143,11 +143,11 @@ DATA;
 #127=CIRCLE('',#342,8.);
 #128=CIRCLE('',#343,8.);
 #129=CIRCLE('',#345,8.);
-#130=CIRCLE('',#346,4.);
+#130=CIRCLE('',#346,4.1);
 #131=CIRCLE('',#348,8.);
 #132=CIRCLE('',#350,1.5);
 #133=CIRCLE('',#352,1.5);
-#134=CIRCLE('',#356,4.);
+#134=CIRCLE('',#356,4.1);
 #135=VERTEX_POINT('',#453);
 #136=VERTEX_POINT('',#454);
 #137=VERTEX_POINT('',#456);
@@ -309,7 +309,7 @@ DATA;
 #293=CYLINDRICAL_SURFACE('',#347,8.);
 #294=CYLINDRICAL_SURFACE('',#349,1.5);
 #295=CYLINDRICAL_SURFACE('',#351,1.5);
-#296=CYLINDRICAL_SURFACE('',#355,4.);
+#296=CYLINDRICAL_SURFACE('',#355,4.1);
 #297=ADVANCED_FACE('',(#29),#289,.F.);
 #298=ADVANCED_FACE('',(#30,#15,#16),#21,.T.);
 #299=ADVANCED_FACE('',(#31),#290,.T.);
@@ -533,7 +533,7 @@ POSITIVE_RATIO_MEASURE(7850.),#317);
 #511=CARTESIAN_POINT('',(25.,0.,-25.));
 #512=CARTESIAN_POINT('Origin',(17.,0.,-17.));
 #513=CARTESIAN_POINT('',(0.,0.,0.));
-#514=CARTESIAN_POINT('',(8.5,0.,-18.75));
+#514=CARTESIAN_POINT('',(8.4,0.,-18.75));
 #515=CARTESIAN_POINT('Origin',(12.5,0.,-18.75));
 #516=CARTESIAN_POINT('Origin',(17.,0.,-17.));
 #517=CARTESIAN_POINT('',(17.,3.,-25.));
@@ -551,9 +551,9 @@ POSITIVE_RATIO_MEASURE(7850.),#317);
 #529=CARTESIAN_POINT('',(0.,13.,0.));
 #530=CARTESIAN_POINT('Origin',(12.5,13.,-1.50000002235174));
 #531=CARTESIAN_POINT('Origin',(12.5,0.,-18.75));
-#532=CARTESIAN_POINT('',(8.5,3.,-18.75));
+#532=CARTESIAN_POINT('',(8.4,3.,-18.75));
 #533=CARTESIAN_POINT('Origin',(12.5,3.,-18.75));
-#534=CARTESIAN_POINT('',(8.5,0.,-18.75));
+#534=CARTESIAN_POINT('',(8.4,0.,-18.75));
 #535=CARTESIAN_POINT('Origin',(25.,0.,-25.));
 #536=CARTESIAN_POINT('',(25.,3.,-25.));
 #537=CARTESIAN_POINT('Origin',(12.5,3.,-14.0000000223517));
