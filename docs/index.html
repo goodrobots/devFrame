@@ -1,7 +1,6 @@
 ---
 layout: default
 title: devFrame Docs Home
-show_downloads: "true"
 ---
 
 <!doctype html>
@@ -11,7 +10,11 @@ show_downloads: "true"
     <title>Home</title>
   </head>
   <body>
-    <h1>devFrame Docs</h1>
-    <script src="https://embed.github.com/view/3d/goodrobots/devFrame/master/stl/Frame/devFrame%20Box%20End%20Roll%20Cage.stl"></script>
+    <h2>{{ site.data.3D_parts }}</h2>
+    <ul>
+       {% for item in site.data.3D_Parts %}
+          <li><a href="{{ item.Model_URL }}">{{ item.Name }}</a></li>
+       {% endfor %}
+    </ul>
   </body>
 </html>
