@@ -10,10 +10,10 @@ title: devFrame Docs Home
     <title>Home</title>
   </head>
   <body>
-    <h2>{{ site.data.main.printedParts}}</h2>
+  
     <ul>
        {% for item in site.data.main.printedParts %}
-          <li><a href="{{ site.github.repository_url }}/master{{ item.Model_path }}">{{ item.Name }}</a></li>
+          <li><a href="{{ site.github.repository_url }}/blob/master{{ item.Model_path }}">{{ item.Name }}</a></li>
        {% endfor %}
     </ul>
   </body>
