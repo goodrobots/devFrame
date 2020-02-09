@@ -1,4 +1,4 @@
-Name,Collection,Brand,Description,Model_URL,Image_URL,Notes
+Name,Collection,Brand,Description,Model_path,Image_path,Notes
 Box End Roll Cage,Frame,devFrame,Box end part acts as half tube clamp and adds roll cage for protection and mounting.,/stl/Frame/devFrame%20Box%20End%20Roll%20Cage.stl,,Typically paired with Box End square on top of frame ends.  Also holds GPS and other mounts above frame.
-Box End Rounded,Frame,devFrame,Box end part acts as half tube clamp and is usually used on bottom of box end.  Rounded outside corners avoid sharp edges.,stl/Frame/devFrame%20Box%20End%20Rounded.stl,,Typically paired with Box End Square on bottom of frame ends.
+Box End Rounded,Frame,devFrame,Box end part acts as half tube clamp and is usually used on bottom of box end.  Rounded outside corners avoid sharp edges.,/stl/Frame/devFrame%20Box%20End%20Rounded.stl,,Typically paired with Box End Square on bottom of frame ends.
 Box End Square,Frame,devFrame,Box end parts acts as tube half clamp and is used in middle of box end.,/stl/Frame/devFrame%20Box%20End%20Square.stl,,Typically paired with Box End Roll Cage and Box End Rounded to form frame end tube clamps
