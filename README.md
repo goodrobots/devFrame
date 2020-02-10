@@ -3,6 +3,6 @@ The Development Frame, or devFrame, is an easy to build and maintain multicopter
 
 This is a Work In Progress.
 
-Background is here:  https://discuss.ardupilot.org/t/dev-frame-development-part-2/20220
+Docs here:  https://goodrobots.github.io/devFrame/
 
 Licensed under CERN OHL v.1.2
