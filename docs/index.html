@@ -1,20 +1,11 @@
 ---
-layout: default
+layout: front
 title: devFrame Docs Home
 ---
-
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
   
-    <ul>
-       {% for item in site.data.main.printedParts %}
-          <li><a href="{{ site.github.repository_url }}/blob/master{{ item.Model_path }}">{{ item.Name }}</a></li>
-       {% endfor %}
-    </ul>
-  </body>
-</html>
+<ul>
+  {% for item in site.data.printedParts %}
+    <li><a href="{{ site.github.repository_url }}/blob/master{{ item.filePath }}">{{ item.name }}</a></li>
+  {% endfor %}
+</ul>
+  
