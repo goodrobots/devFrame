@@ -28,6 +28,7 @@ Specifications
 Currently Supported Companion Computers and Sensors
 - RPi 0/3/4 Mounts and Covers
 - RPi Camera Module Mounts and Covers
+- NVIDIA Jetson Nano Mount
 - Benewake TFMini Mount
 - CUAV PXFlow Mount
 - mRo GPS (purple) Mount and Cover
