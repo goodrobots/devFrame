@@ -1,3 +1,8 @@
+---
+permalink: /about/
+title: "About"
+---
+
 Spend less time building and maintaining so you can spend more time developing and flying.  The devFrame incorporates the following features:
 - Open Source Hardware (CERN v2.0)
 - 3D printable components
