@@ -11,10 +11,9 @@ Spend less time building and maintaining so you can spend more time developing a
 - Off the shelf carbon fiber tubes
 - Hardware store fasteners such as screws and zip ties
 - Standardized mechanical interfaces
-- Dozens of ready to go mounts and adapters
+- Several ready to go mounts and adapters 
 - Minimize tool requirements
 - No specialist tools to build frame
-- No glue
 - No vendor lock
 
 Specifications
