@@ -291,6 +291,7 @@ DEPENDENCIES
   jekyll-github-metadata
   jekyll-include-cache
   jekyll-paginate
+  jekyll-remote-theme
   jekyll-sitemap
   jemoji
   tzinfo-data

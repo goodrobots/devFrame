@@ -1,3 +1,21 @@
 main:
   - title: "About"
     url: /about/
+
+docs:
+  - title: Get Started
+          
+  - title: Basic Frame
+    
+  - title: Power Distribution
+   
+  - title: Motors and ESC's
+   
+  - title: Flight Controller
+   
+  - title: Receiver, GPS and Sensors
+   
+  - title: Companion Computer
+    
+  - title: Configure, Test and Tune
+   

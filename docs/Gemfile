@@ -2,6 +2,7 @@ source "https://rubygems.org"
 
 # Gems
 gem "github-pages", group: :jekyll_plugins
+gem "jekyll-remote-theme"
 gem "tzinfo-data"
 
 # Plug-ins
