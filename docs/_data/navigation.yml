@@ -1,21 +1,41 @@
 main:
+  - title: "The Docs"
+    url: /docs/
+  - title: "News"
+    url: /news/
   - title: "About"
     url: /about/
-
+  
 docs:
-  - title: Get Started
-          
-  - title: Basic Frame
+  - title: "Get Started"
+    children:
+      - title: "Is This For Me?"
+        url: /docs/quick-start-guide/
+      - title: "3D Printing"
+        url: /docs/3d-printing/
+      - title: "Tools"
+  - title: "Build Hardware"
+    children:
+      - title: "Basic Frame"
     
-  - title: Power Distribution
+      - title: "Power Distribution"
    
-  - title: Motors and ESC's
+      - title: "Motors and ESC's"
    
-  - title: Flight Controller
+      - title: "Flight Controller"
    
-  - title: Receiver, GPS and Sensors
+      - title: "Receiver, GPS and Sensors"
    
-  - title: Companion Computer
-    
-  - title: Configure, Test and Tune
-   
+      - title: "Companion Computer"
+  - title: "Configure Software"
+    children:
+      - title: "ArduPilot"
+      - title: "PX4"
+      - title: "Maverick"
+  - title: "Test and Tune"
+
+  - title: "Community Builds"
+    children:
+      - title: "d300 Small One"
+      - title: "d440 Just Right"
+      - title: "d450 Kitchen Sink"  
