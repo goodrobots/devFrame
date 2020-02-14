@@ -3,39 +3,54 @@ main:
     url: /docs/
   - title: "News"
     url: /news/
+  - title: "Contribute"
+    url: /contribute/
   - title: "About"
-    url: /about/
+    url: /about/  
+  - title: "Terms and Privacy"
+    url: /terms_privacy/
+  
   
 docs:
   - title: "Get Started"
     children:
       - title: "Is This For Me?"
-        url: /docs/quick-start-guide/
+        url: /docs/
       - title: "3D Printing"
-        url: /docs/3d-printing/
+        url: /docs/
       - title: "Tools"
   - title: "Build Hardware"
     children:
       - title: "Basic Frame"
-    
+        url: /docs/
       - title: "Power Distribution"
-   
+        url: /docs/
       - title: "Motors and ESC's"
-   
+        url: /docs/
       - title: "Flight Controller"
-   
+        url: /docs/
       - title: "Receiver, GPS and Sensors"
-   
+        url: /docs/
       - title: "Companion Computer"
+        url: /docs/
   - title: "Configure Software"
     children:
       - title: "ArduPilot"
+        url: /docs/
       - title: "PX4"
+        url: /docs/
       - title: "Maverick"
+        url: /docs/
   - title: "Test and Tune"
-
+    children:
+      - title: "Preflight"
+        url: /docs/
   - title: "Community Builds"
     children:
       - title: "d300 Small One"
+        url: /docs/
       - title: "d440 Just Right"
-      - title: "d450 Kitchen Sink"  
+        url: /docs/
+      - title: "d450 Kitchen Sink"
+        url: /docs/
+      
