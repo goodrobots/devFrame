@@ -61,6 +61,11 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/goodrobots/"
+
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
     
 defaults:
   # _posts
@@ -69,7 +74,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
       read_time: true
       comments: true
       share: true
@@ -89,6 +94,7 @@ defaults:
       path: ""
       type: docs
     values:
+      layout: single
       sidebar:
         nav: "docs"
 

@@ -1,8 +1,8 @@
 main:
   - title: "The docs"
-    url: /docs/
+    url: /docs/start/
   - title: "News"
-    url: /news/
+    url: /posts/
   - title: "Contribute"
     url: /contribute/
   - title: "About"
@@ -14,8 +14,8 @@ main:
 docs:
   - title: "Get Started"
     children:
-      - title: "Is This For Me?"
-        url: /docs/
+      - title: "Start At The End"
+        url: /docs/start/
       - title: "3D Printing"
         url: /docs/
       - title: "Tools"
