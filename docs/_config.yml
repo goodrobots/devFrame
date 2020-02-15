@@ -63,7 +63,7 @@ footer:
       url: "https://github.com/goodrobots/"
     - label: "Terms and Privacy"
       icon: "fas fa-file-contract"
-      url: /terms-privacy/
+      url: devFrame/terms-privacy/
   
 
 collections:
