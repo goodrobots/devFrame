@@ -1,5 +1,5 @@
 main:
-  - title: "The docs"
+  - title: "Docs"
     url: /docs/start/
   - title: "News"
     url: /posts/
@@ -7,10 +7,7 @@ main:
     url: /contribute/
   - title: "About"
     url: /about/  
-  - title: "Terms and Privacy"
-    url: /terms_privacy/
-  
-  
+ 
 docs:
   - title: "Get Started"
     children:
@@ -19,6 +16,9 @@ docs:
       - title: "3D Printing"
         url: /docs/
       - title: "Tools"
+        url: /docs/
+      - title: "Resources"
+        url: /docs/  
   - title: "Build Hardware"
     children:
       - title: "Basic Frame"

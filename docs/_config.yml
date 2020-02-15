@@ -61,6 +61,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/goodrobots/"
+    - label: "Terms and Privacy"
+      icon: "fas fa-file-contract"
+      url: /terms-privacy/
+  
 
 collections:
   docs:
