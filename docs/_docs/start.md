@@ -26,7 +26,7 @@ But before you do, we recommend you skim the rest of the docs to get familar wit
 
 The good news is the devFrame is designed to be very flexible and easy to change in size and configuration.  So if your first attempt does not meet your goals like you planned, you can iterate rather easily compared to most other frame options.
 
-How do you plan to use your robot?  Remember, good design is the right set of compromises to get the job done.  Perfect design has a name; it's called Art.  Leave that to the Artists while we go build stuff.  The following questions are not a complete list, but should help you collect enough detail to start building.  Then iterate.
+How do you plan to use your robot?  Remember, good design is the right set of compromises to get the job done.  Perfect design has a name --- it's called Art -- Leave that to the Artists while we go build stuff.  The following questions are not a complete list, but should help you collect enough detail to start building.  Then iterate.
 
 ### Budget Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
