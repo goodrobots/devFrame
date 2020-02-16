@@ -20,25 +20,43 @@ Overall, if we do not have the answer we will try to point you in the right dire
 
 ## Define Basic Requirements
 
-There are a few questions that should be answered before you begin your build.  To asnwer these questions it's best to start at the end and work backwards to define your requirements.
+There are a few questions that should be answered before you begin your build.  To answer these questions it's best to start at the end and work backwards to define your requirements.  
 
 But before you do, we recommend you skim the rest of the docs to get familar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
 
 The good news is the devFrame is designed to be very flexible and easy to change in size and configuration.  So if your first attempt does not meet your goals like you planned, you can iterate rather easily compared to most other frame options.
 
-How do you plan to use your robot?  The following questions are not a complete list, but should help you answer that question with enough detail to start building.
+How do you plan to use your robot?  Remember, good design is the right set of compromises to get the job done.  Perfect design has a name; it's called Art.  Leave that to the Artists while we go build stuff.  The following questions are not a complete list, but should help you collect enough detail to start building.  Then iterate.
+
+### Budget Requirements
+- Do you already have stuff?  Reduce, reuse, recycle.
+- Broke?  Smaller is usually cheaper.
+- Going to use for business?  Align your goals and avoid bright shiny objects unless they meet said goals.
+
+### Logistics Requirements
+- Do you already have stuff?  Reduce, reuse, recycle.
+- What kind of stuff can you get easily?  Some parts easier to source in some areas.
+- How big can it be?  Max size, safety, regulations.
+- Do you need to ship it?  Max size, battery size
+- How will you ship or transport or store it?  Max size, case size, trunk/boot size
+- How will you charge batteries?  Bigger batteries, bigger chargers.
 
 ### Data Requirements
-
-- What type of data do you need?  This drives payload and sensors.  For example, if you are doing Computer Vision devlopment you might need a camera that provides video at a high enough frame rate to 
-- How are you going to get the data you need?
-- Or maybe you are just flying for fun so just need a bit of telemetry to keep an eye on things.  What type and size of sensor(s) do you need to fly to gather your data?
--  Basic telemetry can come from FrSky Telemetry support and is good enough for basic use.  Without the need for extra equipment beyond the proper cable and an open serial port it represents a good value for most builds.   But it will not help you pass MavLink Telemtry to a GCS or offboard computer.  We like it so much we plan on using it on every build.
--  If you are developing for computer v   
+- What type of data do you need?  Payload type and size.  Companion type and size.
+- How do you plan to get the data? Logs, offboard, WiFi, analog.
+- How often do you need the data?  Realtime or post process.  Frames per second for video.  Time lag for EKF integration.
+- Do you need supplemental data?  Altitude, camera events, RTK GNSS.
+- How accurate does the data need to be?  LIDAR vs GPS Altitude vs barometer, L1 vs L1/L2 RTK GNSS.
 
 ### Performance Requirements
+- Do you need to fly indoors?  Max size, energy, prop protection.
+- How long do you need to fly?  Max size, battery size, drive efficiency, one or multiple flights.
+- Max endurance or max range?  Prop and/or battery selection, disk loading.
+- Weather and wind?  Size, power, disk loading, drag, IP rating.
 
-Do you need to fly indoors.
+## Example Builds
+
+We will post some examples builds and the thinking behind them here soon.
 
 
 
