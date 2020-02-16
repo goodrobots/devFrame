@@ -14,10 +14,12 @@ title: "devFrame docs"
 description: >- # this means to ignore newlines 
   "devFrame is a 3D printable, Open Source multicopter frame design. 
   Supports 300-500 class frames in Stretch X, Hybrid X and H configurations"
+url: "https://goodrobots.github.io"
+baseurl: "/devFrame"
 github_username: goodrobots
 repository: "goodrobots/devFrame"
 
-# Search 
+# Search (Lunr)
 search: true
 search_full_content: false
 
