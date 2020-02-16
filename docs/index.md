@@ -1,4 +1,18 @@
-Spend less time building and maintaining so you can spend more time developing and flying.  The devFrame incorporates the following features:
+---
+title: "Welcome"
+layout: splash
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.4"
+  overlay_image: /assets/images/devFrame-front-wide.jpeg
+  actions:
+    - label: "Download"
+      url: "https://github.com/goodrobots/devFrame/"
+---
+
+### The devFrame allows you to spend less time building and maintaining so you can spend more time developing and flying.
+
+## Features
 - Open Source Hardware (CERN v2.0)
 - 3D printable components
 - Off the shelf carbon fiber tubes
@@ -9,7 +23,7 @@ Spend less time building and maintaining so you can spend more time developing a
 - No specialist tools to build frame
 - No vendor lock
 
-Specifications
+## Specifications
 - Size can scale from 300-500mm
 - X, Stretch X, Hybrid X, H Frame Geometry
 - Supports prop sizes from 5in to 10in
@@ -17,12 +31,12 @@ Specifications
 - 10mm tube on 60mm spacing for off the shelf accessory mounts
 - 15mm and 30mm mounting hole spacing
 
-Currently Supported Companion Computers and Sensors
+## Currently Supported Companion Computers and Sensors
 - RPi 0/3/4 Mounts and Covers
 - RPi Camera Module Mounts and Covers
 - NVIDIA Jetson Nano Mount
 - Benewake TFMini Mount
 - CUAV PXFlow Mount
-- mRo GPS (purple) Mount and Cover
+- mRo GPS Mount and Cover
 - Seeed Studio ThoneFlow Mount
 - Flight Controllers with 30.5mm x 30.5mm 
