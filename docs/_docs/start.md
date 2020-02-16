@@ -31,7 +31,7 @@ How do you plan to use your robot?  Remember, good design is the right set of co
 ### Budget Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
 - Broke?  Smaller is usually cheaper.
-- Going to use for business?  Align your goals and avoid bright shiny objects unless they meet said goals.
+- Going to use for...?  Align your goals and avoid bright shiny objects unless they meet said goals.
 
 ### Logistics Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
