@@ -2,18 +2,5 @@ source "https://rubygems.org"
 
 # Gems
 gem "github-pages", group: :jekyll_plugins
-gem "jekyll-remote-theme"
 gem "tzinfo-data"
-
-# Plug-ins
-group :jekyll_plugins do
-  gem "jekyll-paginate"
-  gem "jekyll-sitemap"
-  gem "jekyll-gist"
-  gem "jekyll-feed"
-  gem "jemoji"
-  gem "jekyll-include-cache"
-  gem "jekyll-algolia"
-  gem "jekyll-github-metadata"
-  gem "jekyll-admin"
-end
+gem "jekyll-include-cache"

@@ -1,52 +1,40 @@
 # Based on MM Theme 
-# Site settings
-# 
-title: devFrame docs
-email: 
+
+# Plugins 
+plugins:
+  - jekyll-include-cache
+
+# Theme  
+remote_theme: mmistakes/minimal-mistakes  
+minimal_mistakes_skin: default
+
+# Site 
+locale: "en-US"
+title: "devFrame docs"
 description: >- # this means to ignore newlines 
-  devFrame is a 3D printable, Open Source multicopter frame design. 
-  Supports 300-500 class frames in Stretch X, Hybrid X and H configurations
+  "devFrame is a 3D printable, Open Source multicopter frame design. 
+  Supports 300-500 class frames in Stretch X, Hybrid X and H configurations"
 github_username: goodrobots
 repository: "goodrobots/devFrame"
-minimal_mistakes_skin: default
-search: true
 
-# Build settings
+# Search 
+search: true
+search_full_content: false
+
+# Markdown 
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
+
+# Output
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago
 
+# Read Files
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
-plugins:
-  - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-  - jemoji
-  - jekyll-include-cache
-  - jekyll-github-metadata
-  - jekyll-admin
-
+# Content and Liquid Defaults  
 author:
   name   : "Coby Leuschke"
   avatar : "/assets/images/bio-photo.jpg"

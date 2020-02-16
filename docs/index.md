@@ -11,6 +11,7 @@ header:
 ---
 
 ### The devFrame allows you to spend less time building and maintaining so you can spend more time developing and flying.
+devFrame is a 3D printable, Open Source quadcopter and rover (coming soon) frame design.  Supports 300-500 class quadcopter frames in Stretch X, Hybrid X and H configurations, as well as skid steer rovers (coming soon).
 
 ## Features
 - Open Source Hardware (CERN v2.0)
