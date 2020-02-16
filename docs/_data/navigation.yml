@@ -24,35 +24,35 @@ docs:
   - title: "Build Hardware"
     children:
       - title: "Basic Frame"
-        url: /docs/
+        url: /docs/basic-frame/
       - title: "Power Distribution"
-        url: /docs/
+        url: /docs/power-distro/
       - title: "Motors and ESC's"
-        url: /docs/
+        url: /docs/motors-esc/
       - title: "Flight Controller"
-        url: /docs/
+        url: /docs/flight-controller/
       - title: "Receiver, GPS and Sensors"
-        url: /docs/
+        url: /docs/receiver-gps-sensors/
       - title: "Companion Computer"
-        url: /docs/
+        url: /docs/companion/
   - title: "Configure Software"
     children:
       - title: "ArduPilot"
-        url: /docs/
+        url: /docs/ardupilot/
       - title: "PX4"
-        url: /docs/
+        url: /docs/px4/
       - title: "Maverick"
-        url: /docs/
+        url: /docs/maverick/
   - title: "Test and Tune"
     children:
       - title: "Preflight"
-        url: /docs/
+        url: /docs/preflight/
   - title: "Community Builds"
     children:
       - title: "d300 Small One"
-        url: /docs/
+        url: /builds/d300/
       - title: "d440 Just Right"
-        url: /docs/
+        url: /builds/d440/
       - title: "d450 Kitchen Sink"
-        url: /docs/
+        url: /builds/d450/
       

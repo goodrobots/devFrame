@@ -69,6 +69,9 @@ collections:
   docs:
     output: true
     permalink: /:collection/:path/
+  builds:
+    output: true
+    permalink: /:collection/:path/  
     
 defaults:
   # _posts
@@ -98,6 +101,17 @@ defaults:
       layout: single
       sidebar:
         nav: "docs"
+      toc: true
+
+  # _builds
+  - scope:
+      path: ""
+      type: builds
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+      toc: true
 
 category_archive:
   type: liquid

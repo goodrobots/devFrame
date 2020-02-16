@@ -1,7 +1,6 @@
 ---
 title: "Start At The End"
 permalink: /docs/start/
-toc: true
 ---
 
 ## The devFrame Is For...
@@ -52,6 +51,11 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 - How often do you need the data?  Realtime or post process.  Frames per second for video.  Time lag for EKF integration.
 - Do you need supplemental data?  Altitude, camera events, RTK GNSS.
 - How accurate does the data need to be?  LIDAR vs GPS Altitude vs barometer, L1 vs L1/L2 RTK GNSS.
+
+### Communication Requirements
+- What protocols and/or API's to use?  MAVLink, ROS/DDS, 802.11a/b/g/n/ac.  
+- What frequency(s) to use?  RC 900/2.4, WiFi 2.4/5.8, Analog 433/866/900.  Interference and regulations.
+- Do you have enough serial ports for all sensors, companions, comms?  More ports on some FC's than others.  
 
 ### Performance Requirements
 - Do you need to fly indoors?  Max size, energy, prop protection.
