@@ -25,6 +25,8 @@ search_full_content: false
 
 # Markdown 
 markdown: kramdown
+kramdown:
+  input: GFM
 
 # Output
 permalink: /:categories/:title/

@@ -17,8 +17,8 @@ docs:
         url: /docs/printing/
       - title: "Required Tools"
         url: /docs/tools/
-      - title: "Frame Interfaces"
-        url: /docs/interfaces/
+      - title: "Frame Details"
+        url: /docs/frame-details/
       - title: "Resources"
         url: /docs/resources/  
   - title: "Build Hardware"
