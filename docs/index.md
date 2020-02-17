@@ -19,13 +19,13 @@ feature_row:
   - image_path: /assets/images/devFrame-internal-volume-example.jpeg
     alt: "devFrame internal volume"
     title: "Room To Spare "
-    excerpt: "Designed with a large internal volume with room left over for battery, companion computer, and sensors."
+    excerpt: "Enjoy a large internal volume with room left over for battery, companion computer, and sensors."
     url: "/docs/start/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-mounts-example.jpeg
     title: "Options To Spare"
-    excerpt: "Support for various frame sizes and geometries, as well as several different popular sensors and companion computers."
+    excerpt: "Build various frame sizes and geometries, as well as several different popular sensors and companion computers."
     url: "/docs/start/"
     btn_label: "Read More"
     btn_class: "btn--primary"
