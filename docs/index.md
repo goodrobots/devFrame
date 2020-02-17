@@ -25,7 +25,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-mounts-example.jpeg
     title: "Options To Spare"
-    excerpt: "Build various frame sizes and geometries, as well as several different popular sensors and companion computers."
+    excerpt: "Build various frame sizes and geometries with support for several different popular sensors and companion computers."
     url: "/docs/start/"
     btn_label: "Read More"
     btn_class: "btn--primary"
