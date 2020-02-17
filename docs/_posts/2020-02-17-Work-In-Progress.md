@@ -1,5 +1,6 @@
 ---
 title: "Welcome to devFrame docs"
+author_profile: true
 categories:
   - General
 tags:
