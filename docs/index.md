@@ -8,10 +8,33 @@ header:
   actions:
     - label: "Download"
       url: "https://github.com/goodrobots/devFrame/"
+feature_row:
+  - image_path: /assets/images/devFrame-base-frame-tubes.jpeg
+    alt: "devFrame parts with tubes"
+    title: "Spares To Spare"
+    excerpt: "Avoid vendor lock and lack of spare parts with Open Source 3D printed parts and off the shelf tubes."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/devFrame-internal-volume-example.jpeg
+    alt: "devFrame internal volume"
+    title: "Room To Spare "
+    excerpt: "Designed with a large internal volume, as well as room left over for battery, companion computer, and sensors."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/devFrame-mounts-example.jpeg
+    title: "Flexibility To Spare"
+    excerpt: "Support for various frame sizes and geometries, as well as several different popular sensors and companion computers.  And the standardized interfaces make it easy to add more."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
 ---
 
 ### Spend less time building and maintaining so you can spend more time developing and flying.
 The devFrame is a 3D printable, Open Source quadcopter and rover (coming soon) frame design.  Supports 300-500 class quadcopter frames in Stretch X, Hybrid X and H configurations, as well as skid steer rovers (coming soon).
+
+{% include feature_row %}
 
 ## Features
 - Open Source Hardware (CERN v2.0)
