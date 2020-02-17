@@ -23,6 +23,9 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 {{ part.description }} 
 
 {{ part.notes}}
+
+[View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.category | uri_escape }}/{{part.fileName | uri_escape}})
+
 {% endfor %}
 
 ## Carbon Fiber Tubes

@@ -16,8 +16,12 @@ description: >- # this means to ignore newlines
   Supports 300-500 class frames in Stretch X, Hybrid X and H configurations"
 url: "https://goodrobots.github.io"
 baseurl: "/devFrame"
-github_username: goodrobots
+stlurl: "/blob/master/stl/"
+
+# GitHub
+github_username: "goodrobots"
 repository: "goodrobots/devFrame"
+
 
 # Search (Lunr)
 search: true
