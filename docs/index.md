@@ -13,22 +13,22 @@ feature_row:
     alt: "devFrame parts with tubes"
     title: "Spares To Spare"
     excerpt: "Avoid vendor lock and lack of spare parts with Open Source 3D printed parts and off the shelf tubes."
-    url: "#test-link"
+    url: "/docs/start/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-internal-volume-example.jpeg
     alt: "devFrame internal volume"
     title: "Room To Spare "
-    excerpt: "Designed with a large internal volume, as well as room left over for battery, companion computer, and sensors."
-    url: "#test-link"
+    excerpt: "Designed with a large internal volume with room left over for battery, companion computer, and sensors."
+    url: "/docs/start/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-mounts-example.jpeg
-    title: "Flexibility To Spare"
-    excerpt: "Support for various frame sizes and geometries, as well as several different popular sensors and companion computers.  And the standardized interfaces make it easy to add more."
-    url: "#test-link"
+    title: "Options To Spare"
+    excerpt: "Support for various frame sizes and geometries, as well as several different popular sensors and companion computers."
+    url: "/docs/start/"
     btn_label: "Read More"
-    btn_class: "btn--inverse"
+    btn_class: "btn--primary"
 ---
 
 ### Spend less time building and maintaining so you can spend more time developing and flying.
