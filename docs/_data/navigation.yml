@@ -11,6 +11,8 @@ main:
 docs:
   - title: "Get Started"
     children:
+      - title: "Quick Start"
+        url: /docs/quick-start/
       - title: "Start At The End"
         url: /docs/start/
       - title: "3D Printing"
