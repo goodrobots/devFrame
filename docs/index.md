@@ -6,27 +6,27 @@ header:
   overlay_filter: "0.4"
   overlay_image: /assets/images/devFrame-front-wide.jpeg
   actions:
-    - label: "<i class='fab fa-github'></i>  Download Now"
-      url: "https://github.com/goodrobots/devFrame/"
+    - label: "Build It!"
+      url: "/docs/quickstart/"
 feature_row:
   - image_path: /assets/images/devFrame-base-frame-tubes.jpeg
     alt: "devFrame parts with tubes"
     title: "Spares To Spare"
     excerpt: "Avoid vendor lock and lack of spare parts with Open Source 3D printed parts, off the shelf tubes, and hardware store fasteners."
-    url: "/docs/start/"
+    url: "/docs/quickstart/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-internal-volume-example.jpeg
     alt: "devFrame internal volume"
     title: "Room To Spare "
     excerpt: "Enjoy a large internal volume with room left over for battery, companion computer, and sensors."
-    url: "/docs/start/"
+    url: "/docs/quickstart/"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/devFrame-mounts-example.jpeg
     title: "Options To Spare"
     excerpt: "Build various frame sizes and geometries with support for several different popular sensors and companion computers."
-    url: "/docs/start/"
+    url: "/docs/quickstart/"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
