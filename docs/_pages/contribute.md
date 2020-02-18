@@ -2,15 +2,8 @@
 title: "Contribute"
 permalink: /contribute/
 ---
-
 ## Background
-Goodrobots is a very small team of volunteers who like to build robot hardware and software under permissive open source licenses.  We do it for fun and to learn new things.  We can always use help in making things better.
-
 The devFrame is [licensed under the CERN OHL](https://github.com/goodrobots/devFrame/blob/master/License.md).  It is Open Source Hardware and intended to be hacked on.  However, it is still difficult to collaborate on an open source hardware project due to a lack of free tools and open file formats for parametric modeling.  The situation is getting better, but, for now, the easiest thing to do is to use a [GitHub workflow](https://guides.github.com/introduction/flow/) to clone the project and submit a pull request.   Just keep in mind that GitHub is not optmized for hardware project collaboration.  But we can make it work.
-
-## Comments And Questions
-Since we are a small team of volunteers we like to hang out on Gitter to answer any questions.  The devFrame has it's own channel: [![Gitter](https://badges.gitter.im/goodrobots/devframe.svg)](https://gitter.im/goodrobots/devframe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 
 ## Making The Docs Better
 If you have found typos, or spelling errors, or find something confusing in the docs please let us know by [filing an issue](https://github.com/goodrobots/devFrame/issues).  Creating the docs for this project took longer than designing the frame.  They are a key part to making this project useful, so please do let us know if you find any issues.  All devFrame docs live in the /docs folder and we are happy to accept Pull Requests for fixing spelling, broken links, etc. 
@@ -18,12 +11,12 @@ If you have found typos, or spelling errors, or find something confusing in the 
 ## Designing New Parts
 The devFrame has [standardized interfaces]({{ site.baseurl }}/docs/frame-details/#interfaces).  Like an API we will try very hard not to change the interface specs so you can design new mounts and accessories to these standards.  We have provided all parts in both stl and step format.  Step format is intented for those who would like to import into 3D CAD software for modification.  Please export any new parts in both stl and step formats for any Pull Requests.  
 
-## Community Builds
+## Hosting Community Builds
 If you have built and tested a devFrame we would really like to host the details.  It's one of our primary goals.  Most of the data in our build section is pulled from Google Sheets.  So if you can type a bit of information in a spreadsheet we can bring it into the site here for others to benefit.  Expect more details on this process as we refine the site and the workflow to contribute.  For now, a link to a short YouTube video and a copy of your parameter files is a great start. 
 
 ## Pull Requests
 
-New to git or rusty?  Have a look at [GitHub Flow](https://guides.github.com/introduction/flow/)
+New to git?  Have a look at [GitHub Flow](https://guides.github.com/introduction/flow/)
 
 To submit a pull request:
 

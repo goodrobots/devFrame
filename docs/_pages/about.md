@@ -3,31 +3,15 @@ permalink: /about/
 title: "About"
 ---
 
-Spend less time building and maintaining so you can spend more time developing and flying.  The devFrame incorporates the following features:
-- Open Source Hardware (CERN v2.0)
-- 3D printable components
-- Off the shelf carbon fiber tubes
-- Hardware store fasteners such as screws and zip ties
-- Standardized mechanical interfaces
-- Several ready to go mounts and adapters 
-- Minimize tool requirements
-- No specialist tools to build frame
-- No vendor lock
+## Background
+Goodrobots is a very small team of volunteers who like to build robot hardware and software under permissive open source licenses.  We do it for fun and to learn new things.  We can always use [help making things better]({{ site.baseurl }}/contribute/).
 
-Specifications
-- Size can scale from 300-500mm
-- X, Stretch X, Hybrid X, H Frame Geometry
-- Supports prop sizes from 5in to 10in
-- Supports up to 2kg flying weight
-- 10mm tube on 60mm spacing for off the shelf accessory mounts
-- 15mm and 30mm mounting hole spacing
+The devFrame project is intended to help democratize small robotic research and development by reducing barriers to entry.  We will achieve this by:
 
-Currently Supported Companion Computers and Sensors
-- RPi 0/3/4 Mounts and Covers
-- RPi Camera Module Mounts and Covers
-- NVIDIA Jetson Nano Mount
-- Benewake TFMini Mount
-- CUAV PXFlow Mount
-- mRo GPS (purple) Mount and Cover
-- Seeed Studio ThoneFlow Mount
-- Flight Controllers with 30.5mm x 30.5mm 
+- Providing a simple Open Source frame design that leverages 3D printing and off the shelf parts
+- Providing detailed information about the hardware build process for common use cases
+- Providing detailed information about the software configuration for common hardware setups 
+
+## Comments And Questions
+Since we are a small team of volunteers we like to hang out on Gitter to answer any questions.  The devFrame has it's own channel: [![Gitter](https://badges.gitter.im/goodrobots/devframe.svg)](https://gitter.im/goodrobots/devframe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
