@@ -1,6 +1,6 @@
 main:
   - title: "Docs"
-    url: /docs/start/
+    url: /docs/quick-start/
   - title: "News"
     url: /posts/
   - title: "Contribute"
