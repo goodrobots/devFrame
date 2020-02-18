@@ -2,8 +2,13 @@
 title: "Quick Start"
 permalink: /docs/quick-start/
 ---
+## The devFrame Is For...
 
-If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the Community Builds section if you are ready to go.  If not, have a read through the docs.
+Short answer:  Anyone who wants to build a small quadcopter or rover.
+
+Long answer:  Anyone building a small robot who needs or wants the flexibility of building from open source ecosystems while reducing barriers to entry.
+
+If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the Community Builds section if you are ready to go.  If not, have a full read through the docs.
 
 ## Basic Build Steps
 1. Plan your build:  Select the type, size, and configuration of your devFrame based on your requirements.

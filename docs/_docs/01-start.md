@@ -3,12 +3,6 @@ title: "Start At The End"
 permalink: /docs/start/
 ---
 
-## The devFrame Is For...
-
-Short answer:  Anyone who wants to build a small quadcopter or rover.
-
-Long answer:  Robot builders and developers who need or want the flexibility of building robots from open source ecosystems while reducing barriers to entry.
-
 ### Some Assumptions
 While we try to provide enough information to help you achieve your devFrame building goals we do make some assumptions about skill and motivation levels.  Building a robot from a kit is time consuming.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
 
