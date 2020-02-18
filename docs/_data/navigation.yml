@@ -6,7 +6,10 @@ main:
   - title: "Contribute"
     url: /contribute/
   - title: "About"
-    url: /about/  
+    url: /about/
+  - title: "Download"
+    url: "https://github.com/goodrobots/devFrame/archive/master.zip"
+      
  
 docs:
   - title: "Get Started"
@@ -57,4 +60,4 @@ docs:
         url: /builds/d440/
       - title: "d450 Kitchen Sink"
         url: /builds/d450/
-      
+  

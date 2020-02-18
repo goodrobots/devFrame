@@ -12,5 +12,5 @@ If you are an experienced builder, or just want a high level overview of how to 
 4. Build the hardware:  Put it all together.  We provide lots of pictures.
 5. Configure the software: We provide some advice, lots of links, and complete parameter files for common builds.
 6. Test it:  Make sure it works like it should.  Remember, smart is safe.
-7. Iterate:  Tweak as required - Luckily, the devFrame is pretty flexible and easy to tweak.
+7. Iterate:  Tweak as required.  Luckily, the devFrame is pretty flexible and easy to tweak.
 8. Contribute:  Enjoying your devFrame?  Cool!  Let us know and share your experience with the community.  It's good karma.
