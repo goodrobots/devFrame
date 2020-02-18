@@ -8,7 +8,7 @@ main:
   - title: "About"
     url: /about/
   - title: "Download"
-    url: "https://github.com/goodrobots/devFrame/archive/master.zip"
+    url: "https://github.com/goodrobots/devFrame/"
       
  
 docs:
