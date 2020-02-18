@@ -108,6 +108,7 @@ defaults:
         nav: "docs"
       toc: true
 
+# GH Pages compatible liquid archives
 category_archive:
   type: liquid
   path: /categories/
