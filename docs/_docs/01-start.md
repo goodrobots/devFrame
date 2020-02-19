@@ -24,7 +24,6 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 ### Logistics Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
 - What kind of stuff can you get easily?  Some parts easier to source in some areas.
-- How big can it be?  Max size, safety, regulations.
 - Do you need to ship it?  Max size, battery size
 - How will you ship or transport or store it?  Max size, case size, trunk/boot size
 - How will you charge batteries?  Bigger batteries, bigger chargers.
@@ -43,6 +42,7 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 
 ### Operational Requirements
 - Do you need to fly indoors?  Max size, energy, prop protection.
+- How big can it be?  Max size, safety, regulations.
 - How long do you need to fly?  Max size, battery size, drive efficiency, one or multiple flights.
 - Max endurance or max range?  Prop and/or battery selection, disk loading.
 - Weather and wind?  Size, power, disk loading, drag, IP rating.
