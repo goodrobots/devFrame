@@ -19,7 +19,6 @@ This list contains only your free and Open Source options.  There are other opti
 - [Maverick](https://github.com/goodrobots/maverick) -- The original Goodrobots project.  Maverick is in the process of being updated and will be the go to solution for getting companion computers doing cool things on robots.
 - [APSync](https://ardupilot.org/dev/docs/apsync-intro.html) -- Primarly a serial to WiFi bridge for companion computer to MAVLink based autopilots.  It provides data sync along with video streaming services.
 
-
 ## Searching
 Knowing how to use search is an important part of being a good internet citizen and community member.  For example, it is considered to be bad form to ask a question in a support forum that has already been asked, and likely answered.  It is expected that you have done some searching to find your own answers prior to asking.
 
@@ -37,14 +36,14 @@ We realize the devFrame is not your only option.  You could already own a frame 
 
 [OpenRC Truggy](https://github.com/bryancostanich/OpenRC/tree/master/Truggy) Is a Creative Commons licensed project that has an enthusiastic following.  Perhaps more support for the F1 variant, but the Truggy is likely a better fit for building a rover.  However, if you are not into RC cars this might be a bit advanced.
 
-[GetFPV TSA Student Frame](https://www.getfpv.com/student-5-quadcopter-frame-kit.html) -- Two layer design forms a nice box structure.  Can be hard to find and it's expenisive compared to other optioins.  But we still like tthe overall design intent.
+[GetFPV TSA Student Frame](https://www.getfpv.com/student-5-quadcopter-frame-kit.html) -- Two layer design forms a nice box structure.  Can be hard to find and it's expensive compared to other options.  But we still like the overall design intent.
 
 Any of the FlameWheel F450 clones.  Perhaps one of the cheapest 450 class frames out there.  Available on Amazon and other big market sites.  Just make sure to buy spare parts.  Or two sets of the frame for backup.
 
-## Where To Buy
+## Where To Buy Electronics
 We understand that many builders will be on a tight budget.  However, it is very easy to confuse value with price.  They are not the same.  Forums are filled with stories of cheap clones not working like they should.  Do your homework and spend wisely.
 
-Here is a list of vendors to browse.  It does not inlude Amazon or Banggood or other large market sites.  We order from them, but it is beyond the scope of these docs to keep track of who is selling what via their markets on any given day. We are not affiliated with any of these vendors.  This is simply a list of vendors we have purchased from in the past, and think they offer fair value with consistent support.  If you do not see your favorite vendor on the list let us know and we can see about adding them.
+Here is a list of vendors who specialize in small robotics and associated parts.  We are not affiliated with any of these vendors.  This is simply a list of vendors we have purchased from in the past, and think they offer fair value with consistent support.  If you do not see your favorite vendor on the list let us know and we can see about adding them.
 
 - [Blue Robotics](https://bluerobotics.com) -- Mostly ArduSub and ROV stuff, but still cool.  And who's to say the devFrame can't support a sub.
 - [Dimension Engineering](https://www.dimensionengineering.com) -- Good selection of power electronics such as motor drivers and regulators.
