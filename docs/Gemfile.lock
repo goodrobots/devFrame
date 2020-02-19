@@ -246,10 +246,10 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  activesupport (>= 4.1.11)
+  activesupport (~> 6.0, >= 6.0.2.1)
   github-pages
-  jekyll-include-cache
-  tzinfo-data
+  jekyll-include-cache (~> 0.2.0)
+  tzinfo-data (~> 1.2019, >= 1.2019.3)
 
 BUNDLED WITH
    2.1.2
