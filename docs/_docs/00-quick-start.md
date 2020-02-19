@@ -19,3 +19,16 @@ If you are an experienced builder, or just want a high level overview of how to 
 6. Test it:  Make sure it works like it should.  Remember, smart is safe.
 7. Iterate:  Tweak as required.  Luckily, the devFrame is pretty flexible and easy to tweak.
 8. Contribute:  Enjoying your devFrame?  Cool!  Let us know and share your experience with the community.  It's good karma.
+
+## Notes, Cautions and Warnings
+
+The following conventions are used throughout the devFrame docs.
+
+**Note** -- A Note is used to draw attention to important information.
+{: .notice--primary}
+
+**Caution** -- A Caution is used to draw attention to information or actions that may cause minor injury and/or damage to property.
+{: .notice--info}
+
+**WARNING** -- A WARNING is used to draw attention to information or actions that may cause serious injury and/or damage to property.
+{: .notice--warning}
