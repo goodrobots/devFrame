@@ -18,7 +18,7 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 
 ### Budget Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
-- Broke?  Smaller is usually cheaper.
+- Limited Budget?  Join the club.  Smaller is usually cheaper.  Expect to have at least $30 US in the frame; most of that is carbon fiber tube.  The rest depends on how you source the printed parts.
 - Going to use for...?  Align your goals and avoid bright shiny objects unless they meet said goals.
 
 ### Logistics Requirements
