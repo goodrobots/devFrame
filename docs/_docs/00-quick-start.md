@@ -6,7 +6,7 @@ permalink: /docs/quick-start/
 
 Short answer:  Anyone who wants to build a small quadcopter or rover.
 
-Long answer:  Anyone building a small robot who needs or wants the flexibility of building from open source ecosystems while reducing barriers to entry while increasing sustainability.
+Long answer:  Anyone building a small robot who needs or wants the flexibility of building from open source ecosystems while reducing barriers to entry and increasing sustainability.
 
 If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the Community Builds section if you are ready to go.  If not, have a full read through the docs.
 
