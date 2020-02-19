@@ -47,11 +47,7 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 - Max endurance or max range?  Prop and/or battery selection, disk loading.
 - Weather and wind?  Size, power, disk loading, drag, IP rating.
 
-## Example Builds
-
-We will post some examples builds and the thinking behind them here soon.
-
-
-
+## Examples
+Have a look at the Community Builds section to see some capabilites and limitations in action.
 
 
