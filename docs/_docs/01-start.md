@@ -41,7 +41,7 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 - What frequency(s) to use?  RC 900/2.4, WiFi 2.4/5.8, Analog 433/866/900.  Interference and regulations.
 - Do you have enough serial ports for all sensors, companions, comms?  More ports on some FC's than others.  
 
-### Performance Requirements
+### Operational Requirements
 - Do you need to fly indoors?  Max size, energy, prop protection.
 - How long do you need to fly?  Max size, battery size, drive efficiency, one or multiple flights.
 - Max endurance or max range?  Prop and/or battery selection, disk loading.
