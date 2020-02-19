@@ -48,6 +48,8 @@ To complete your build we provide step by step instructions to take you from a p
 - Minimize tool requirements
 - No specialist tools to build frame
 - No vendor lock
+- Step by step instructions
+- Full parameter files for common builds
 
 ## Specifications
 - Size can scale from 300-500mm
