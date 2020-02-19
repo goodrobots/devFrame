@@ -6,11 +6,11 @@ permalink: /docs/start/
 ### Some Assumptions
 While we try to provide enough information to help you achieve your devFrame building goals we do make some assumptions about skill and motivation levels.  Building a robot from a kit is time consuming.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
 
-We assume that you can either print the frame parts or have access to someone who can.   More information on 3D printing the frame parts can be found [here](/docs/printing/).
+We assume that you can either print the frame parts or have access to someone who can.   More information on 3D printing the frame parts can be found [here]({{ site.baseurl }}/docs/printing/).
 
-We assume that you are familiar with open source flight stacks such as ArduPilot or PX4.  We also assume that you know how to use [basic tools](/docs/tools/) such as screw drivers, and that you know how to solder.  Or know someone who does.  If you do not have skills with tools or a soldering iron we have provided some resources [here](/docs/resources/), as it's never too late to learn.
+We assume that you are familiar with open source flight stacks such as ArduPilot or PX4.  We also assume that you know how to use [basic tools]({{ site.baseurl }}/docs/tools/) such as screw drivers, and that you know how to solder.  Or know someone who does.  If you do not have skills with tools or a soldering iron we have provided some resources [here]({{ site.baseurl }}/docs/resources/), as it's never too late to learn.
 
-Overall, if we do not have the answer we will try to point you in the right direction to go find it.  If you feel like we missed something [let us know](/contribute/).  And remember, *search is your friend*.
+Overall, if we do not have the answer we will try to point you in the right direction to go find it.  If you feel like we missed something [let us know]({{ site.baseurl }}/contribute/).  And remember, *search is your friend*.
 
 
 ## Define Basic Requirements
