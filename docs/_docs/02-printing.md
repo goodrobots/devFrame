@@ -5,7 +5,7 @@ permalink: /docs/printing/
 All devFrame parts have been designed to print on a desktop printer; 5in x 5in build volume; in ABS; with no support material required.  All the parts are small enough they should not need a raft or brim.  We test all prints on a Lulzbot Mini with PEI print bed.
 
 ## Material Selection
-ABS, ABS or ABS.  At least you can pick a color.  Seriously, there may be materials like PETG claiming they are "ABS-like" or "ABS substitutes".  And they are probably pretty good.  Or at least nice to print.  But we have found nothing that compares to ABS in strength, toughness, durability, service temp, **and** price.  If you would like to experiment with materials, please let us know how it turns out.
+ABS, ABS or ABS.  At least you can pick a color.  Seriously, there may be materials like PETG claiming they are "ABS alternative" or "ABS substitute".  And they are probably pretty good.  Or at least nice to print.  But we have found nothing that compares to ABS in strength, toughness, durability, service temp, **and** price.  If you would like to experiment with materials, please let us know how it turns out.
 
 ## Public Resources
 If you do not have your own printer, or know someone who does makes sure you check around your area before you order from an online service.  You might be surprised.  Some places to check:
