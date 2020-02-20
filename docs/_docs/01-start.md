@@ -7,12 +7,10 @@ permalink: /docs/start/
 
 There are a few questions that should be answered before you begin your build.  To answer these questions it's best to start at the end and work backwards to define your requirements.  
 
-But before you do, we recommend you skim the rest of the docs to get familar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
+But before you do, we recommend you skim the rest of the docs to get familiar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
 
 How do you plan to use your robot?
 {: .notice--primary}
-
-The good news is the devFrame is designed to be very flexible and easy to change in size and configuration.  So if your first attempt does not meet your goals like you planned, you can iterate rather easily compared to most other frame options.
 
 Remember, good design is the right set of compromises to get the job done.  Perfect design has a name -- it's called Art -- leave that to the Artists while we go build stuff.  The following considerations are not a complete list, but should help you collect enough detail to start building.  Then iterate.
 
@@ -24,14 +22,12 @@ Remember, good design is the right set of compromises to get the job done.  Perf
 ### Logistics Requirements
 - Do you already have stuff?  Reduce, reuse, recycle.
 - What kind of stuff can you get easily?  Some parts easier to source in some areas.
-- Do you need to ship it?  Max size, battery size
 - How will you ship or transport or store it?  Max size, case size, trunk/boot size
-- How will you charge batteries?  Bigger batteries, bigger chargers.
 
 ### Data Requirements
 - What type of data do you need?  Payload type and size.  Companion type and size.
 - How do you plan to get the data? Logs, offboard, WiFi, analog.
-- How often do you need the data?  Realtime or post process.  Frames per second for video.  Time lag for EKF integration.
+- How fast/often do you need the data?  Realtime or post process.  Frames per second for video.  Time lag for EKF integration.
 - Do you need supplemental data?  Altitude, camera events, RTK GNSS.
 - How accurate does the data need to be?  LIDAR vs GPS Altitude vs barometer, L1 vs L1/L2 RTK GNSS.
 
