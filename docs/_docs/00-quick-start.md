@@ -3,7 +3,12 @@ title: "Quick Start"
 permalink: /docs/quick-start/
 ---
 ## The devFrame Is For...
-Anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems. 
+Anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
+
+The devFrame was designed to help you fail better.
+{: .notice--primary}
+
+It is designed to: Be easy and fast to build; take a beating; and generally help protect your gear while you are experimenting and innovating.  It is not the cheapest frame to build, but we think it's one of the best values out there.  
 
 If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the [build section]({{ site.baseurl }}/docs/basic-frame/) if you are ready to go.  If not, have a full read through the docs.
 
@@ -17,17 +22,20 @@ We assume that you are familiar with open source projects such as ArduPilot or P
 Overall, if we do not have the answer we will try to point you in the right direction to go find it.  If you feel like we missed something [let us know]({{ site.baseurl }}/contribute/).  And remember, *search is your friend*.
 
 ## Basic Build
-The most versatile size of devFrame is a 450mm wheel base.  This size runs well on 9 inch props and allows for room to carry a 3-4 cell battery, a companion such as Raspberry Pi 4, and a small payload such as a camera module for copmuter vision.  This is the size that is covered in the main docs on this site.  Other sizes and configurations are covered in Community Builds.  Have a look around and get a feel for what size and configuration meets your needs.  If you are not sure we recommend building a 450 per the docs.
+The most versatile size of devFrame is a 450mm wheel base.  This size runs well on 9 inch props and allows for room to carry a 3-4 cell battery, a companion such as Raspberry Pi 4, and a small payload such as a camera module for copmuter vision.  This is the size that is covered in the main docs on this site.  Other sizes and configurations are covered in Community Builds.  Have a look around and get a feel for what size and configuration meets your needs.  
+
+If you are not sure what size and config to build we recommend building a 450 class per the docs.
+{: .notice--primary}
 
 ### Basic Build Steps
-1. Plan your build:  Select the type, size, and configuration of your devFrame based on your requirements.
-2. Print your parts:  Print them yourself, or use a service, or barter with a friend who has a printer.
-3. Gather the parts and tools:  Make sure you have everything you need.
+1. **Plan your build** --  Select the type, size, and configuration of your devFrame based on your requirements.
+2. **Print your parts** --  Print them yourself, or use a service, or barter with a friend who has a printer.
+3. **Gather the parts and tools** --  Make sure you have everything you need.
 4. Build the hardware:  Put it all together.  We provide lots of pictures.
 5. Configure the software: We provide some advice, lots of links, and complete parameter files for common builds.
-6. Test it:  Make sure it works like it should.  Remember, smart is safe.
-7. Iterate:  Tweak as required.  Luckily, the devFrame is pretty flexible and easy to tweak.
-8. Contribute:  Enjoying your devFrame?  Cool!  Let us know and share your experience with the community.  It's good karma.
+6. **Test it** -- Make sure it works like it should.  Remember, smart is safe.
+7. **Iterate** -- Tweak as required.  Luckily, the devFrame is pretty flexible and easy to tweak.
+8. **Contribute** --  Enjoying your devFrame?  Cool!  Let us know and share your experience with the community.  It's good karma.
 
 ## Notes, Cautions and Warnings
 
