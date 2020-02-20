@@ -38,8 +38,8 @@ If you are not sure what size and config to build we recommend building a 450 cl
 1. **Plan your build** --  Select the type, size, and configuration of your devFrame based on your requirements.
 2. **Print your parts** --  Print them yourself, or use a service, or barter with a friend who has a printer.
 3. **Gather the parts and tools** --  Make sure you have everything you need.
-4. Build the hardware:  Put it all together.  We provide lots of pictures.
-5. Configure the software: We provide some advice, lots of links, and complete parameter files for common builds.
+4. **Build the hardware** --  Put it all together.  We provide lots of pictures.
+5. **Configure the software** -- We provide some advice, lots of links, and complete parameter files for common builds.
 6. **Test it** -- Make sure it works like it should.  Remember, smart is safe.
 7. **Iterate** -- Tweak as required.  Luckily, the devFrame is pretty flexible and easy to tweak.
 8. **Contribute** --  Enjoying your devFrame?  Cool!  Let us know and share your experience with the community.  It's good karma.
