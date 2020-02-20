@@ -2,18 +2,23 @@
 title: "Quick Start"
 permalink: /docs/quick-start/
 ---
-## The devFrame Is For...
-Anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
-
-The devFrame was designed to help you fail better.
-{: .notice--primary}
-
-It is designed to: Be easy and fast to build; take a beating; and generally help protect your gear while you are experimenting and innovating.  It is not the cheapest frame to build, but we think it's one of the best values out there.  
-
 If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the [build section]({{ site.baseurl }}/docs/basic-frame/) if you are ready to go.  If not, have a full read through the docs.
 
+## The devFrame Is ...
+For anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
+
+Designed to help you fail better.
+{: .notice--primary}
+
+Easy and fast to build; capable of taking a beating; and generally helps protect your gear while you are experimenting and innovating.
+
+### The devFrame Is Not ...
+The cheapest frame to build, but we think it's one of the best values out there.  
+
+Going to win any beauty contests.
+
 ### Some Assumptions
-While we try to provide enough information to help you achieve your devFrame building goals we do make some assumptions about skill and motivation levels.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
+While we try to provide enough information to help you achieve your devFrame building goals, we do make some assumptions about skill and motivation levels.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
 
 We assume that you can either print the frame parts, or have access to someone who can.   More information on 3D printing the frame parts can be found [here]({{ site.baseurl }}/docs/printing/).
 
@@ -22,7 +27,9 @@ We assume that you are familiar with open source projects such as ArduPilot or P
 Overall, if we do not have the answer we will try to point you in the right direction to go find it.  If you feel like we missed something [let us know]({{ site.baseurl }}/contribute/).  And remember, *search is your friend*.
 
 ## Basic Build
-The most versatile size of devFrame is a 450mm wheel base.  This size runs well on 9 inch props and allows for room to carry a 3-4 cell battery, a companion such as Raspberry Pi 4, and a small payload such as a camera module for copmuter vision.  This is the size that is covered in the main docs on this site.  Other sizes and configurations are covered in Community Builds.  Have a look around and get a feel for what size and configuration meets your needs.  
+The most versatile devFrame quadcopter is a 450mm wheel base.  This size runs well on 9 inch props, can carry a 3-4 cell battery in the 3000-5000mAhr range, fly for 15-25 minutes, has room for a companion such as Raspberry Pi, and can handle a small payload such as a camera module for computer vision.  This is the size that is covered in the main docs on this site.  Other sizes and configurations are covered in Community Builds.  Have a look around and get a feel for what size and configuration meets your needs.
+
+A 450 class is likely a very good start to any basic skid steer rover builds as well.  As we get more info on rover builds we will have a better feel for what works best.
 
 If you are not sure what size and config to build we recommend building a 450 class per the docs.
 {: .notice--primary}
