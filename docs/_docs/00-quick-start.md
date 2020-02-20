@@ -2,20 +2,19 @@
 title: "Quick Start"
 permalink: /docs/quick-start/
 ---
-If you are an experienced builder, or just want a high level overview of how to build a devFrame, this is the spot to start.  Skip to the [build section]({{ site.baseurl }}/docs/basic-frame/) if you are ready to go.  If not, have a full read through the docs.
+This is a high level overview of how to build a devFrame.  Skip to the [build section]({{ site.baseurl }}/docs/basic-frame/) if you are ready to go.  If not, have a full read through the docs.
 
 ## The devFrame Is ...
-For anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
+... For anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
 
-Designed to help you fail better.
-{: .notice--primary}
+... Easy and fast to build, capable of taking a beating, and helps protect your gear while you are experimenting and innovating.
 
-Easy and fast to build; capable of taking a beating; and generally helps protect your gear while you are experimenting and innovating.
+... Designed to help you fail better.
 
 ### The devFrame Is Not ...
-The cheapest frame to build, but we think it's one of the best values out there.  
+... The cheapest frame to build, but we think it's one of the best values out there.  
 
-Going to win any beauty contests.
+... Going to win any beauty contests.
 
 ### Some Assumptions
 While we try to provide enough information to help you achieve your devFrame building goals, we do make some assumptions about skill and motivation levels.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
