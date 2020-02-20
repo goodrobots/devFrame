@@ -3,11 +3,17 @@ title: "Resources"
 permalink: /docs/resources/
 ---
 ## Software
-This list contains only your free and Open Source options.  There are other options, but these are the main projects we keep track of for use with devFrame.  Please note we do not provide support for any of these prjects outside of what is documented to get the devFrame flying or roving.
+This list contains only your free and Open Source options.  There are other options, but these are the main projects we feel are a good match for use with devFrame.  
+
+Note -- We only provide support for Goodrobot projects.  We highly recommend joining the forums and support channels for the projects you use.
+{: .notice--primary}
 
 ### Autopilot Firmware
-- [ArduPilot](https://ardupilot.org) -- We primarly use ArduPilot but try to remain agnostic as to what software you run on the devFrame.  An independent project licensed under GPLv3.
-- [PX4](https://px4.io) -- Open Source flight control software licensed under BSD 3-Clause, which can make it more attractive for commerical use.  Part of Dronecode and Linux Foundation.
+- [ArduPilot](https://ardupilot.org) -- An independent Open Source project licensed under GPLv3.  ArduPilot is very flexible and supports a variety of robot types and configurations.  Our initial documentation will cover ArduPilot, but we do have plans to better support PX4.  
+- [PX4](https://px4.io) -- Open Source flight control software licensed under BSD 3-Clause.  Part of Dronecode and Linux Foundation.
+
+Note -- There can be big differences in Open Source licenses.  If you think it matters, make sure you do your homework.  If it really matters you likely need a lawyer.
+{: .notice--primary}
 
 ### Ground Control Software (GCS)
 - [Maverick Web](https://github.com/goodrobots/maverick-web) -- A sister project from Goodrobots.  Still in early development.  When it's done it will be a web based GCS.
@@ -35,7 +41,7 @@ Here is a list of vendors who specialize in small robotics and associated parts.
 
 - [Blue Robotics](https://bluerobotics.com) -- Mostly ArduSub and ROV stuff, but still cool.  And who's to say the devFrame can't support a sub.
 - [Dimension Engineering](https://www.dimensionengineering.com) -- Good selection of power electronics such as motor drivers and regulators.
-- [GetFPV](https://www.getfpv.com) -- If they don't have it, you probably don't need it.  Good source for motors, speed controls.  They also carry PixHawk branded stuff.
+- [GetFPV](https://www.getfpv.com) -- Good source for smaller motors, speed controls, and flight controllers.  They also carry PixHawk branded stuff.
 - [IR-Lock](https://irlock.com) -- An ArduPilot Partner with PixHawk, IR Lock and other sensors.
 - [Myan Robotics (mRo)](https://mrobotics.io) -- One of the only US manufacturers of flight controllers and sensors for the DIY and custom markets.  Founded by Jordi Munoz, co-founder of 3D Robotics back when...well, that's another story.  
 - [Pololu](https://www.pololu.com) -- Robot kits and parts.  Big selection and they have added a custom laser cutting service, which is cool.
