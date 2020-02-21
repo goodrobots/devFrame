@@ -97,6 +97,7 @@ defaults:
       sidebar:
         nav: "docs"
       toc: true
+      toc_sticky: true
 
   # _builds
   - scope:
@@ -107,6 +108,7 @@ defaults:
       sidebar:
         nav: "docs"
       toc: true
+      toc_sticky: true
 
 # GH Pages compatible liquid archives
 category_archive:
