@@ -25,8 +25,20 @@ Note -- There can be big differences in Open Source licenses.  If you think it m
 - [Maverick](https://github.com/goodrobots/maverick) -- The original Goodrobots project.  Maverick is in the process of being updated and will be the go to solution for getting companion computers doing cool things on robots.
 - [APSync](https://ardupilot.org/dev/docs/apsync-intro.html) -- Primarly a serial to WiFi bridge for companion computer to MAVLink based autopilots.  It provides data sync along with video streaming services.
 
+## Hardware
+Like software, this is not an exhaustive list, but some of the more popular hardware in use.
+
+### Autopilot Hardware
+- [Pixhawk](https://pixhawk.org) Is an independent open harware project.  It helps set the stanadrd for the flight controllers most of use.
+- [F4/F7/Linux](https://ardupilot.org/copter/docs/common-autopilots.html) ArduPilot now supports many different flight controllers.  Most of these come from the FPV community.  
+
+### Companion Computers
+- [Raspberry Pi](https://www.raspberrypi.org) The SBC that sets the standard for the Maker community.  Can you say "support".
+- [Up Core](https://up-board.org/upcore/specifications/) More money than a RasPi but also more powerful.  Intel architecture can make it easier to find drivers, libraires etc.
+- [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)  The Nano Developer Kit has become pretty popular for copmuter vision on a budget.
+
 ## Searching
-Knowing how to use search is an important part of being a good internet citizen and community member.  For example, it is considered to be bad form to ask a question in a support forum that has already been asked, and likely answered.  It is expected that you have done some searching to find your own answers prior to asking.
+Knowing how to use search is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
 
 ## Soldering
 Owning or having access to quality soldering tools is a must for building your own robot.  Knowing how to use them correctly is just as important as owning them. [Here's a really good tutorial](https://www.makerspaces.com/how-to-solder/).  And plenty of videos on the web.  Do not underestimate the importance of helping hands and/or jigs to hold things in place while you solder.
