@@ -7,7 +7,7 @@ There are a few questions that should be answered before you begin your build.  
 
 But before you do, we recommend you skim the rest of the docs to get familiar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
 
-How do you plan to use your robot?
+**How do you plan to use your robot?**
 {: .notice--primary}
 
 Remember, good design is the right set of compromises to get the job done.  Perfect design has a name -- it's called Art -- leave that to the Artists while we go build stuff.  The following considerations are not a complete list, but should help you collect enough detail to start building.  Then iterate.

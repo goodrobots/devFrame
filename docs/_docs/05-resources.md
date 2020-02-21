@@ -43,6 +43,9 @@ Knowing how to use search is an important part of being a good internet citizen,
 ## Soldering
 Owning or having access to quality soldering tools is a must for building your own robot.  Knowing how to use them correctly is just as important as owning them. [Here's a really good tutorial](https://www.makerspaces.com/how-to-solder/).  And plenty of videos on the web.  Do not underestimate the importance of helping hands and/or jigs to hold things in place while you solder.
 
+Note -- We have some example kit for soldering and crimping over on our [Required Tools page]({{ site.baseurl }}/docs/tools/#solder-and-crimp).
+{: .notice--primary}
+
 ## Crimping
 Crimping pins is not a requirement, but can be a very handy skill to have.  Perhaps the most ubiquitous crimp pin is the Dupont style servo pin.  Here is a fascinating and detailed guide to [getting your crimps right](https://www.instructables.com/id/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/).
 
