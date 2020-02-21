@@ -29,13 +29,13 @@ Note -- There can be big differences in Open Source licenses.  If you think it m
 Like software, this is not an exhaustive list, but some of the more popular hardware in use.
 
 ### Autopilot Hardware
-- [Pixhawk](https://pixhawk.org) Is an independent open hardware project.  It helps set the standard for the flight controllers in the open source community.
-- [F4/F7/Linux](https://ardupilot.org/copter/docs/common-autopilots.html) ArduPilot now supports many different flight controllers.  Most of these come from the FPV community.  
+- [Pixhawk](https://pixhawk.org) -- Is an independent open hardware project.  It helps set the standard for the flight controllers in the open source community.
+- [F4/F7/Linux](https://ardupilot.org/copter/docs/common-autopilots.html) -- ArduPilot now supports many different flight controllers.  Most of these come from the FPV community.  
 
 ### Companion Computers
-- [Raspberry Pi](https://www.raspberrypi.org) The SBC that sets the standard for the Maker community with an easy to install OS and prime features that just work.  
-- [Up Core](https://up-board.org/upcore/specifications/) More money than RPi but also more powerful.  Intel architecture can make it easier to find drivers, libraries etc.
-- [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)  The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
+- [Raspberry Pi](https://www.raspberrypi.org) -- The SBC that sets the standard for the Maker community with an easy to install OS and prime features that just work.  
+- [Up Core](https://up-board.org/upcore/specifications/) -- More money than RPi but also more powerful.  Intel architecture can make it easier to find drivers, libraries etc.
+- [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -- The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
 
 ## Searching
 Knowing how to use search is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
