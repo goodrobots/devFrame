@@ -2,13 +2,13 @@
 title: "Frame Details"
 permalink: /docs/frame-details/
 ---
+![d450 Base Frame]({{ site.baseurl }}/assets/images/d450/d450-base-frame.jpeg){: .align-center width="80%"}
+
 The devFrame is designed as a simple box truss using printed parts on each end to clamp four tubes running between the ends.  It provides a very strong structure with large internal volume, and minimal weight penalty when making the box longer. 
 
 ![Box End]({{site.baseurl}}/assets/images/devFrame-front-wide.jpeg){: width="80%" .align-center}
 
 The carbon fiber tubes are 10mm diameter on the box frame and 10mm or 12mm for the arm tubes.  10mm arm tubes are recommended for smaller and lighter builds up to about 400mm wheelbase, while 12mm arm tubes can be used when building +400mm wheelbase frames.
-
-The 10mm box tubes are spaced 60mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
 
 ## Interfaces
 The devFrame has adopted a 15mm on center spacing for mounting accessories.  There are also some parts such as the cross mounts which provide a range of 7.5mm on center hole spacing.  The parts provide either through holes or pilot holes using this spacing.
@@ -25,6 +25,8 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 
 ![Arm Tube Clamp Top View]({{site.baseurl}}/assets/images/frame-details/arm-tube-clamp-top.jpeg){: width="80%" .align-center} *Top view of Arm Tube Clamp showing dual mounting options*
 {: .text-center}
+
+The 10mm box tubes are spaced 60mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
 
 ## 3D Printed Parts
 ### Frame Parts
@@ -44,9 +46,9 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 
 {% endfor %}
 
-#### Arm Mounts
+### Arm Mounts
 
-#### Accesory Mounts
+### Accesory Mounts
 
 
 ## Carbon Fiber Tubes
