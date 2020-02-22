@@ -16,7 +16,7 @@ The devFrame has adopted a 15mm on center spacing for mounting accessories.  The
 ![Cross Mounts]({{site.baseurl}}/assets/images/frame-details/cross-mount-x2.jpeg){: width="80%" .align-center} *Cross Mounts with pilot holes*
 {: .text-center} 
 
-In general, when you see an accessory mount for the devFrame it is typically adapting 15mm mounting hole spacing to whatever spacing is required to mount the accessory.
+In general, when you see an accessory mount for the devFrame, it is typically adapting 15mm mounting hole spacing to whatever spacing is required to mount the accessory.
 
 ![Mount Examples]({{site.baseurl}}/assets/images/frame-details/mount-examples.jpeg){: width="80%" .align-center} *Mount assortment showing various through hole patterns*
 {: .text-center}
@@ -71,3 +71,29 @@ Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  
 {: .text-center}  
 
 ## Fasteners
+![Fastner Overview]({{site.baseurl}}/assets/images/frame-details/fastener-overview.jpeg){: width="40%" .align-left} The devFrame has been designed to use common fasteners, such as panhead screws, to the maximum extent possible.  These types of fasteners should be available at any hardware store.
+
+### Common Sizes
+- #6 x 1in for Box Ends
+- #6 x 3/4in for Arm Mounts
+- #4 x 1/2in for Accessory Mounts
+
+The detailed build documentation should call out the size and quantity of fastener required for each step in building the frame.
+
+Most sensors and companion computers can be mounted with #2 or #4 screws, depending on mounting hole size. 
+
+There are some sensors that have small mounting holes and will require #0/M1.5 screws.  These can be a bit harder to find at local stores.  If you are having a hard time finding them check for eye glass repair kits as they often include small screws.
+
+### Imperial to Metric 
+
+Gauge | Millimeter
+--- | ---
+#0 | 1.5
+#1 | 1.8
+#2 | 2.2
+#3 | 2.5
+#4 | 3
+#6 | 3.5
+
+Note -- Conversion from Imperial decimal diameter to metric may not be exact.  Clearance and pilot holes in the DevFrame should allow for either Imperial or Metric screws.  Some drilling for clearance holes may be required.
+{: .notice--primary}
