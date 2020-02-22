@@ -13,27 +13,41 @@ The 10mm box tubes are spaced 60mm on center laterally so they are compatible wi
 ## Interfaces
 The devFrame has adopted a 15mm on center spacing for mounting accessories.  There are also some parts such as the cross mounts which provide a range of 7.5mm on center hole spacing.  The parts provide either through holes or pilot holes using this spacing.
 
-![Cross Mounts]({{site.baseurl}}/assets/images/frame-details/cross-mount-x2.jpeg){: width="60%" .align-center}
+![Cross Mounts]({{site.baseurl}}/assets/images/frame-details/cross-mount-x2.jpeg){: width="80%" .align-center} *Cross Mounts with pilot holes*
+{: .text-center} 
 
 In general, when you see an accessory mount for the devFrame it is typically adapting 15mm mounting hole spacing to whatever spacing is required to mount the accessory.
 
-![Mount Examples]({{site.baseurl}}/assets/images/frame-details/mount-examples.jpeg){: width="60%" .align-center}
+![Mount Examples]({{site.baseurl}}/assets/images/frame-details/mount-examples.jpeg){: width="80%" .align-center} *Mount assortment showing various through hole patterns*
+{: .text-center}
 
 The Arm Tube Clamps support mounting either perpindicular to the centerline, as in an H Frame, or at a 30deg angle for Stretch X.
 
-![Arm Tube Clamp Top View]({{site.baseurl}}/assets/images/frame-details/arm-tube-clamp-top.jpeg){: width="60%" .align-center}
+![Arm Tube Clamp Top View]({{site.baseurl}}/assets/images/frame-details/arm-tube-clamp-top.jpeg){: width="80%" .align-center} *Top view of Arm Tube Clamp showing dual mounting options*
+{: .text-center}
 
 ## 3D Printed Parts
-### Frame
+### Frame Parts
 {% for part in site.data.printedParts %}
+
 #### {{ part.name }} 
+
+{% if part.imageName %}
+  ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
+{% endif -%}
 {{ part.description }} 
+{: .text-left}
 
 {{ part.notes}}
 
-[View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.category | uri_escape }}/{{part.fileName | uri_escape}})
+[View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}})
 
 {% endfor %}
+
+#### Arm Mounts
+
+#### Accesory Mounts
+
 
 ## Carbon Fiber Tubes
 The devFrame requires the use of roll wrapped carbon fiber tubes.  They are not very cheap but they are very strong and light.  We are using metric tube sizes to help with international sourcing of tubes.
