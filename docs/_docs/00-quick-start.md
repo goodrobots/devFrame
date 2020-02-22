@@ -14,8 +14,6 @@ This is a high level overview of how to build a devFrame.  Skip to the [build se
 ### The devFrame is not ...
 ... the [cheapest frame](https://www.readymaderc.com/products/details/flame-wheel-f450-frame-kit) to build, but we think it's one of the best values out there.  
 
-... going to win any beauty contests.  FYI, Google search favors an [egg](https://www.bhphotovideo.com/c/product/1276884-REG/power_vision_pvrpe00a_poweregg_aerial_drone_with.html) but we like [this one from DeX](https://dexmodels.com/dex-nuke/).
-
 ### Some Assumptions
 While we try to provide enough information to help you achieve your devFrame building goals, we do make some assumptions about skill and motivation levels.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
 
