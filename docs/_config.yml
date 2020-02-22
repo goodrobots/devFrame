@@ -23,7 +23,7 @@ repository: "goodrobots/devFrame"
 
 # Search (Lunr)
 search: true
-search_full_content: false
+search_full_content: true
 
 # Markdown 
 markdown: kramdown
