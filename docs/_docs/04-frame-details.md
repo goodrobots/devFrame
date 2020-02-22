@@ -4,22 +4,24 @@ permalink: /docs/frame-details/
 ---
 The devFrame is designed as a simple box truss using printed parts on each end to clamp four tubes running between the ends.  It provides a very strong structure with large internal volume, and minimal weight penalty when making the box longer. 
 
-![Box End]({{site.baseurl}}/assets/images/devFrame-front-wide.jpeg){: width="80%".align-center}
+![Box End]({{site.baseurl}}/assets/images/devFrame-front-wide.jpeg){: width="80%" .align-center}
 
-The carbon fiber tubes are 10mm diameter on the box frame and 10mm or 12mm for the arm tubes.  10mm arm tubes are recommended for smaller and lighter builds up to about 400mm wheelbase, while 12mm arm tubes can be used when building +400mm wheelbase frames or rovers.
+The carbon fiber tubes are 10mm diameter on the box frame and 10mm or 12mm for the arm tubes.  10mm arm tubes are recommended for smaller and lighter builds up to about 400mm wheelbase, while 12mm arm tubes can be used when building +400mm wheelbase frames.
+
+The 10mm box tubes are spaced 60mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
 
 ## Interfaces
-The devFrame has adopted a 15mm on center spacing for mounting accessories.  There are also some parts such as the cross mounts which provide 30mm on center hole spacing.
+The devFrame has adopted a 15mm on center spacing for mounting accessories.  There are also some parts such as the cross mounts which provide a range of 7.5mm on center hole spacing.  The parts provide either through holes or pilot holes using this spacing.
 
-![image goes here]()
+![Cross Mounts]({{site.baseurl}}/assets/images/frame-details/cross-mount-x2.jpeg){: width="60%" .align-center}
 
 In general, when you see an accessory mount for the devFrame it is typically adapting 15mm mounting hole spacing to whatever spacing is required to mount the accessory.
 
-![image goes here]()
+![Mount Examples]({{site.baseurl}}/assets/images/frame-details/mount-examples.jpeg){: width="60%" .align-center}
 
 The Arm Tube Clamps support mounting either perpindicular to the centerline, as in an H Frame, or at a 30deg angle for Stretch X.
 
-![image goes here]()
+![Arm Tube Clamp Top View]({{site.baseurl}}/assets/images/frame-details/arm-tube-clamp-top.jpeg){: width="60%" .align-center}
 
 ## 3D Printed Parts
 ### Frame
@@ -49,6 +51,7 @@ Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  
 **Caution** -- Using pultruded carbon fiber tubes is not supported as the clamping force created by the clamps can cause failure of the tube, and the frame itself.
 {: .notice--info}
 
-![Roll Wrapped vs Pultruded Tubes]({{site.baseurl}}/assets/images/frame-details/roll-wrapped-vs-pultruded.jpeg){: width="80%".align-center}  A roll wrapped tube on left vs a pultruded tube on right.
+![Roll Wrapped vs Pultruded Tubes]({{site.baseurl}}/assets/images/frame-details/roll-wrapped-vs-pultruded.jpeg){: width="80%" .align-center} A roll wrapped tube on left vs a pultruded tube on right.
+{: .text-center}  
 
 ## Fasteners
