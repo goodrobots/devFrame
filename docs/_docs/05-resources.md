@@ -2,6 +2,8 @@
 title: "Resources"
 permalink: /docs/resources/
 ---
+This page contains links to resources that can help you complete and maintain a devFrame build.
+
 ## Software
 This list contains only your free and Open Source options.  There are other options, but these are the main projects we feel are a good match for use with devFrame.  
 
