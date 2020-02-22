@@ -49,6 +49,9 @@ Note -- We have some example kit for soldering and crimping over on our [Require
 ## Crimping
 Crimping pins is not a requirement, but can be a very handy skill to have.  Perhaps the most ubiquitous crimp pin is the Dupont style servo pin.  Here is a fascinating and detailed guide to [getting your crimps right](https://www.instructables.com/id/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/).
 
+## Cables And Connectors
+Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.  
+
 ## Where To Buy Electronics
 We understand that many builders will be on a tight budget.  However, it is very easy to confuse value with price.  They are not the same.  Forums are filled with stories of cheap clones not working like they should.  Do your homework and spend wisely.
 
