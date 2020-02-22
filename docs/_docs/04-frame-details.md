@@ -42,7 +42,7 @@ The 10mm box tubes are spaced 60mm on center laterally so they are compatible wi
 
 {{ part.notes}}
 
-[View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}})
+[3D View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}}){: .btn .btn--inverse}
 
 {% endfor %}
 
@@ -53,6 +53,7 @@ The 10mm box tubes are spaced 60mm on center laterally so they are compatible wi
 
 ## Carbon Fiber Tubes
 The devFrame requires the use of roll wrapped carbon fiber tubes.  They are not very cheap but they are very strong and light.  We are using metric tube sizes to help with international sourcing of tubes.
+### Sizes 
 - 10mm carbon fiber tubes are used for the box frame, and arms for smaller builds [Amazon](https://www.amazon.com/dp/B015Z1RU6U/) or [eBay](https://www.ebay.com/itm/2pcs-10MM-OD-X-8MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Glossy-US/133002010164)
 - 12mm carbon fiber tubes are used for the arms of larger builds [Amazon](https://www.amazon.com/dp/B00TF8V05W/) or [eBay](https://www.ebay.com/itm/1-4pcs-12MM-OD-X-10MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Tubing-/132362184137)
 
@@ -71,9 +72,12 @@ Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  
 {: .text-center}  
 
 ## Fasteners
-![Fastner Overview]({{site.baseurl}}/assets/images/frame-details/fastener-overview.jpeg){: width="40%" .align-left} The devFrame has been designed to use common fasteners, such as panhead screws, to the maximum extent possible.  These types of fasteners should be available at any hardware store.
+![Fastner Overview]({{site.baseurl}}/assets/images/frame-details/fastener-overview.jpeg){: width="40%" .align-left} The devFrame has been designed to use common fasteners to the maximum extent possible.  Pan head screws in various sizes should be available at any hardware store.
 
-### Common Sizes
+Note -- Fastener nomenclature can be confusing.  The devFrame is intended to be used with pan head screws with a pointed end and Phillips drive style.  They are sometimes called sheet metal screws or self tapping.
+{: .notice--primary}
+
+### Sizes
 - #6 x 1in for Box Ends
 - #6 x 3/4in for Arm Mounts
 - #4 x 1/2in for Accessory Mounts
