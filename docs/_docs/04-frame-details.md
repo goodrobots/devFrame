@@ -35,12 +35,12 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 
 ## Carbon Fiber Tubes
 The devFrame requires the use of roll wrapped carbon fiber tubes.  They are not very cheap but they are very strong and light.  We are using metric tube sizes to help with international sourcing of tubes.
-- 10mm carbon fiber tubes are used for the box frame, and arms for smaller builds [Buy here]
-- 12mm carbon fiber tubes are used for the arms of larger builds [Buy here]
+- 10mm carbon fiber tubes are used for the box frame, and arms for smaller builds [Amazon](https://www.amazon.com/dp/B015Z1RU6U/) or [eBay](https://www.ebay.com/itm/2pcs-10MM-OD-X-8MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Glossy-US/133002010164)
+- 12mm carbon fiber tubes are used for the arms of larger builds [Amazon](https://www.amazon.com/dp/B00TF8V05W/) or [eBay](https://www.ebay.com/itm/1-4pcs-12MM-OD-X-10MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Tubing-/132362184137)
 
 Each build will list the details of tube lengths and sizes used, but in general two 500mm lengths *each* of 10mm and 12mm should be enough to build a 450 class devFrame.
 
-Note -- Tube sizes are given in outside diameter.  You may see tubes listed as 8mmx10mmx500mm, which means they have an 8mm inside diameter (ID), 10mm outside diameter (OD), and 500mm length.
+Note -- Tube sizes are given in outside diameter.  Wall thickness should be 1mm.  You may see tubes listed as 8mmx10mmx500mm, which means they have an 8mm inside diameter (ID), 10mm outside diameter (OD), and 500mm length.
 {: .notice--primary}
 
 Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  This results in tight tolerances for the ID (matching the mandrel size) but the OD may vary depending on manufacture.  The devFrame is designed to handle some tolerances but you need to check your tube diameters to ensure a good clamping fit. 
@@ -49,6 +49,6 @@ Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  
 **Caution** -- Using pultruded carbon fiber tubes is not supported as the clamping force created by the clamps can cause failure of the tube, and the frame itself.
 {: .notice--info}
 
-![image here]()
+![Roll Wrapped vs Pultruded Tubes]({{site.baseurl}}/assets/images/frame-details/roll-wrapped-vs-pultruded.jpeg){: width="80%".align-center}  A roll wrapped tube on left vs a pultruded tube on right.
 
 ## Fasteners
