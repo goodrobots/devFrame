@@ -2,7 +2,7 @@
 title: "Required Tools"
 permalink: /docs/tools/
 ---
-Caution -- Glue is sticky, knives are sharp, and soldering irons are hot!  Seriously.  Wear safety glasses and pay attention to what you are doing with the business end of any tool.
+**Caution** -- Glue is sticky, knives are sharp, and soldering irons are hot!  Seriously.  Wear safety glasses and pay attention to what you are doing with the business end of any tool.
 {: .notice--info}
 
 ## The Basics
