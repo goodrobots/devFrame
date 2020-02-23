@@ -19,7 +19,7 @@ There are only two different profiles we use for devFrame parts:
 
 In general, if it's a small part such as a sensor mount, or it is going to see a lot of stress like a motor mount, we will use Solid.  Otherwise, everything is printed using the Standard profile.
 
-Note -- The [Frame Details]({{ site.baseurl }}/docs/frame-details/) section of the docs lists each part and respective print setting.
+Note -- The [Frame Details]({{ site.baseurl }}/docs/frame-details/#frame) section of the docs lists each part and respective print setting.
 {: .notice--primary}
 
 
