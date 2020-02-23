@@ -44,7 +44,7 @@ Like software, this is not an exhaustive list, but some of the more popular hard
 - [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -- The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
 
 ## Searching
-Knowing how to use search is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
+[Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
 
 ## Soldering
 Owning or having access to quality soldering tools is a must for building your own robot.  Knowing how to use them correctly is just as important as owning them. [Here's a really good tutorial](https://www.makerspaces.com/how-to-solder/).  And plenty of videos on the web.  Do not underestimate the importance of helping hands and/or jigs to hold things in place while you solder.
