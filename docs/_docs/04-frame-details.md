@@ -38,7 +38,6 @@ The following is a detailed list of currently available printed parts with build
 
 #### {{ part.name }}
 
-
 {% if part.imageName %}
 ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
 {% endif -%}
@@ -53,34 +52,41 @@ The following is a detailed list of currently available printed parts with build
 ---
 {:style="clear: left"} 
 
-
 {% endif %}
 
 {% endfor %}
 
 ### Arm Mounts
-The mounts you use for the arms depdn on the size of arm tube you use.  10mm and 12mm arm tubes are currently supported.
+The mounts you use for the arms depend on the size of arm tube you select.  10mm and 12mm arm tubes are currently supported.
 
 {% for part in site.data.printedParts %}
-  {% if part.subFolder == "10mm Arm Tube" or part.subFolder == "12mm Arm Tube" %}
+
+{% if part.subFolder == "10mm Arm Tube" or part.subFolder == "12mm Arm Tube" %}
+
 #### {{ part.name }} 
-  {% if part.imageName %}
-  ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
-  {% endif -%}
 
-  {{ part.description }} 
-  {: .text-left}
+{% if part.imageName %}
+![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
+{% endif -%}
 
-  {{ part.notes}}
+[3D View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{ part.subFolder | uri_escape }}/{{part.fileName | uri_escape}}){: .btn .btn--inverse}
+{: .text-center}
 
- [3D View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}}){: .btn .btn--inverse}
+*Description:*  {{ part.description }} 
 
- {% endif %}
+*Notes:*  {{ part.notes }}
+
+---
+{:style="clear: left"} 
+
+{% endif %}
 
 {% endfor %}
 
-### Accesory Mounts
-Various accessory mounts have been designed for sensors and copmanion computers.  There are also some generic mounts to help complete a build.
+### Accessory Mounts
+Various accessory mounts have been designed for sensors and companion computers.  There are also some generic mounts that are very helpful to complete a build.
+
+[View and download mounts here](https://github.com/goodrobots/devFrame/tree/master/stl/Accessory%20Mounts)
 
 
 ## Carbon Fiber Tubes
