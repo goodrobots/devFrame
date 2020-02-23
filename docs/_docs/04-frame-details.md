@@ -29,26 +29,56 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 The 10mm box tubes are spaced 60mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
 
 ## 3D Printed Parts
-### Frame Parts
+The following is a detailed list of currently available printed parts with build notes and print settings.
+
+### Frame 
 {% for part in site.data.printedParts %}
+
+{% if part.folder == "Frame" and part.subFolder == undefined %}
 
 #### {{ part.name }} 
 
 {% if part.imageName %}
-  ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
+![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
 {% endif -%}
-{{ part.description }} 
-{: .text-left}
-
-{{ part.notes}}
 
 [3D View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}}){: .btn .btn--inverse}
+{: .text-center}
+
+*Description:*  {{ part.description }} 
+{: .text-left}
+
+*Notes:*  {{ part.notes}}
+
+---
+
+{% endif %}
 
 {% endfor %}
 
 ### Arm Mounts
+The mounts you use for the arms depdn on the size of arm tube you use.  10mm and 12mm arm tubes are currently supported.
+
+{% for part in site.data.printedParts %}
+  {% if part.subFolder == "10mm Arm Tube" or part.subFolder == "12mm Arm Tube" %}
+#### {{ part.name }} 
+  {% if part.imageName %}
+  ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
+  {% endif -%}
+
+  {{ part.description }} 
+  {: .text-left}
+
+  {{ part.notes}}
+
+ [3D View and Download]({{ site.github.repository_url }}{{ site.stlurl }}{{ part.folder | uri_escape }}/{{part.fileName | uri_escape}}){: .btn .btn--inverse}
+
+ {% endif %}
+
+{% endfor %}
 
 ### Accesory Mounts
+Various accessory mounts have been designed for sensors and copmanion computers.  There are also some generic mounts to help complete a build.
 
 
 ## Carbon Fiber Tubes
