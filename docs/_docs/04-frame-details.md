@@ -49,6 +49,8 @@ The following is a detailed list of currently available printed parts with build
 
 *Notes:*  {{ part.notes }}
 
+*Print Profile:*  [{{ part.print}}]({{ site.baseurl }}/docs/printing/#print-settings)
+
 ---
 {:style="clear: left"} 
 
@@ -76,6 +78,8 @@ The mounts you use for the arms depend on the size of arm tube you select.  10mm
 
 *Notes:*  {{ part.notes }}
 
+*Print Profile:*  [{{ part.print}}]({{ site.baseurl }}/docs/printing/#print-settings)
+
 ---
 {:style="clear: left"} 
 
@@ -85,6 +89,8 @@ The mounts you use for the arms depend on the size of arm tube you select.  10mm
 
 ### Accessory Mounts
 Various accessory mounts have been designed for sensors and companion computers.  There are also some generic mounts that are very helpful to complete a build.
+
+*Print Profile:*  [Solid]({{ site.baseurl }}/docs/printing/#print-settings)
 
 [View and download mounts here](https://github.com/goodrobots/devFrame/tree/master/stl/Accessory%20Mounts)
 
