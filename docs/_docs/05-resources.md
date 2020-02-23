@@ -29,7 +29,7 @@ Note -- There can be big differences in Open Source licenses.  If you think it m
 
 ### Related Projects
 - [Yaapu Telemetry](https://github.com/yaapu/FrskyTelemetryScript) -- An Open Source LUA script designed to run on OpenTX compatible transmitters such as FrSky and Jumper.  It provides MAVLink telemetry directly to your radio via the RC link.  
-- [OpenTX](https://www.open-tx.org) Open Source firmware for FrSky and Jumper transmitters.
+- [OpenTX](https://www.open-tx.org) Open Source firmware for FrSky and Jumper RC transmitters.
 
 ## Hardware
 Like software, this is not an exhaustive list, but some of the more popular hardware in use.
