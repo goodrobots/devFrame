@@ -36,7 +36,8 @@ The following is a detailed list of currently available printed parts with build
 
 {% if part.folder == "Frame" and part.subFolder == undefined %}
 
-#### {{ part.name }} 
+#### {{ part.name }}
+
 
 {% if part.imageName %}
 ![{{ part.name }}]({{site.baseurl}}/assets/images/frame-details/{{ part.imageName }}){: width="40%" .align-left}
@@ -46,11 +47,12 @@ The following is a detailed list of currently available printed parts with build
 {: .text-center}
 
 *Description:*  {{ part.description }} 
-{: .text-left}
 
-*Notes:*  {{ part.notes}}
+*Notes:*  {{ part.notes }}
 
 ---
+{:style="clear: left"} 
+
 
 {% endif %}
 
