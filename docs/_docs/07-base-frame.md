@@ -1,11 +1,7 @@
 ---
 title: "Basic Frame"
-permalink: /docs/basic-frame/
+permalink: /docs/base-frame/
 ---
-## Intro
-How to build a 450 class quadcopter devFrame with following specs:
-
-[devFrame Basic Frame Overview Video]
 
 In this section we will turn this pile of parts
 

@@ -28,12 +28,12 @@ docs:
         url: /docs/resources/  
   - title: "Build Hardware"
     children:
-      - title: "Basic Frame"
-        url: /docs/basic-frame/
-      - title: "Power Distribution"
-        url: /docs/power-distro/
-      - title: "Motors and ESC's"
-        url: /docs/motors-esc/
+      - title: "Build Intro"
+        url: /docs/build-intro/
+      - title: "Base Frame"
+        url: /docs/base-frame/
+      - title: "Power, Motors, ESC's"
+        url: /docs/power-motors-escs/
       - title: "Flight Controller"
         url: /docs/flight-controller/
       - title: "Receiver, GPS and Sensors"

@@ -2,7 +2,7 @@
 title: "Quick Start"
 permalink: /docs/quick-start/
 ---
-This is a high level overview of how to build a devFrame.  Skip to the [build section]({{ site.baseurl }}/docs/basic-frame/) if you are ready to go.  If not, have a full read through the docs.
+This is a high level overview of how to build a devFrame.  Skip to the [build section]({{ site.baseurl }}/docs/build-intro/) if you are ready to go.  If not, have a full read through the docs.
 
 ## The devFrame is ...
 ... for anyone building a small robot, with access to a 3D printer and a few basic tools, who needs or wants the flexibility of building from open source ecosystems.
