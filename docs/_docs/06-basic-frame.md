@@ -2,50 +2,59 @@
 title: "Basic Frame"
 permalink: /docs/basic-frame/
 ---
+## Intro
+How to build a 450 class quadcopter devFrame with following specs:
 
-[DevFrame Video Overview](https://youtu.be/XWqMvIaoH-s)
+[devFrame Basic Frame Overview Video]
 
-## Printed Parts, ABS
+In this section we will turn this pile of parts
 
-(2) DevFrame Box End Clamp A Roll Cage<sup>1</sup>
+![photo]
 
-(2) DevFrame Box End Clamp A<sup>1</sup>
+Into this base frame asssembly
 
-(4) DevFrame Box End Clamp B<sup>1</sup>
+![photo]
 
-(4) DevFrame Arm Tube Clamp<sup>3</sup>
+### Printed Parts, ABS
 
-(8) DevFrame Motor Mount Half<sup>2</sup> (Plain or with Guards) 
+Qty | Part | Notes 
+---|---|---
+2 | Box End Roll Cage | 
+2 | Box End Rounded | 
+4 | Box End Square | 
+4 | Arm Tube Mount 12mm | 
+2 | Landing Gear | 
+4 | Landing Gear Caps | Optional 
+8 | Motor Mount Half 12mm | 
+6 | Cross Mount | 
+1 | mRo GPS Mount | Per choice of GPS 
+1 | mro GPS Cover | Optional 
+1 | Benewake TFMini Mount | Optional 
 
-(6) DevFrame Cross Mount Wishbone<sup>1</sup> (Total required depends on build)
 
-(2) DevFrame Landing Gear<sup>2</sup> (Suggest printing spares) 
- 
-_Suggested Print Settings_
-1. _0.3mm Layer Height, 2 Perimeters, 50% Infill_
-2. _0.3mm Layer Height, 2 Perimeters, Solid_
-3. _0.3mm Layer Height, 3 Perimeters, 50% Infill_
+### Pan Head Screws (aka Sheet Metal and Self Tapping)
 
-## Screws, Sheet Metal (aka Pan Head and Self Tapping)
-(16) #6 x 1in (M3.5 x 25mm) | Box End Clamps
+Qty | Size | Note
+--- | --- | ---
+16 | #6 x 1in (M3.5 x 25mm) | Box End Clamps
+8 | #6 x 3/4in (M3.5 x 20mm) | Arm Tube Clamps
+4 | #4 x 1/2in (M3 x 12mm) | Landing Gear
 
-(8) #6 x 3/4in (M3.5 x 20mm) | Arm Tube Clamps
+### Machine Screws 
 
-(4) #4 x 1/2in (M3 x 12mm) | Landing Gear
+Qty | Size | Note
+--- | --- | ---
+8 | M3 x 22mm  |  Motor Mounts
 
-## Machine Screw
+### Carbon Fiber Tube, Roll Wrapped
 
-(8) M3 x 18-20mm  |  Motor Mounts
+Qty | Size | Note
+--- | --- | ---
+4 | 10mm OD x 250mm long | Supports 9in props and ~5000mAHr lipo
+4 |  170mm long | Supports 9in props
 
-## Carbon Fiber Tube, Roll Wrapped, 10mm OD
-
-### 300 Class
-(8) 125mm long
-
-### 500 Class
-(8) 180mm long
-
-_Length of tube can vary depending on design intent.  Above figures are for standard stretch X configs._
+Note -- Length of tube can vary depending on design intent.  Above figures are for standard stretch X config.
+{: .notice--primary}
 
 ## Misc
 * Small zipties
