@@ -129,23 +129,81 @@ Note - The Arm Tube Mounts are identical for all arms.  This means you will need
 
 ## Step 3 - Assemble Box Ends
 ![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-01.jpeg){: width="60%" .align-center}
+In this step we will assemble the box ends.  You will need:
+- (4) Arm Tube Assemblies (the parts from last step)
+- (2) Box End Round
+- (4) Box End Square
+- (2) Box End Roll Cage
+- (16) #6 x 1in Pan Head Screw
+- Ruler
+- #2 Phillips screwdriver
 
-### Box End Bottom
+Note -- Do not fully tigthen screws in this step.  We will tighten them in Step 5 when we install the frame tubes.
+{: .notice--primary} 
+
+### 3.1 Box End Bottom
 ![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-02.jpeg){: width="60%" .align-center}
+We will start on the bottom of the Box Ends.  Remember, we are on the bottom so are working upside down for now.
+- We will do this one set and arm at a time.  
+- Match and align holes on a Box End Square and Box End Rounded.
+- Place a #6 x 1in screw through each of the two holes as pictured.
+- Align screws with the two holes on an Arm Tube Assembly (one of the parts from last step).
+
+Note -- The devFrame can support different arm geometries so there is an extra hole in the Arm Tube Mount.  We used a black marker on the desired holes for this build, which will give us 30 deg arm sweep.  See image above.
+{: .notice--primary} 
+
+- With the holes in the Arm Tube Mount and screws from the Box End Bottom aligned, start, but do NOT completely tighten, the screws.  Engage just enough threads to hold our assemblies together.
+- Repeat for opposite end of Box End Bottom.  Pay attention to orientation of each arm.  We want a stretch X, not another letter of the alphabet.
+- Repeat entire step for opposite Box End.
+
 ![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-03.jpeg){: width="60%" .align-center}
+You should now have two assemblies as pictured above.   
 
-
-### Box End Top
+### 3.2 Box End Top
 ![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-01.jpeg){: width="60%" .align-center}
+In this step we are going to assemble and attach the top parts of the Box Ends.
 ![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-02.jpeg){: width="60%" .align-center}
+- We will do this step one end at a time
+- Flip over one of your assemblies from the last step so it is right side up.
+- Align holes of a Box End Roll Cage and Box End Square.
+- Place a #6 x 1in screw through each of the two holes as pictured.
+- With the holes in the Arm Tube Mount and screws from the Box End Top aligned, start, but do NOT completely tighten, the screws.  Engage just enough threads to hold our assemblies together.
+- Repeat for opposite end of Box End Top.  
+- Repeat entire step for opposite Box End.
+
 ![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-03.jpeg){: width="60%" .align-center}
+You should now have two assemblies that look like the ones pictured above.  We are almost there.
 
 ## Step 4 - Install Box Tubes
 
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-01.jpeg){: width="60%" .align-center}
+In this step we will clamp the 10mm frame tubes to the Box Ends.  If you fully tightened the screws from the previous Box End steps go ahead and loosen them up.  Told you.  We'll wait.  You will need:
+- (2) Box End Assemblies (parts from last step)
+- (4) 10mm x 250mm Carbon Fiber Tubes
+- #2 Phillips screwdriver
+- Ruler
+
+Note -- You are about to tighten more screws.  Take your time and do not over tighten.  
+{: .notice--primary} 
+
+Note -- There is enough surface area in the clamps to self-align the tubes to an extent.  But it helps if you can make sure the frame is true and square while you tighten everything up if you have a nice flat bench on which to work.
+{: .notice--primary} 
+
+### 4.1 Box End Top
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-02.jpeg){: width="60%" .align-center}
+- We will start on the top/rear and then move to top/front.  So, time to pick a front and rear.
+- At this point there is really no difference in the assemblies, but we will install tubes with staggered overhang, so pick one to be a Box End Rear.
+- Place (2) 10mm tubes into the Box End Rear Assembly as pictured above.  
+- Align the end of the tubes so they are flush with the outside of the Box End Rear.
+- Slowly tighten the top screws of the Box End Rear to engage the clamps.  Again, if you get it wrong just loosen and do it again.  No worries. Unless you over tighten.
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-03.jpeg){: width="60%" .align-center}
+- Slide the Box End Front on the two tubes you clamped to the Box End Rear in the last step.
+- Use the ruler to measure about 180mm from outside to outside of the Box End Assemblies.  See photo.
+- Once in place you can slowly tighten the top screws of the Box End Front to engage the clamps.
+- Roll the entire assembly over and repeat for bottom frame tubes.
+
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="60%" .align-center}
+When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's updside down.  For next step.  Duh.)
 
 ## Step 5 - Install Landing Gear
 
