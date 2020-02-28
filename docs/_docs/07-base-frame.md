@@ -52,21 +52,27 @@ Note -- Length of tube can vary depending on design intent.  Above figures are f
 
 ## Step 1 - Cut Tubes 
 ![Measure Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-01.jpeg){: width="60%" .align-center}
-In this step we will measure, mark and cut the carbon fiber tubes for both the box and arms.
+In this step we will measure, mark and cut the carbon fiber tubes for both the box and arms.  You will need:
+- (2) 10mm x 500mm Carbon Fiber Tube (or enough to get (4) x 250mm tubes)
+- (2) 12mm x 500mm Carbon Fiber Tube (or enough to get (4) x 170mm tubes)
+- Ruler
+- Marker
+- Masking tape (optional but makes this step easier)
+- Hacksaw or rotary tool with cutoff wheel
 
 ---
 {:style="clear: left"} 
 
-### Measure and Mark Tubes
+### 1.1 Measure and Mark Tubes
 ![Mark Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-02.jpeg){: width="60%" .align-center}
-#### 10mm Tube
+#### 1.1.1 10mm Tube
 - You need four lengths of 10mm tube at 250mm length
 - If you have two 500mm lengths of 10mm tube you are essentially cutting them in half.
 - Use ruler to measure 250mm length
 - To help make a clean cut you can use tape to wrap at 250mm
 - Otherwise, use marker to mark tubes at 250mm
 
-#### 12mm Tube
+#### 1.1.2 12mm Tube
 - You need four lengths of 12mm tube at 170mm length.  These tubes can be up to 190mm length if you would like to run 10in props. 
 - Use ruler to measure 170mm length
 - To help make a clean cut you can use tape to wrap tube at 170mm
@@ -75,7 +81,7 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 ---
 {:style="clear: left"} 
 
-### Cut Tubes To Length
+### 1.2 Cut Tubes To Length
 ![Cutting Tubes]({{ site.baseurl }}/assets/images/basic-frame/cutting-tube.jpeg){: width="60%" .align-center}
 Using a hacksaw or rotary tool with cutoff wheel cut the tubes to the marked lengths.  Take your time and rotate the tube as you make the cut.
 
@@ -85,7 +91,7 @@ Note -- Don't forget safety glasses and a dust mask.  And carefully clean up any
 ---
 {:style="clear: left"} 
 
-### Tubes Complete
+### 1.3 Tubes Complete
 ![Tubes Complete]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-03.jpeg){: width="60%" .align-center}
 At the end of this step you should have eight total tubes:
 - (4) 10mm x 250mm
@@ -96,10 +102,30 @@ At the end of this step you should have eight total tubes:
 
 ## Step 2 - Assemble Arm Tube Mounts
 ![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-01.jpeg){: width="60%" .align-center}
+In this step we will join the arms tubes and Arm Tube Mounts.  You will need:
+- (4) 12mm x 170mm Carbon Fiber Arm Tubes
+- (4) Arm Tube Mounts
+- (8) #6 x 3/4in Pan Head Screws
+- #2 Phillips screwdriver
 
+### 2.1 Clamp Arm Tube Mounts
 ![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-02.jpeg){: width="60%" .align-center}
+- We will do these one at a time
+- Insert a 12mm carbon fiber arm tube into Arm Tube Mount.
+- Noting orientation of tube and mount insert the tube until it is flush on the end of the mount.  The screwdriver is pointing at the ziptie slot which should always be on the inside when the tubes are installed.
 
+Note - Do not overtighten the screws in the frame or you could cause them to strip, or the parts to crack.  After installing a few you will get a feel for how much force is required.  Take your time.
+{: .notice--primary}  
+
+- Use (2) #6 x 3/4in panhead screws to clamp the tube in place.
+- Repeat three more times.
+
+### 2.2 Arm Tube Mounts Complete
 ![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-03.jpeg){: width="60%" .align-center}
+At the end of this step you should have four Arm Tube Mounts with arm tubes clamped.
+
+Note - The Arm Tube Mounts are identical for all arms.  This means you will need to rotate them so that two have screw heads up and two have screw heads down.  See image above.  Note how ziptie slots are always to inside.
+{: .notice--primary} 
 
 ## Step 3 - Assemble Box Ends
 ![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-01.jpeg){: width="60%" .align-center}
