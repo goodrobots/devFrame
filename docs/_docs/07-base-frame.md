@@ -200,6 +200,8 @@ Note -- There is enough surface area in the clamps to self-align the tubes to an
 - Slide the Box End Front on the two tubes you clamped to the Box End Rear in the last step.
 - Use the ruler to measure about 180mm from outside to outside of the Box End Assemblies.  See photo.
 - Once in place you can slowly tighten the top screws of the Box End Front to engage the clamps.
+
+### 4.2 Box End Bottom
 - Roll the entire assembly over and repeat for bottom frame tubes.
 
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="60%" .align-center}
