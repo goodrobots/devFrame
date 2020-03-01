@@ -15,6 +15,7 @@ Into this base frame asssembly...
 The following should be everything you need to build the base frame.
 
 ### Printed Parts, ABS
+[Part Details]({{ site.baseurl}}/docs/frame-details/#3d-printed-parts)
 
 Qty | Part | Notes 
 ---|---|---

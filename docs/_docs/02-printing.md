@@ -2,7 +2,9 @@
 title: "3D Printing Basics"
 permalink: /docs/printing/
 ---
-All devFrame parts have been designed to print on a small desktop printer capable of printing in ABS.  No support material, raft or brim is required to print any of the parts.  We test all prints on a Lulzbot Mini with PEI print bed.
+All devFrame parts have been designed to print on a small desktop printer capable of printing in ABS.  No support material, raft or brim is required to print any of the parts.  We test print all parts on a Lulzbot Mini.
+
+For a full list of printed parts, with links to download stl files, please see the [Frame Details]({{ site.baseurl }}/docs/frame-details/#3d-printed-parts) page.
 
 ## Material Selection
 ABS, ABS or ABS.  At least you can pick a color.  We have found nothing that compares to ABS in strength, toughness, durability, service temp, **and** price.  If you would like to experiment with materials, please let us know how it turns out.
