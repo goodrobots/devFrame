@@ -183,15 +183,15 @@ In this step we will clamp the 10mm frame tubes to the Box Ends.  If you fully t
 - #2 Phillips screwdriver
 - Ruler
 
-Note -- You are about to tighten more screws.  Take your time and do not over tighten.  
-{: .notice--primary} 
-
 Note -- There is enough surface area in the clamps to self-align the tubes to an extent.  But it helps if you can make sure the frame is true and square while you tighten everything up if you have a nice flat bench on which to work.
+{: .notice--primary}
+
+Note -- We have chosen to leave the frame tubes long so they will extend beyond the Box Ends.  This helps avoid wasting tube, and provides extra space to hang more gear.  We suggest building as documented in this section before you decide whether to modify tube length.
 {: .notice--primary} 
 
 ### 4.1 Box End Top
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-02.jpeg){: width="60%" .align-center}
-- We will start on the top/rear and then move to top/front.  So, time to pick a front and rear.
+- We will start on the top/rear and then move to top/front.  So, time to pick a front and rear Box End.
 - At this point there is really no difference in the assemblies, but we will install tubes with staggered overhang, so pick one to be a Box End Rear.
 - Place (2) 10mm tubes into the Box End Rear Assembly as pictured above.  
 - Align the end of the tubes so they are flush with the outside of the Box End Rear.
@@ -204,15 +204,32 @@ Note -- There is enough surface area in the clamps to self-align the tubes to an
 ### 4.2 Box End Bottom
 - Roll the entire assembly over and repeat for bottom frame tubes.
 
+Note -- We build this with extra top tube length extending out the front and bottom tubes sticking out the rear.  This is to provide extra room to mount gear beyond both front and rear box ends.  You can change this later if desired.
+{: .notice--primary} 
+
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="60%" .align-center}
-When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's updside down.  For next step.  Duh.)
+When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's updside down.  For next step.)
 
 ## Step 5 - Install Landing Gear
 
 ![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-01.jpeg){: width="60%" .align-center}
+In this step we will install the Landing Gear.  They are optional if you do not need the ground clearance, but we have found them to be very good at keeping wet grass out of electronics and sensors.  You will need:
+- Base Frame Assembly from last step
+- (2) Landing Gear
+- (4) Landing Gear Cap TPU (optional, but really help make it bounce better)
+- (4) #4 x 1/2in Pan Head Screw
+- #1 Phillips screwdriver
+
 ![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-02.jpeg){: width="60%" .align-center}
+- We will do this one end at a time.  Make sure your Base Frame is upside down.
+- Place a #4 x 1/2in screw through each of the two holes on a Landing Gear
+- Align the screws with the holes in the bottom a Box End.  Either one.
+- Tighten the screws.
+- Repeat for other Box End and Landing Gear.
+- Flip it over and admire your work!
 
-
+## Base Frame Complete
 ![Complete Base Frame]({{ site.baseurl }}/assets/images/basic-frame/base-frame-complete.jpeg){: width="80%" .align-center}
+Congrats!  Grab your favorite beverage on admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes as required.  In the next section we will start loading it up with gear.
 
 
