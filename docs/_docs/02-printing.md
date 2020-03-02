@@ -15,11 +15,11 @@ Note -- Some print services do not offer ABS as an option.  PETG or other coploy
 There are some optional parts, such as Landing Gear Feet, that are designed to be flexible, and should be printed in TPE/TPU.  Just look for TPU at the end of the file name.
 
 ## Print Settings
-There are only two different profiles we use for devFrame parts:
+There are only two profiles we use for devFrame parts:
  - Solid -- 0.3mm layer height, 2 perimeters, 100% infill
  - Standard -- 0.3mm layer height, 2 perimeters, 50% infill
 
-In general, if it's a small part such as a sensor mount, or it is going to see a lot of stress like a motor mount, we will use Solid.  Otherwise, everything is printed using the Standard profile.
+We use Solid if it's a small part such as a sensor mount, or it is going to see a lot of stress like a motor mount.  Otherwise, everything is printed using the Standard profile.
 
 Note -- The [Frame Details]({{ site.baseurl }}/docs/frame-details/#frame) section of the docs lists each part and respective print setting.
 {: .notice--primary}
