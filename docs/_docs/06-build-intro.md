@@ -52,10 +52,14 @@ Pan head, Phillips or hex drive
 Qty | Size | Note
 --- | --- | ---
 8 | M3 x 22mm  |  Motor Mounts
+4 | M3 x 20mm | PixRacer mounting 
 
 ### Standoffs
 
-Qty | 
+Qty | Size | Notes
+--- | --- | ---
+4 | M3 x 6mm(minimum) | Anti-Vibration type
+4 | M3 x 4mm(minimum) | Nylon Male to Female
 
 ### Carbon Fiber Tube, Roll Wrapped
 
@@ -69,7 +73,8 @@ Note -- Length of tube can vary depending on design intent.  Above figures are f
 
 ### Power, Motors, ESCs
 
-### Flight Controller and Sensors
+### Flight Controller, Sensors, Cables
+
 
 ### Misc Parts
 * Small zipties
@@ -91,7 +96,7 @@ Note -- Length of tube can vary depending on design intent.  Above figures are f
 - Adjustable wrench
 
 ## Support Equipment
-- FrSky Transmitter 
+- RC Transmitter running OpenTX
 - PC or laptop 
 - USB to micro USB cable 
 
