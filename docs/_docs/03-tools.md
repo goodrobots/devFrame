@@ -34,7 +34,7 @@ Similar to what is pictured:
 Soldering jigs are pretty easy to build to save a few quid.  Take a close look at the picture above and you will see a block of wood with clothes pins glued on.  Works well to get started.  If you have it in the budget then buy something fancy.  It's worth it.
 
 ## Other Tools
-While you do not need everything on the list, it will be a good idea to start adding them to your collection as soon as possible.  Remember, tools are an investment.
+While you do not need everything on the list below, it will be a good idea to start adding them to your collection as soon as possible.  Remember, tools are an investment.
 - Drill Bits -- Small ones to clean out clearance holes.  You can usually spin them with your fingers to get the job done but a small cordless drill is very nice to have.
 - Drill -- A small cordless can be used all over the house.
 - Rotary Tool -- With abrasive cutoff wheel can cut tubes.  Can also stand in for a small drill.

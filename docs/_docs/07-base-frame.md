@@ -232,5 +232,3 @@ In this step we will install the Landing Gear.  They are optional if you do not 
 ## Base Frame Complete
 ![Complete Base Frame]({{ site.baseurl }}/assets/images/basic-frame/base-frame-complete.jpeg){: width="80%" .align-center}
 Congrats!  Grab your favorite beverage and admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes as required.  In the next section we will start loading it up with gear.
-
-
