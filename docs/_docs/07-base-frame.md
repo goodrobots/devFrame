@@ -30,8 +30,8 @@ Qty | Part | Notes
 
 Qty | Size | Note
 --- | --- | ---
-16 | #6 x 1in (M3.5 x 25mm) | Box End Clamps
-8 | #6 x 3/4in (M3.5 x 20mm) | Arm Tube Clamps
+16 | #6 x 1in (M3.5 x 25mm) | Box Ends
+8 | #6 x 3/4in (M3.5 x 20mm) | Arm Tube Mounts
 4 | #4 x 1/2in (M3 x 12mm) | Landing Gear
 
 ### Carbon Fiber Tube, Roll Wrapped
@@ -41,19 +41,19 @@ Qty | Size | Note
 4 | 10mm OD x 250mm long | Supports 9in props and ~5000mAHr lipo
 4 |  170mm long | Supports 9in props
 
-Note -- Length of tube can vary depending on design intent.  Above figures are for standard stretch X config.
+Note -- Length of tube can vary depending on design intent.  Above figures are for standard stretch X config.  If this is your first devFrame build we suggest building per docs.  You can tweak it later.
 {: .notice--primary}
 
 ### Tools
 - Ruler
 - Marker
-- Masking tape (optinal)
+- Masking tape (optional)
 - Hacksaw or rotary tool with cutoff wheel
 - #1 and #2 Phillips screwdriver
 
 ## Step 1 - Cut Tubes 
 ![Measure Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-01.jpeg){: width="60%" .align-center}
-In this step we will measure, mark and cut the carbon fiber tubes for both the box and arms.  You will need:
+In this step we will measure, mark and cut the carbon fiber tubes for both the box frame and arms.  You will need:
 - (2) 10mm x 500mm Carbon Fiber Tube (or enough to get (4) x 250mm tubes)
 - (2) 12mm x 500mm Carbon Fiber Tube (or enough to get (4) x 170mm tubes)
 - Ruler
@@ -67,14 +67,14 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 ### 1.1 Measure and Mark Tubes
 ![Mark Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-02.jpeg){: width="60%" .align-center}
 #### 1.1.1 10mm Tube
-- You need four lengths of 10mm tube at 250mm length
+- We will create four lengths of 10mm tube at 250mm length
 - If you have two 500mm lengths of 10mm tube you are essentially cutting them in half.
 - Use ruler to measure 250mm length
 - To help make a clean cut you can use tape to wrap at 250mm
 - Otherwise, use marker to mark tubes at 250mm
 
 #### 1.1.2 12mm Tube
-- You need four lengths of 12mm tube at 170mm length.  These tubes can be up to 190mm length if you would like to run 10in props. 
+- We will create four lengths of 12mm tube at 170mm length.  These tubes can be up to 190mm length if you would like to run 10in props. 
 - Use ruler to measure 170mm length
 - To help make a clean cut you can use tape to wrap tube at 170mm
 - Otherwise, use marker to mark tubes at 170mm 
@@ -111,21 +111,21 @@ In this step we will join the arms tubes and Arm Tube Mounts.  You will need:
 
 ### 2.1 Clamp Arm Tube Mounts
 ![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-02.jpeg){: width="60%" .align-center}
-- We will do these one at a time
-- Insert a 12mm carbon fiber arm tube into Arm Tube Mount.
-- Noting orientation of tube and mount insert the tube until it is flush on the end of the mount.  The screwdriver is pointing at the ziptie slot which should always be on the inside when the tubes are installed.
+- We will assemble these one at a time.
+- Insert a 12mm carbon fiber arm tube into an Arm Tube Mount.
+- Noting orientation of tube and mount, insert the tube until it is flush on the end of the mount.  The screwdriver is pointing at the ziptie slot which should always be on the inside when the tubes are installed.
 
-Note - Do not overtighten the screws in the frame or you could cause them to strip, or the parts to crack.  After installing a few you will get a feel for how much force is required.  Take your time.
+Note - Do not overtighten the screws in the frame or you could cause the parts to strip or crack.  After installing a few you will get a feel for how much force is required.  Take your time.
 {: .notice--primary}  
 
-- Use (2) #6 x 3/4in panhead screws to clamp the tube in place.
+- Use (2) #6 x 3/4in pan head screws to clamp the tube in place.
 - Repeat three more times.
 
 ### 2.2 Arm Tube Mounts Complete
 ![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-03.jpeg){: width="60%" .align-center}
 At the end of this step you should have four Arm Tube Mounts with arm tubes clamped.
 
-Note - The Arm Tube Mounts are identical for all arms.  This means you will need to rotate them so that two have screw heads up and two have screw heads down.  See image above.  Note how ziptie slots are always to inside.
+Note - The Arm Tube Mounts are identical for all arms.  This means when you assemble them to the Box Ends you will need to rotate them so that two have screw heads up and two have screw heads down.  See image above.  Note how ziptie slots are always to inside.
 {: .notice--primary} 
 
 ## Step 3 - Assemble Box Ends
@@ -139,7 +139,7 @@ In this step we will assemble the box ends.  You will need:
 - Ruler
 - #2 Phillips screwdriver
 
-Note -- Do not fully tigthen screws in this step.  We will tighten them in Step 5 when we install the frame tubes.
+Note -- Do not fully tigthen screws in this step.  We will tighten them in Step 4 when we install the frame tubes.
 {: .notice--primary} 
 
 ### 3.1 Box End Bottom
@@ -231,6 +231,6 @@ In this step we will install the Landing Gear.  They are optional if you do not 
 
 ## Base Frame Complete
 ![Complete Base Frame]({{ site.baseurl }}/assets/images/basic-frame/base-frame-complete.jpeg){: width="80%" .align-center}
-Congrats!  Grab your favorite beverage on admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes as required.  In the next section we will start loading it up with gear.
+Congrats!  Grab your favorite beverage and admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes as required.  In the next section we will start loading it up with gear.
 
 

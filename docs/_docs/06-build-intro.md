@@ -20,6 +20,7 @@ This section of the docs will cover the details of a 450 class quadcopter devFra
 The following should be everything you need to build this frame.  Might be good to print and use as checklist.
 
 ### Printed Parts
+[Part Details]({{ site.baseurl}}/docs/frame-details/#3d-printed-parts)
 
 Qty | Part | Notes 
 ---|---|---
@@ -33,7 +34,7 @@ Qty | Part | Notes
 6 | Cross Mount | 
 1 | mRo GPS Mount | Per choice of GPS 
 1 | mro GPS Cover | Optional 
-1 | Benewake TFMini Mount | Optional 
+1 | Benewake TFMini Mount Angle | Optional 
 
 
 ### Sheet Metal Screws 
@@ -41,8 +42,8 @@ Pan head, Phillips drive, pointed end
 
 Qty | Size | Note
 --- | --- | ---
-16 | #6 x 1in (M3.5 x 25mm) | Box End Clamps
-8 | #6 x 3/4in (M3.5 x 20mm) | Arm Tube Clamps
+16 | #6 x 1in (M3.5 x 25mm) | Box Ends 
+8 | #6 x 3/4in (M3.5 x 20mm) | Arm Tube Mounts
 4 | #4 x 1/2in (M3 x 12mm) | Landing Gear
 
 ### Machine Screws
