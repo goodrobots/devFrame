@@ -143,5 +143,5 @@ Gauge | Millimeter
 #4 | 3
 #6 | 3.5
 
-Note -- Conversion from Imperial decimal diameter to metric may not be exact.  Clearance and pilot holes in the DevFrame should allow for either Imperial or Metric screws.  Some drilling for clearance holes may be required.
+Note -- Conversion from screw gauge to metric diameter may not be exact.  Clearance and pilot holes in the DevFrame should allow for either Imperial or Metric screws.  Some drilling for clearance holes may be required.
 {: .notice--primary}
