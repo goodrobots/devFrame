@@ -38,8 +38,8 @@ Qty | Size | Note
 
 Qty | Size | Note
 --- | --- | ---
-4 | 10mm OD x 250mm long | Supports 9in props and ~5000mAHr lipo
-4 |  170mm long | Supports 9in props
+2 | 10mm OD x 500mm long | Supports 9in props and ~5000mAHr 3S lipo
+2 | 12mm OD x 500mm long | Supports 9in props
 
 Note -- Length of tube can vary depending on design intent.  Above figures are for standard stretch X config.  If this is your first devFrame build we suggest building per docs.  You can tweak it later.
 {: .notice--primary}
@@ -59,7 +59,7 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 - Ruler
 - Marker
 - Masking tape (optional but makes this step easier)
-- Hacksaw or rotary tool with cutoff wheel
+- Hacksaw, or rotary tool with cutoff wheel
 
 ---
 {:style="clear: left"} 

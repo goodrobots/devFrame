@@ -5,7 +5,7 @@ permalink: /docs/build-intro/
 
 [devFrame 450 Overview Video]
 
-This section of the docs will cover the details of a 450 class quadcopter devFrame build using ArduCopter 4.0+.  We have found this size and configuration to support the most use cases, so will treat it as our reference build.  Please see the Community Builds section for details on other build sizes and configurations.
+This section of the docs will cover the details of a 450 class quadcopter devFrame build using ArduCopter 4+.  We have found this size and configuration to support the most use cases, so will treat it as our reference build.  Please see the Community Builds section for details on other build sizes and configurations.
 
 [devFrame 450 pic]
 
@@ -61,8 +61,8 @@ Qty |
 
 Qty | Size | Note
 --- | --- | ---
-4 | 10mm OD x 250mm long | Supports 9in props and ~5000mAHr lipo
-4 |  170mm long | Supports 9in props
+2 | 10mm OD x 500mm long | Supports 9in props and ~5000mAHr 3S lipo
+2 | 12mm OD x 500mm long | Supports 9in props
 
 Note -- Length of tube can vary depending on design intent.  Above figures are for standard stretch X config.
 {: .notice--primary}
