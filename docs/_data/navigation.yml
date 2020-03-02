@@ -1,7 +1,7 @@
 main:
   - title: "Docs"
     url: /docs/quick-start/
-  - title: "News"
+  - title: "Blog"
     url: /posts/
   - title: "Contribute"
     url: /contribute/
@@ -16,8 +16,6 @@ docs:
     children:
       - title: "Quick Start"
         url: /docs/quick-start/
-      - title: "Start At The End"
-        url: /docs/start/
       - title: "3D Printing"
         url: /docs/printing/
       - title: "Required Tools"

@@ -1,11 +1,16 @@
 ---
-title: "Start At The End"
-permalink: /docs/start/
+title: "Planning A Build"
+author_profile: true
+categories:
+  - General
+tags:
+  - design
+  - plan
 ---
-
+### Start At The End
 There are a few questions that should be answered before you begin your build.  To answer these questions it's best to start at the end and work backwards to define your requirements.  
 
-But before you do, we recommend you skim the rest of the docs to get familiar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
+But before you do, we recommend you skim the docs to get familiar with the devFrame in general, and the structure of the docs specifically.  Have a look at some of the community builds to see some capabilities.  Then come back here and spend some time thinking about what you need to build to meet you goals.
 
 **How do you plan to use your robot?**
 {: .notice--primary}
