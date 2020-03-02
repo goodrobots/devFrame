@@ -2,7 +2,7 @@
 title: "3D Printing Basics"
 permalink: /docs/printing/
 ---
-All devFrame parts have been designed to print on a small desktop printer capable of printing in ABS.  No support material, raft or brim is required to print any of the parts.  We test print all parts on a Lulzbot Mini.
+All devFrame parts have been designed to print on a small desktop printer capable of printing in ABS.  No support material, raft or brim required.  We test print all parts on a Lulzbot Mini.
 
 For a full list of printed parts, with links to download stl files, please see the [Frame Details]({{ site.baseurl }}/docs/frame-details/#3d-printed-parts) page.
 
