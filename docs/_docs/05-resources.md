@@ -28,7 +28,7 @@ Note -- There can be big differences in Open Source licenses.  If you think it m
 - [APSync](https://ardupilot.org/dev/docs/apsync-intro.html) -- Primarly a serial to WiFi bridge for companion computer to MAVLink based autopilots.  It provides data sync along with video streaming services.
 
 ### Related Projects
-- [Yaapu Telemetry](https://github.com/yaapu/FrskyTelemetryScript) -- An Open Source LUA script designed to run on OpenTX compatible transmitters such as FrSky and Jumper.  It provides MAVLink telemetry directly to your radio via the RC link.  
+- [Yaapu Telemetry](https://github.com/yaapu/FrskyTelemetryScript) -- An Open Source LUA script designed to run on OpenTX compatible transmitters such as FrSky and Jumper.  It provides telemetry directly to your radio via the RC link.  
 - [OpenTX](https://www.open-tx.org) Open Source firmware for FrSky and Jumper RC transmitters.
 
 ## Hardware
@@ -43,6 +43,17 @@ Like software, this is not an exhaustive list, but some of the more popular hard
 - [Up Core](https://up-board.org/upcore/specifications/) -- More money than RPi but also more powerful.  Intel architecture can make it easier to find drivers, libraries etc.
 - [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -- The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
 
+### Cables And Connectors
+Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.
+
+### Fasteners Etc
+The fasteners used for the base devFrame can all be sourced from a local hardware store.  However, there are always specialty bits that come in handy to keep a build going.  A good example is nylon and rubber standoffs for mounting power distribution, flight controllers and similar electronics.  Below is an example of some of the parts we have found handy to keep on hand:
+
+- [M3 Anti-Vibration Standoffs](https://www.getfpv.com/anti-vibration-flight-controller-standoff-7mm.html) or [here](https://www.amazon.com/Controller-Anti-Vibration-Mounting-Hardware-Standoffs/dp/B06ZXT21DX)
+- [M3 Nylon Standoffs](https://www.amazon.com/Litorange-Standoff-Threaded-Motherboard-Assortment/dp/B07D7828LC)
+- [Tiny Screws](https://www.amazon.com/dp/B078W7XQ5S)
+
+
 ## Searching
 [Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
 
@@ -55,10 +66,7 @@ Note -- We have some example kit for soldering and crimping over on our [Require
 ## Crimping
 Crimping pins is not a requirement, but can be a very handy skill to have.  Perhaps the most ubiquitous crimp pin is the Dupont style servo pin.  Here is a fascinating and detailed guide to [getting your crimps right](https://www.instructables.com/id/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/).
 
-## Cables And Connectors
-Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.  
-
-## Where To Buy Electronics
+## Where To Buy Stuff
 We understand that many builders will be on a tight budget.  However, it is very easy to confuse value with price.  They are not the same.  Forums are filled with stories of cheap clones not working like they should.  Do your homework and spend wisely.
 
 Here is a list of vendors who specialize in small robotics and associated parts.  We are not affiliated with any of these vendors.  This is simply a list of vendors we have purchased from in the past, and think they offer fair value with consistent support.  If you do not see your favorite vendor on the list let us know and we can see about adding them.
