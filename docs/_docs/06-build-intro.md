@@ -58,8 +58,8 @@ Qty | Size | Note
 
 Qty | Size | Notes
 --- | --- | ---
-4 | M3 x 6mm(minimum) | Anti-Vibration type
-4 | M3 x 4mm(minimum) | Nylon Male to Female
+4 | M3 x 6mm(minimum) | Anti-Vibration, Male to Female
+4 | M3 x 4mm(minimum) | Nylon, Male to Female
 
 ### Carbon Fiber Tube, Roll Wrapped
 
