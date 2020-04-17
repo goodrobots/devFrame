@@ -33,11 +33,11 @@ For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry s
 
 We prefer stranded silicone wire for power (and signal) distribution.  It is flexible and works well in high vibration environments.  For this build we are using 14AWG for the battery connection.  Motors and ESC's are equiped with 16 or 18 AWG from the factory.  See Resources section for more info on wire gauge (AWG) etc. 
 
-In our shop we use a Anderson Power Poles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources section for more info on connectors.
+In our shop we use a Anderson Power Poles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page for more info on connectors.
 
 ### Battery
 
-Although we will not need the battery in this section we are planning on using a 4S 4350mAHr lipo.  You could use a 3 or 4 cell setup for a 450.  Again we are using what we had in the shop, so 4S lipo it is.
+Although we will not need the battery in this section we are planning on using a 4S 4350mAHr lipo.  You could use a 3 or 4 cell setup for a 450.  Again we are using what we had in the shop, so 4S lipo it is.  See Resources page for more info on battery details and nomenclature.
 
 Note -- Keep in mind that the recommended max gross weight for the devFrame is 2kg or 4.4 pounds.  Running a larger battery may mean you are payload limited.  Running a larger payload may mean you are battery, and therefore flight time limited.  
 {: .notice--primary}
@@ -51,7 +51,7 @@ The following should be everything you need to install power distribution, motor
 Qty | Part | Notes 
 ---|---|---
 8 | Motor Mount Half 12mm | 
-6 | Cross Mount | 
+4 | Cross Mount | 
 1 | mRo GPS Mount | Per choice of GPS 
 1 | mro GPS Cover | Optional 
 1 | Benewake TFMini Mount | Optional 
@@ -89,7 +89,7 @@ Qty | Size | Note
 - Small zipties
 - Double sided tape
 - Heat Shrink Tube
-- (2) 0.1in Single Row Header Pins - Optional and depnds on ESC telemtry connection
+- (2) 0.1in Single Row Header Pins - Optional; depends on ESC telemetry connection
 
 ### Tools
 - #1 and #2 Phillips screwdriver
