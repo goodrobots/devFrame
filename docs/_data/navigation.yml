@@ -36,26 +36,36 @@ docs:
         url: /docs/flight-controller/
       - title: "Receiver, GPS and Sensors"
         url: /docs/receiver-gps-sensors/
-      - title: "Companion Computer"
-        url: /docs/companion/
-  - title: "Configure Software"
+  - title: "Configure Firmware"
     children:
       - title: "ArduPilot"
         url: /docs/ardupilot/
       - title: "PX4"
         url: /docs/px4/
-      - title: "Maverick"
-        url: /docs/maverick/
-  - title: "Test and Tune"
+      - title: "OpenTX"
+        url: /docs/opentx/  
+  - title: "Test Tune Test"
     children:
       - title: "Preflight"
         url: /docs/preflight/
+      - title: "Hover Checks"
+        url: /docs/hover-checks/  
+      - title: "AutoTune"
+        url: /docs/autotune/
+      - title: "Functional Tests"
+        url: /docs/functional-tests/  
+  - title: "Companion and Sensors"
+    children: 
+      - title: "Companion Computer"
+        url: /docs/companion/
+      - title: "Basic Camera"
+        url: /docs/basic-camera/
+      - title: "Maverick"
+        url: /docs/maverick/
   - title: "Community Builds"
     children:
-      - title: "d300 Small One"
+      - title: "d300 Beater"
         url: /builds/d300/
-      - title: "d440 Just Right"
-        url: /builds/d440/
-      - title: "d450 Kitchen Sink"
+      - title: "d450 Mapper"
         url: /builds/d450/
   

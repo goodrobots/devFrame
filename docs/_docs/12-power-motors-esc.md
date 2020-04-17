@@ -23,7 +23,7 @@ In this guide we will use an ACP4 Power Module, which will also act as our Power
 
 ### Motors
 
-We have chosen T-Motor Air Gear 350 set, which includes four AIR2213 KV920 brushless motors, and four plastic T9545 self-tighhtening props.  Partly because we already had a set, and also because they are a good value.  At the time of this writing the Air Gear 350 can be hard to find.  Some Air Gear sets include the ECS's, but for this build we are using ESC telemetry so went with another brand.  Any motors in the 900-1000kV range with 8-10in props should work fine for a 450 class build.
+We have chosen a T-Motor Air Gear 350 set, which includes four AIR2213 KV920 brushless motors, and four plastic T9545 self-tighhtening props.  Partly because we already had a set, and also because they are a good value.  At the time of this writing the Air Gear 350 can be hard to find.  Some Air Gear sets include the ECS's, but for this build we are using ESC telemetry so went with another brand.  Any motors in the 900-1000kV range with 8-10in props should work fine for a 450 class build.
 
 ### ESC's
 
@@ -33,7 +33,7 @@ For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry s
 
 We prefer stranded silicone wire for power (and signal) distribution.  It is flexible and works well in high vibration environments.  For this build we are using 14AWG for the battery connection.  Motors and ESC's are equiped with 16 or 18 AWG from the factory.  See Resources section for more info on wire gauge (AWG) etc. 
 
-In our shop we use a Anderson Power Poles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page for more info on connectors.
+In our shop we use 45A Anderson Power Poles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page for more info on connectors.
 
 ### Battery
 
