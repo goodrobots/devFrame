@@ -19,15 +19,15 @@ There are many different types and brands of equipment that can meet your onboar
 
 ### Power Distro
 
-In this guide we will use an ACP4 Power Module, which will also act as our Power Distribution Board (PDB).  The ACP4 includes current and voltage sense, as well as both 5V and 12V voltage regulators (BEC).  We will use the 5V BEC to power the flight controller (PixRacer in this build) and sensors.  We will add an additional Castle Creations 10A BEC set to 5V output to power the companion computer (RPi 4 in this build).  Any similar power module and/or PDB will do fine, but we do recommend you have a seperate 5V source for your flight control and companion computer.  
+In this guide we will use an ACP4 Power Module, which will also act as our Power Distribution Board (PDB).  The ACP4 includes current and voltage sense, as well as both 5V and 12V voltage regulators (BEC).  We will use the 5V BEC to power the flight controller (PixRacer in this build) and sensors.  We will add an additional Castle Creations 10A BEC set to 5V output to power the optional companion computer (RPi 4 in this build).  Any similar power module and/or PDB will do fine, but we do recommend you have a seperate 5V source for your flight control and companion computer.  
 
 ### Motors
 
-We have chosen a T-Motor Air Gear 350 set, which includes four AIR2213 KV920 brushless motors, and four plastic T9545 self-tighhtening props.  Partly because we already had a set, and also because they are a good value.  At the time of this writing the Air Gear 350 can be hard to find.  Some Air Gear sets include the ECS's, but for this build we are using ESC telemetry so went with another brand.  Any motors in the 900-1000kV range with 8-10in props should work fine for a 450 class build.
+We have chosen a T-Motor Air Gear 350 set, which includes four AIR2213 KV920 brushless motors, and four plastic T9545 self-tighhtening props.  Partly because we already had a set, and also because they are a good value.  At the time of this writing the Air Gear 350 can be hard to find.  Some Air Gear sets include the ECS's, but for this build we are using ESC telemetry so went with another brand.  Any motors in the ~900-1000kV range with 8-10in props should work fine for a 450 class build.
 
 ### ESC's
 
-For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry support.  Any ESC with proper power handling will work just fine, but we do highly recommend DShot and ESC telemetry support as it will make tuning much easier.
+For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry support.  Any ESC with proper power handling will work just fine, but we do highly recommend DShot and ESC telemetry support as it will make tuning much easier.  4-in-1 ESC's are also an option, and do provide a cleaner build in terms of wiring harness.
 
 ### Wire and Connectors
 
