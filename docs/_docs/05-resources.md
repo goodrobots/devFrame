@@ -5,7 +5,7 @@ permalink: /docs/resources/
 This page contains links to resources that can help you complete and maintain a devFrame build.
 
 ## Frame Sizes and Geometry
-In these docs we talk about frames such as "450 class stretch X" and other letters of the alphabet when referencing frames.  It's not as bad as it sounds once you see a few drawings and examples.  450 is 450mm from motor center to motor center on the diagonal, and stretch X means it's shaped like an X with the center portion stretched a bit along the forward flight axis.  Rather than reinvent the wheel here are a few good posts on the subject:
+In these docs we talk about frames such as "450 class stretch X", and other letters of the alphabet when referencing frames.  It's not as bad as it sounds once you see a few drawings and examples.  450 is 450mm from motor center to motor center on the diagonal, and stretch X means it's shaped like an X with the center portion stretched a bit along the forward flight axis.  Rather than reinvent the wheel here are a few good posts on the subject:
 - [Drone Frame Styles](https://www.getfpv.com/learn/new-to-fpv/all-about-multirotor-fpv-drone-frame/) -- From GetFPV so focused on...FPV.
 - [Drone Frame to Battery Size](https://www.genstattu.com/blog/how-to-choose-quadcopter-frame/) -- From GensTattu, a battery maker, so focused on frame and battery size comparisons.
 
@@ -49,7 +49,7 @@ Like software, this is not an exhaustive list, but some of the more popular hard
 - [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -- The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
 
 ### Wire Gauge
-We will use AWG in these docs - also known as American Wire Gauge (or Brown and Sharpe if you want an electrician to look at you sideways).  The system and nomenclature is confusing as the bigger the gauge, the smaller the cross section of conductor.  Things can also get a bit more confusing for our short length, high DC power needs as ampacity charts are typically for use in larger systems such as wiring a building.  For typical use in the devFrame we should be able to use 12-14AWG for battery connections and 16-18AWG connections between speed controls and motors.  [See this Wikipedia article](https://en.wikipedia.org/wiki/American_wire_gauge) for all you wanted to know about AWG.      
+We will use AWG - short for American Wire Gauge - in these docs.  The system and nomenclature is confusing as the bigger the gauge, the smaller the cross section of conductor.  Things can also get a bit more confusing for our short length, high DC power needs as AWG ampacity charts are typically for use in larger systems such as wiring a building.  For typical use in the devFrame we should be able to use 12-14AWG for battery connections and 16-18AWG connections between speed controls and motors.  [See this Wikipedia article](https://en.wikipedia.org/wiki/American_wire_gauge) for all you wanted to know about AWG.      
 
 ### Signal Cables and Connectors
 Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.
