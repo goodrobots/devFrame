@@ -106,7 +106,8 @@ Note -- The motor mounts are designed to support routing the wires inside the ar
 In this step we will connect wires betweem motors and ESC's, as well as between ESC's and PDB.
 
 ### 1.1 - Motors to ESC's
-- To get accurate distance locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zipties.  
+- To get accurate measurments, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zipties.  
+
 
 
 

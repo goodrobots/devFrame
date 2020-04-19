@@ -96,7 +96,7 @@ Note -- We have some example kit for soldering and crimping over on our [Require
 Crimping pins is not a requirement, but can be a very handy skill to have.  Perhaps the most ubiquitous crimp pin is the Dupont style servo pin.  Here is a fascinating and detailed guide to [getting your crimps right](https://www.instructables.com/id/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/).
 
 ## Calculators and Other Stuff
-We use a lot of heuristics (fancy word for rules of thumb) around this shop.  You certainly will not find any calculus in the docs here.  Part of the benefit of building small open systems is it's often a better value just to build and test empirically.    But sometimes it's good to do some math.  Here are a few we planning tools that could be useful to support build planning:
+We use a lot of heuristics (fancy word for rules of thumb) around this shop.  You certainly will not find any calculus in the docs here.  Part of the benefit of building small open systems is it's often a better value just to build and test empirically.    But sometimes it's good to do some math.  Here are a few planning tools that could be useful to support build planning:
 
 - [Multicopter AUW and Motor Selection](https://www.flitetest.com/articles/choosing-multicopter-motors) -- Simple but nice spreadsheet to get you in the neighborhood.
 - [eCalc](https://www.ecalc.ch/xcoptercalc.php) -- Free for limited use.  We see enough forum posts to indicate that it gets used.
