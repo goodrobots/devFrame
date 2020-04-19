@@ -99,7 +99,7 @@ Crimping pins is not a requirement, but can be a very handy skill to have.  Perh
 We use a lot of heuristics (fancy word for rules of thumb) around this shop.  You certainly will not find any calculus in the docs here.  Part of the benefit of building small open systems is it's often a better value just to build and test empirically.    But sometimes it's good to do some math.  Here are a few planning tools that could be useful to support build planning:
 
 - [Multicopter AUW and Motor Selection](https://www.flitetest.com/articles/choosing-multicopter-motors) -- Simple but nice spreadsheet to get you in the neighborhood.
-- [eCalc](https://www.ecalc.ch/xcoptercalc.php) -- Free for limited use.  We see enough forum posts to indicate that it gets used.
+- [eCalc](https://www.ecalc.ch/xcoptercalc.php) -- Drive calculator.  Free for limited use.  We see enough forum posts to indicate that it gets used.
 
 ## Searching
 [Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
