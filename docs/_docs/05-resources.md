@@ -63,6 +63,23 @@ The fasteners used for the base devFrame can all be sourced from a local hardwar
 - [M3 Nylon Standoffs](https://www.amazon.com/Litorange-Standoff-Threaded-Motherboard-Assortment/dp/B07D7828LC)
 - [Tiny Screws](https://www.amazon.com/dp/B078W7XQ5S)
 
+### Carbon Fiber Tube
+The devFrame requires the use of roll wrapped carbon fiber tubes with 10mm and/or 12mm diameter. 
+
+Note -- Tube sizes are given in outside diameter.  Wall thickness should be 1mm.  You may see tubes listed as 8mmx10mmx500mm, which means they have an 8mm inside diameter (ID), 10mm outside diameter (OD), and 500mm length.
+{: .notice--primary}
+
+- 10mm carbon fiber tubes are used for the box frame, and arms for smaller builds [Amazon](https://www.amazon.com/dp/B015Z1RU6U/) or [eBay](https://www.ebay.com/itm/2pcs-10MM-OD-X-8MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Glossy-US/133002010164)
+- 12mm carbon fiber tubes are used for the arms of larger builds [Amazon](https://www.amazon.com/dp/B00TF8V05W/) or [eBay](https://www.ebay.com/itm/1-4pcs-12MM-OD-X-10MM-ID-X-500MM-100-Roll-Wrapped-Carbon-Fiber-Tube-3K-Tubing-/132362184137)
+
+Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  This results in tight tolerances for the ID (matching the mandrel size) but the OD may vary depending on manufacture.  The devFrame is designed to handle some tolerances but you need to check your tube diameters to ensure a good clamping fit. 
+{: .notice--primary}
+
+**Caution** -- Using pultruded carbon fiber tubes is not supported as the clamping force created by the clamps can cause failure of the tube, and the frame itself.
+{: .notice--info}
+
+![Roll Wrapped vs Pultruded Tubes]({{site.baseurl}}/assets/images/frame-details/roll-wrapped-vs-pultruded.jpeg){: width="80%" .align-center} A roll wrapped tube on left vs a pultruded tube on right.
+{: .text-center}  
 
 ## Searching
 [Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
