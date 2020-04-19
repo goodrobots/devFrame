@@ -4,6 +4,9 @@ permalink: /docs/resources/
 ---
 This page contains links to resources that can help you complete and maintain a devFrame build.
 
+## Searching
+[Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
+
 ## Software
 This list contains only your free and Open Source options.  There are other options, but these are the main projects we feel are a good match for use with devFrame.  
 
@@ -52,7 +55,7 @@ Hopefully you got a bag of cables with your flight controller.  But sometimes yo
 ### Power Cables and Connectors 
 We prefer stranded wire with silicone jacket for robot builds since it is highly flexible and designed for use in high vibration environments.  It's known as [silicone wire](https://www.amazon.com/12-Gauge-Silicone-Wire-Feet/dp/B0070RZXLW).
 
-There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require spcial crimping tools, but we feel the crimp connections are superior to soldered.  Some builders do not like to use them as the 45A rating seems too low.  However, that rating has to do with the amapcity of the maximum supported wire size of the connector, which is 10AWG.  We have no problems using them in 100A robotics systems.  
+There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require spcial crimping tools, but we feel the crimp connections are superior to soldered.  Some builders do not like to use them as the 45A rating seems too low.  However, that rating has to do with the ampacity of the maximum supported wire size of the connector, which is 10AWG.  We have no problems using them in 100A robotics systems.  
 
 Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT60 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
 
@@ -80,9 +83,6 @@ Note -- Roll wrapped tubes are made by wrapping carbon fiber around a mandrel.  
 
 ![Roll Wrapped vs Pultruded Tubes]({{site.baseurl}}/assets/images/frame-details/roll-wrapped-vs-pultruded.jpeg){: width="80%" .align-center} A roll wrapped tube on left vs a pultruded tube on right.
 {: .text-center}  
-
-## Searching
-[Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
 
 ## Soldering
 Owning or having access to quality soldering tools is a must for building your own robot.  Knowing how to use them correctly is just as important as owning them. [Here's a really good tutorial](https://www.makerspaces.com/how-to-solder/).  And plenty of videos on the web.  Do not underestimate the importance of helping hands and/or jigs to hold things in place while you solder.
