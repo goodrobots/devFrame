@@ -31,13 +31,13 @@ For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry s
 
 ### Wire and Connectors
 
-We prefer stranded silicone wire for power (and signal) distribution.  It is flexible and works well in high vibration environments.  For this build we are using 14AWG for the battery connection.  Motors and ESC's are equiped with 16 or 18 AWG from the factory.  See Resources section for more info on wire gauge (AWG) etc. 
+For this build we are using 14AWG for the battery connection.  Motors and ESC's are equiped with 16 or 18 AWG from the factory.  See Resources section [for more info on wire and wire gauge (AWG)]({{ site.baseurl }}/docs/resources/#wire-gauge)). 
 
-In our shop we use 45A Anderson Power Poles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page for more info on connectors.
+In our shop we use 45A Anderson Powerpoles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page [for more info on connectors]({{ site.baseurl }}/docs/resources/#power-cables-and-connectors)).
 
 ### Battery
 
-Although we will not need the battery in this section we are planning on using a 4S 4350mAHr lipo.  You could use a 3 or 4 cell setup for a 450.  Again we are using what we had in the shop, so 4S lipo it is.  See Resources page for more info on battery details and nomenclature.
+Although we will not need the battery in this section we are planning on using a 4S 4350mAHr lipo.  You could use a 3 or 4 cell setup for a 450.  Again we are using what we had in the shop, so 4S lipo it is.  
 
 Note -- Keep in mind that the recommended max gross weight for the devFrame is 2kg or 4.4 pounds.  Running a larger battery may mean you are payload limited.  Running a larger payload may mean you are battery, and therefore flight time limited.  
 {: .notice--primary}
