@@ -4,8 +4,10 @@ permalink: /docs/resources/
 ---
 This page contains links to resources that can help you complete and maintain a devFrame build.
 
-## Searching
-[Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
+## Frame Sizes and Geometry
+In these docs we talk about frames such as "450 class stretch X" and other letters of the alphabet when referencing frames.  It's not as bad as it sounds once you see a few drawings and examples.  450 is 450mm from motor center to motor center on the diagonal, and stretch X means it's shaped like an X with the center portion stretched a bit along the forward flight axis.  Rather than reinvent the wheel here are a few good posts on the subject:
+- [Drone Frame Styles](https://www.getfpv.com/learn/new-to-fpv/all-about-multirotor-fpv-drone-frame/) -- From GetFPV so focused on...FPV.
+- [Drone Frame to Battery Size](https://www.genstattu.com/blog/how-to-choose-quadcopter-frame/) -- From GensTattu, a battery maker, so focused on frame and battery size comparisons.
 
 ## Software
 This list contains only your free and Open Source options.  There are other options, but these are the main projects we feel are a good match for use with devFrame.  
@@ -49,7 +51,7 @@ Like software, this is not an exhaustive list, but some of the more popular hard
 ### Wire Gauge
 We will use AWG in these docs - also known as American Wire Gauge (or Brown and Sharpe if you want an electrician to look at you sideways).  The system and nomenclature is confusing as the bigger the gauge, the smaller the cross section of conductor.  Things can also get a bit more confusing for our short length, high DC power needs as ampacity charts are typically for use in larger systems such as wiring a building.  For typical use in the devFrame we should be able to use 12-14AWG for battery connections and 16-18AWG connections between speed controls and motors.  [See this Wikipedia article](https://en.wikipedia.org/wiki/American_wire_gauge) for all you wanted to know about AWG.      
 
-### Signal Cables And Connectors
+### Signal Cables and Connectors
 Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.
 
 ### Power Cables and Connectors 
@@ -93,6 +95,16 @@ Note -- We have some example kit for soldering and crimping over on our [Require
 ## Crimping
 Crimping pins is not a requirement, but can be a very handy skill to have.  Perhaps the most ubiquitous crimp pin is the Dupont style servo pin.  Here is a fascinating and detailed guide to [getting your crimps right](https://www.instructables.com/id/Make-a-Good-Dupont-Pin-Crimp-EVERY-TIME/).
 
+## Calculators and Other Stuff
+We use a lot of heuristics (fancy word for rules of thumb) around this shop.  You certainly will not find any calculus in the docs here.  Part of the benefit of building small open systems is it's often a better value just to build and test empirically.    But sometimes it's good to do some math.  Here are a few we planning tools that could be useful to support build planning:
+
+- [Multicopter AUW and Motor Selection](https://www.flitetest.com/articles/choosing-multicopter-motors) -- Simple but nice spreadsheet to get you in the neighborhood.
+- [eCalc](https://www.ecalc.ch/xcoptercalc.php) -- Free for limited use.  We see enough forum posts to indicate that it gets used.
+
+## Searching
+[Knowing how to use search](https://support.google.com/websearch/answer/2466433) is an important part of being a good internet citizen, and community member.  It is considered bad form to ask a question in a support forum that has been previously asked, and likely already answered.  It is expected that you have done some searching to find your own answers prior to posting.
+
+
 ## Where To Buy Stuff
 We understand that many builders will be on a tight budget.  However, it is very easy to confuse value with price.  They are not the same.  Forums are filled with stories of cheap clones not working like they should.  Do your homework and spend wisely.
 
@@ -102,6 +114,7 @@ Here is a list of vendors who specialize in small robotics and associated parts.
 - [Dimension Engineering](https://www.dimensionengineering.com) -- Good selection of power electronics such as motor drivers and regulators.
 - [GetFPV](https://www.getfpv.com) -- Good source for smaller motors, speed controls, and flight controllers.  They also carry PixHawk branded stuff.
 - [IR-Lock](https://irlock.com) -- An ArduPilot Partner with PixHawk, IR Lock and other sensors.
+- [KDE Direct](https://www.kdedirect.com/) -- High quality brushless motors and ESC's.
 - [Myan Robotics (mRo)](https://mrobotics.io) -- One of the only US manufacturers of flight controllers and sensors for the DIY and custom markets.  Founded by Jordi Munoz, co-founder of 3D Robotics back when...well, that's another story.  
 - [Pololu](https://www.pololu.com) -- Robot kits and parts.  Big selection and they have added a custom laser cutting service, which is cool.
 - [RobotShop](https://www.robotshop.com/en/) -- All kinds of robot related parts.
