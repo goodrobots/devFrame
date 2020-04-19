@@ -43,8 +43,18 @@ Like software, this is not an exhaustive list, but some of the more popular hard
 - [Up Core](https://up-board.org/upcore/specifications/) -- More money than RPi but also more powerful.  Intel architecture can make it easier to find drivers, libraries etc.
 - [NVIDIA Nano](https://developer.nvidia.com/embedded/jetson-nano-developer-kit) -- The Nano Developer Kit is becoming pretty popular for computer vision on a budget.
 
-### Cables And Connectors
+### Wire Gauge
+We will use AWG in these docs - also known as American Wire Gauge (or Brown and Sharpe if you want an electrician to look at you sideways).  The system and nomenclature is confusing as the bigger the gauge, the smaller the cross section of conductor.  Things can also get a bit more confusing for our short length, high DC power needs as ampacity charts are typically for use in larger systems such as wiring a building.  For typical use in the devFrame we should be able to use 12-14AWG for battery connections and 16-18AWG connections between speed controls and motors.  [See this Wikipedia article](https://en.wikipedia.org/wiki/American_wire_gauge) for all you wanted to know about AWG.      
+
+### Signal Cables And Connectors
 Hopefully you got a bag of cables with your flight controller.  But sometimes you need more.  If you are using a flight controller that adheres to the Pixhawk Connector (formerly DroneCode Connector) Standard you need [cables](https://store.mrobotics.io/category-s/110.htm) with [JST-GH ends](https://www.amazon.com/dp/B07PLPT2Z6/).  If you are using an older flight controller it may have [DF13](https://store.mrobotics.io/category-s/116.htm) connectors.
+
+### Power Cables and Connectors 
+We prefer stranded wire with silicone jacket for robot builds since it is highly flexible and designed for use in high vibration environments.  It's known as [silicone wire](https://www.amazon.com/12-Gauge-Silicone-Wire-Feet/dp/B0070RZXLW).
+
+There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require spcial crimping tools, but we feel the crimp connections are superior to soldered.  Some builders do not like to use them as the 45A rating seems too low.  However, that rating has to do with the amapcity of the maximum supported wire size of the connector, which is 10AWG.  We have no problems using them in 100A robotics systems.  
+
+Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT60 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
 
 ### Fasteners Etc
 The fasteners used for the base devFrame can all be sourced from a local hardware store.  However, there are always specialty bits that come in handy to keep a build going.  A good example is nylon and rubber standoffs for mounting power distribution, flight controllers and similar electronics.  Below is an example of some of the parts we have found handy to keep on hand:
