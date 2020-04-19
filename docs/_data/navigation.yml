@@ -52,8 +52,8 @@ docs:
         url: /docs/hover-checks/  
       - title: "AutoTune"
         url: /docs/autotune/
-      - title: "Functional Tests"
-        url: /docs/functional-tests/  
+      - title: "Functional Checks"
+        url: /docs/functional-checks/  
   - title: "Companion and Sensors"
     children: 
       - title: "Companion Computer"

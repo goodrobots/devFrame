@@ -1,6 +1,6 @@
 ---
-title: "Functional Test Flights"
-permalink: /docs/functional-tests/
+title: "Functional Check Flights"
+permalink: /docs/functional-checks/
 ---
 
 Coming soon.
