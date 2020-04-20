@@ -147,8 +147,6 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - We soldered 14AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
 - Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power to equipment such as companion computer and high power demand sensors.
 
-## Power System Soldered
-
 Once you are done you should have a power system ready to be installed.
 
 ![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="60%" .align-center}
