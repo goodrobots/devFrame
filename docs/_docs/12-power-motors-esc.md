@@ -8,7 +8,7 @@ permalink: /docs/power-motors-escs/
 
 In this section we will install power distribution, motors, and electronic speed controls (ESC's). 
 
-[power system image]
+![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="60%" .align-center}
 
 ## Power Planning
 
@@ -98,28 +98,63 @@ Qty | Size | Note
 - Wire Strippers
 - Soldering Kit
 
-## Step 1 - Flight Power Wiring
+## Step 1 - Power System Wiring
 
 Note -- The motor mounts are designed to support routing the wires inside the arm tube.  In this build we will route outside the tube.  It is largely a matter of preference.  Routing motor wires outside the arm tube is slightly easier to assemble and maintain, while routing inside the tube presents a cleaner build.
 {: .notice--primary}
 
-In this step we will connect wires betweem motors and ESC's, as well as between ESC's and PDB.
+In this step we will connect wires betweem motors and ESC's, between ESC's and PDB, and connect our battery leadds as well as 5V BEC.  You will need:
+- Motors
+- ESC's
+- PDB
+- BEC (or any other equipmet soldered to PDB)
+- Ruler
+- Wire Cutter
+- Wire Strippers
+- Soldering Kit
+- Heat Shrink Tubing 
+- Wire (if not supplied with motors or ESC's)
 
 ### 1.1 - Motors to ESC's
-- To get accurate measurments, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zipties.  
-
-
-
+- To get accurate measurements, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zipties.  
 
 - Measure and note distance between motors and ESC's.  Add a few millimeters to allow for overlappig solder joints.
+
+![Measure Motor ESC]({{ site.baseurl }}/assets/images/power-esc-motors/measure-esc-motor.jpeg){: width="60%" .align-center}
+
 - Solder each motor wire to ESC wire.
-- Repeat three more times until all motor to ESC wires are soldered   
+
+![Motor ESC Soldered]({{ site.baseurl }}/assets/images/power-esc-motors/solder-motor-esc.jpeg){: width="60%" .align-center}
+
+- Repeat three more times until all motor to ESC wires are soldered.   
 
 
-### 
+### 1.2 - ESC's to PDB
+- We will be mounting the PDB under the flight controller in the middle of the bottom set of frame tubes.
+- Measure and note distance between ESC's and PDB.  Add a few millimeters to allow for overlappig solder joints.
 
-[image here]
+![Measure ESC PDB]({{ site.baseurl }}/assets/images/power-esc-motors/measure-esc-pdb.jpeg){: width="60%" .align-center}
 
-### 
+- Solder each ESC wire to PDB
+
+![ESC PDB Soldered]({{ site.baseurl }}/assets/images/power-esc-motors/solder-esc-pdb.jpeg){: width="60%" .align-center}
+
+
+- Repeat three more times until all ESC wires are soldered to PDB
+
+### 1.3 - Battery and BEC Connections
+- In step two we will physically install the PDB to the frame, so now is a good time to soldered any other wires needed for your build.  
+- We soldered 12AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
+- Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power equipment such as companion computer and high power demand sensors.
+
+## Power System Soldered
+
+Once you are done you should have a power system ready to be installed.
+
+![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="60%" .align-center}
+
+
+
+
 
 

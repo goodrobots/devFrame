@@ -68,7 +68,7 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 ![Mark Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-02.jpeg){: width="60%" .align-center}
 #### 1.1.1 10mm Tube
 - We will create four lengths of 10mm tube at 250mm length
-- If you have two 500mm lengths of 10mm tube you are essentially cutting them in half.
+- If you have two 500mm lengths of 10mm tube you are essentially cutting them in half
 - Use ruler to measure 250mm length
 - To help make a clean cut you can use tape to wrap at 250mm
 - Otherwise, use marker to mark tubes at 250mm
