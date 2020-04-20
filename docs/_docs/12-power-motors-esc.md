@@ -103,11 +103,11 @@ Qty | Size | Note
 Note -- The motor mounts are designed to support routing the wires inside the arm tube.  In this build we will route outside the tube.  It is largely a matter of preference.  Routing motor wires outside the arm tube is slightly easier to assemble and maintain, while routing inside the tube presents a cleaner build.
 {: .notice--primary}
 
-In this step we will connect wires betweem motors and ESC's, between ESC's and PDB, and connect our battery leadds as well as 5V BEC.  You will need:
+In this step we will connect wires between motors and ESC's, between ESC's and PDB, connect our battery leads, and add a 5V BEC.  You will need:
 - Motors
 - ESC's
 - PDB
-- BEC (or any other equipmet soldered to PDB)
+- BEC (and any other equipmet soldered to PDB)
 - Ruler
 - Wire Cutter
 - Wire Strippers
@@ -144,8 +144,8 @@ In this step we will connect wires betweem motors and ESC's, between ESC's and P
 
 ### 1.3 - Battery and BEC Connections
 - In step two we will physically install the PDB to the frame, so now is a good time to soldered any other wires needed for your build.  
-- We soldered 12AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
-- Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power equipment such as companion computer and high power demand sensors.
+- We soldered 14AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
+- Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power to equipment such as companion computer and high power demand sensors.
 
 ## Power System Soldered
 
