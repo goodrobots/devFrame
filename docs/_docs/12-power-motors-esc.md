@@ -44,7 +44,7 @@ Note -- Keep in mind that the recommended max gross weight for the devFrame is 2
 
 
 ## What You Need (BOM)
-The following should be everything you need to install power distribution, motors and ESC's.
+Besides the base frame from the last section, the following should be everything you need to install power distribution, motors and ESC's.
 
 ### Printed Parts
 
@@ -151,8 +151,7 @@ Once you are done you should have a power system ready to be installed.
 
 ![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="60%" .align-center}
 
-
-
+Step 2 - Install Power System
 
 
 
