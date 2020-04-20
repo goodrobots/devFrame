@@ -139,7 +139,6 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 
 ![ESC PDB Soldered]({{ site.baseurl }}/assets/images/power-esc-motors/solder-esc-pdb.jpeg){: width="60%" .align-center}
 
-
 - Repeat three more times until all ESC wires are soldered to PDB
 
 ### 1.3 - Battery and BEC Connections
@@ -152,8 +151,7 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - The telemetry wire bundle needs to be connected to a serial port on the flight controller.  You will need to solder the telemetry wires to a harness/connector supported by your choice of autopilot.
 - We will use the WiFi module port on the top of the PixRacer.  As that port accepts 0.1in Dupont pins we will solder our ESC telemetry wires to a header pin.  We actually use two pins, but one is blank to help keep the connection more secure.  
 
-![ESC Telemtry Wires]({{ site.baseurl }}/assets/images/power-esc-motors/esc-telem-pins.jpeg){: width="60%" .align-center}
-
+![ESC Telemetry Wires]({{ site.baseurl }}/assets/images/power-esc-motors/esc-telem-pins.jpeg){: width="60%" .align-center}
 
 Once you are done you should have a power system ready to be installed.
 
