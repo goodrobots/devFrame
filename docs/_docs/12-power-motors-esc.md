@@ -51,7 +51,7 @@ Besides the base frame from the last section, the following should be everything
 Qty | Part | Notes 
 ---|---|---
 8 | Motor Mount Half 12mm | 
-4 | Cross Mount | 
+2 | Cross Mount | 
 
 ### Machine Screws 
 
