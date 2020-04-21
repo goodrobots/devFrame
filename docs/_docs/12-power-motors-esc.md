@@ -208,7 +208,7 @@ Note -- There are many ways to mount PDB's and flight controllers.  The intent h
 Note -- Now is a good time to route your ESC's and Motors to respective arms.  If you have a motor and prop system that uses left and right hand threads make sure you pay attention to prop rotation.
 {: .notice--primary}
 
-- Now we willl mount the motrs to the end of the arm tubes.
+- Now we willl mount the motors to the end of the arm tubes.
 
 ![Motor Mount Tools]({{ site.baseurl }}/assets/images/power-esc-motors/motor-mount-tools.jpeg){: width="60%" .align-center}
 
@@ -219,19 +219,19 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 
 - Align the two 19mm spaced holes on bottom of your motor with the ends of the two screws.
 - Tighten until the motor will just hold in place on it's own but still allow alignment.
-- Sight down the motor/motor mount assembly to the frame and make sure the motor can is vertical to frame tubes.  Visually aligning the bottom of motor mount with bottom of arm tube clamp works well to get started.  Then verify motor can is aligned as well.
+- Sight down the motor/motor mount assembly to the frame and make sure the motor can is vertical to frame tubes.  Visually aligning the bottom of motor mount with bottom of arm tube mount works well to get started.  Then verify motor can is aligned as well.
 
 ![Motor Mount Alignment]({{ site.baseurl }}/assets/images/power-esc-motors/motor-mount-alignment.jpeg){: width="60%" .align-center}
 
 - Slowly tighten each motor mount screw in an alternating pattern until full clamping force is achieved.
 - Repeat until all motors are mounted and aligned.
 
-**Caution** -- The motor mounts use clamping force and are not otherwised indexed to frame.  We have found that this works well in normal use, but in case of hard impacts and/or crashes the motors may twist on the tubes.  While this helps to avoid transferring some stress to rest of frame during impact, it can also cause thrust misalignment and severe flight issues if not corrected.  ALWAYS check motor alignment prior to flight.
+**Caution** -- The motor mounts use clamping force and are not otherwise indexed to frame.  We have found that this works well in normal use, but in case of hard impacts and/or crashes the motors may twist on the tubes.  While this helps to avoid transferring some stress to rest of frame during impact, it can also cause thrust misalignment and severe flight issues if not corrected.  ALWAYS check motor alignment prior to flight.
 {: .notice--info}
 
 ### 2.4 Install ESC's
 - Time to install ESC's to inside of Arm Tube Mounts. 
-- Remember we are routing wires on outside of arm tubes.
+- Remember, we are routing wires on outside of arm tubes.
 
 ![ESC Install Tools]({{ site.baseurl }}/assets/images/power-esc-motors/esc-install-tools.jpeg){: width="60%" .align-center}
 
@@ -243,11 +243,11 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 
 ![ESC Tape Installed]({{ site.baseurl }}/assets/images/power-esc-motors/esc-tape-installed.jpeg){: width="60%" .align-center}
 
-- Stick the ESC's the inside of the Arm Tube Mount.  See the slot in the Arm Tube Clamp?That's there for the zip tie to hold the ESC in place in case tape fails.
+- Stick the ESC to the inside of the Arm Tube Mount.  See the slot in the Arm Tube Mount?  That's there for the zip tie to hold the ESC in place in case tape fails.
 
 ![ESC Zip Tie]({{ site.baseurl }}/assets/images/power-esc-motors/esc-ziptie.jpeg){: width="60%" .align-center}
 
-- Repeat three more times and don't forget to trim the zip ties.
+- Repeat three more times, and don't forget to trim the zip ties.
 
 ### 2.5 Secure Motor Wires
 - For this step you could use zip ties or tape.  Intent is to secure motor wires that can cause vibrations and/or interfere with props.
@@ -255,6 +255,8 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 - Zip tie motor wires to arm tube.
 
 ![Motor Wire Zip Tie]({{ site.baseurl }}/assets/images/power-esc-motors/motor-wire-ziptie.jpeg){: width="60%" .align-center}
+
+- Repeat until all motor wires are secured to arm tubes.
 
 ## Power System Complete
 
