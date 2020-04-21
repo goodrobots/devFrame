@@ -205,7 +205,7 @@ Note -- There are many ways to mount PDB's and flight controllers.  The intent h
 
 ### 2.3 Install Motors
 
-Note -- Now is a good time to route your ESC's and Motors to respective arms.  If you have a motor and prop system that uses left and right had threads make sure you pay attention to proper propeller rotation.
+Note -- Now is a good time to route your ESC's and Motors to respective arms.  If you have a motor and prop system that uses left and right hand threads make sure you pay attention to prop rotation.
 {: .notice--primary}
 
 - Now we willl mount the motrs to the end of the arm tubes.
