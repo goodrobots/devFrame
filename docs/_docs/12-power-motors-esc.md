@@ -73,12 +73,18 @@ Qty | Size | Note
 1 | MRo ACSP4 Power Module |  Or equivalent 
 1 | Castle Creations 10A BEC | Or equivalent
 
+### Flight Power
+
+Qty | Size | Note
+--- | --- | ---
+4 | T Motor 2213/920KV Motors |  Or equivalent 
+4 | Luminier 36A BLHeli32 ESC | Or equivalent
 
 ### Wire and Connectors
 
 Qty | Size | Note
 --- | --- | ---
-1ft | 14 AWG Silicone Wire | Battery to PDB
+1ft | 12-14 AWG Silicone Wire | Battery to PDB
 1ft | 16 AWG Silicone Wire | Optional - depends on motors and ESC's 
 2 pair | Anderson Power Poles 45A | XT60 or equivalent 
 
