@@ -52,9 +52,6 @@ Qty | Part | Notes
 ---|---|---
 8 | Motor Mount Half 12mm | 
 4 | Cross Mount | 
-1 | mRo GPS Mount | Per choice of GPS 
-1 | mro GPS Cover | Optional 
-1 | Benewake TFMini Mount | Optional 
 
 ### Machine Screws 
 
