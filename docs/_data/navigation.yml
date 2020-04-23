@@ -10,7 +10,6 @@ main:
   - title: "Download"
     url: "https://github.com/goodrobots/devFrame/"
       
- 
 docs:
   - title: "Get Started"
     children:
@@ -36,6 +35,8 @@ docs:
         url: /docs/flight-controller/
       - title: "Receiver, GPS and Sensors"
         url: /docs/receiver-gps-sensors/
+      - title: "Battery Etc"
+        url: /docs/battery/
   - title: "Configure Firmware"
     children:
       - title: "ArduPilot"
