@@ -1,0 +1,126 @@
+# Based on MM Theme 
+
+# Plugins 
+plugins:
+  - jekyll-include-cache
+
+# Theme  
+remote_theme: "mmistakes/minimal-mistakes@4.18.1" 
+minimal_mistakes_skin: default
+
+# Site 
+locale: "en-US"
+title: "devFrame docs"
+description: >- # this means to ignore newlines 
+  "devFrame is an Open Source quadcopter and rover frame design." 
+url: "https://goodrobots.github.io"
+baseurl: "/devFrame"
+stlurl: "/blob/master/stl/"
+
+# GitHub
+github_username: "goodrobots"
+repository: "goodrobots/devFrame"
+
+# Search (Lunr)
+search: true
+search_full_content: true
+
+# Markdown 
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# Output
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: America/Chicago
+
+# Read Files
+include:
+  - _pages
+
+# Content and Liquid Defaults  
+author:
+  name   : "Coby Leuschke"
+  avatar : "/assets/images/bio-photo.jpg"
+  bio    : "I design, build, test, and crash all sorts of stuff."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/cglusky/"
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/goodrobots/"
+    - label: "Terms and Privacy"
+      icon: "fas fa-file-contract"
+      url: /devFrame/terms-privacy/
+  
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+  builds:
+    output: true
+    permalink: /:collection/:path/  
+    
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: false
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+        
+  # _docs
+  - scope:
+      path: ""
+      type: docs
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+      toc: true
+      toc_sticky: true
+
+  # _builds
+  - scope:
+      path: ""
+      type: builds
+    values:
+      layout: single
+      sidebar:
+        nav: "docs"
+      toc: true
+      toc_sticky: true
+
+# GH Pages compatible liquid archives
+category_archive:
+  type: liquid
+  path: /categories/
+
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
