@@ -60,4 +60,4 @@ Qty | Part | Notes
 - Double-sided Tape
 - Velcro (sticky back)
 - (2) Zip Ties
-- 1/4in x 2in Heat Shrink Tube
+- (2) 1/4in x ~1in Heat Shrink Tube
