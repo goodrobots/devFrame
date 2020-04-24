@@ -1,6 +1,7 @@
 ---
 title: "devFrame Roadmap"
 permalink: /docs/roadmap/
+toc: false
 ---
 
 This is our roadmap for the devFrame Project with a few hopeful dates.  It is a high level overview of where we would like to go.  For detailed issue tracking please see the [Issues list](https://github.com/goodrobots/devFrame/issues) at our github repo.
