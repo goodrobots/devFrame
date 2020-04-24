@@ -2,7 +2,7 @@
 title: "Flight Controller"
 permalink: /docs/flight-controller/
 ---
-Note -- An important factor in choosing a flight controller for your project is the number and types of ports supported by the board.  In particular, ensure that your flight controller has enough DShot capable motor outputs, as well as enough serial ports to support all sensor and telemetry connections. 
+Note -- An important factor in choosing a flight controller for your project is the number and types of ports supported by the board.  In particular, ensure that your flight controller has enough serial ports to support all sensor and telemetry connections. 
 {: .notice--primary}
 
 In this step we will install the flight controller with safety switch.  We have chosen to use the PixRacer for this build as we like the mix of size, capabilities and support.  Any ArduPilot compatible flight controller with right number and types of ports will work.  Just remember, the parameter file we will include in a later step will be specific to the PixRacer, so adapt as required.
