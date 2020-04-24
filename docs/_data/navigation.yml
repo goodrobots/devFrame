@@ -22,7 +22,9 @@ docs:
       - title: "Frame Details"
         url: /docs/frame-details/
       - title: "Resources"
-        url: /docs/resources/  
+        url: /docs/resources/
+      - title: "Roadmap"
+        url: /docs/roadmap/  
   - title: "Build Hardware"
     children:
       - title: "Build Intro"
