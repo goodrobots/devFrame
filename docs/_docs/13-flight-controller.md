@@ -108,5 +108,5 @@ In this step we will install the safety switch and buzzer on the rear box end.  
 
 - Route the wires and plug into the flight control switch/buzzer port.
 
-Nice job!  This step is complete.  In the next steps we will install the rest of of our gear.  We will secure our wiring harness after we know everything works as it should.
+Nice job!  This step is complete.  In the next steps we will install the rest of our gear.  We will secure our wiring harness after we know everything works as it should.
 
