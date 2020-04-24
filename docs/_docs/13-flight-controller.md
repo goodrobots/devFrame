@@ -51,7 +51,7 @@ Qty | Part | Notes
 
 ## Step 1 - Flight Controller
 
-This step is pretty easy.  We are just going to attach the flight controller to PDB stack from last step and plug into PDB.  You will need:
+We are going to attach the flight controller to PDB stack from the last step, and plug into PDB.  You will need:
 
 - PixRacer w/ case
 - (4) M3 x 20mm screws
@@ -69,7 +69,7 @@ Note -- We modified the stock mRo PixRacer case by drilling out the four corner 
 
 ![FC Installed]({{ site.baseurl }}/assets/images/flight-controller/fc-installed.jpeg){: width="80%" .align-center}
 
-- Plug in ESC Telemtry wire as shown above.
+- Plug in ESC Telemetry wire as shown above.
 
 ![FC Power Wire]({{ site.baseurl }}/assets/images/flight-controller/fc-power-connect.jpeg){: width="80%" .align-center}
 
