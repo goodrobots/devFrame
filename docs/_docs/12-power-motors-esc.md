@@ -33,7 +33,7 @@ For ESC's we are using four Luminier BLHeli32 36A with DShot and ESC telemetry s
 
 For this build we are using 14AWG for the battery connection.  Motors and ESC's are equiped with 16 or 18 AWG from the factory.  See Resources section [for more info on wire and wire gauge (AWG)]({{ site.baseurl }}/docs/resources/#wire-gauge)). 
 
-In our shop we use 45A Anderson Powerpoles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT80 will work well.  See the Resources page [for more info on connectors]({{ site.baseurl }}/docs/resources/#power-cables-and-connectors).
+In our shop we use 45A Anderson Powerpoles for connectors on builds 450 or larger.  We prefer the crimp connections.  We use XT series connectors for smaller builds, which is a more popular option in the RC community.  For a 450 build an XT60 will work well.  See the Resources page [for more info on connectors]({{ site.baseurl }}/docs/resources/#power-cables-and-connectors).
 
 ### Battery
 
