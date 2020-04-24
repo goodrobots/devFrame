@@ -53,11 +53,11 @@ Qty | Part | Notes
 8 | Motor Mount Half 12mm | 
 2 | Cross Mount | 
 
-### Machine Screws 
+### Fasteners 
 
 Qty | Size | Note
 --- | --- | ---
-8 | M3 x 22mm  |  Motor Mounts
+8 | M3 x 22mm Machine Screw |  Motor Mounts, Phillips or hex drive
 
 ### Standoffs
 
