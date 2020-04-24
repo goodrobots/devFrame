@@ -44,19 +44,69 @@ Qty | Part | Notes
 - Knife
 - 3mm drill bit (if you need to make bigger mounting holes in your PixRacer case)
 - Drill 
+- Wire cutters
 
 ### Misc
 - Double-sided Tape
 
-## Step 1 - Mount Flight Controller
+## Step 1 - Flight Controller
 
 This step is pretty easy.  We are just going to attach the flight controller to PDB stack from last step and plug into PDB.  You will need:
 
 - PixRacer w/ case
-- 4 x M3 x 20mm screws
+- (4) M3 x 20mm screws
 - Power Cable (6P JST-GH to 6P JST-GH) 
 
-Note -- We modified the PixRacer case from mRo by drilling out the mouting holes with a 3mm drill bit.  This allows us to use M3 screws to attach through the case and into PDB stack.
+Note -- We modified the stock mRo PixRacer case by drilling out the four corner mounting holes with a 3mm drill bit.  This allows us to use M3 screws to attach through the case and into PDB stack.
 {: .notice--primary}
 
+### 1.1 Mount Flight Controller
+![FC Tools]({{ site.baseurl }}/assets/images/flight-controller/fc-tools.jpeg){: width="80%" .align-center}
+
+- Place four M3 x 20mm screws through each mountng hole in PixRacer Case
+- Line up screws over the nylon standoffs on PDB stack
+- Tighten screws to secure
+
+![FC Installed]({{ site.baseurl }}/assets/images/flight-controller/fc-installed.jpeg){: width="80%" .align-center}
+
+- Plug in ESC Telemtry wire as shown above.
+
+![FC Power Wire]({{ site.baseurl }}/assets/images/flight-controller/fc-power-connect.jpeg){: width="80%" .align-center}
+
+- Plug in one end of 6P JST-GH cable to PDB and other end to flight control power port.  We will clean up our wiring harness in a later step, so for now you can leave it loose.
+
+## Step 2 - Safety Switch
+
+In this step we will install the safety switch and buzzer on the rear box end.  You will need:
+
+- Safety Switch with Buzzer
+- Switch Mount Angle
+- (2) #4 x 3/8in pan head screws
+- Wire cutters
+- #1 Phillips screw driver
+
+![Safety Switch Tools]({{ site.baseurl }}/assets/images/flight-controller/safety-switch-tools.jpeg){: width="80%" .align-center}
+
+### 2.1 Prep Safety Switch Mount 
+
+- Use the wire cutters to carefully create a slot in the Switch Mount as shown in the picture above.  This will allow for the wire harness of the switch and buzzer to be routed as needed.
+
+### 2.2 Mount Safety Switch
+
+- Align the Switch Mount Angle to the two mounting holes in the rear box end of the frame as shown in image below.
+- Fasten the mount with the two #4 x 3/8in screws.  Do not overtighten.
+- Insert the safety switch into the hole of the Switch Mount.
+
+![Safety Switch Installed]({{ site.baseurl }}/assets/images/flight-controller/safety-switch-installed.jpeg){: width="80%" .align-center}
+
+### 2.3 Mount Buzzer
+
+- Cut and secure a small peice of double-sided tape to the top of the buzzer.
+- Carefully align and press the tape and buzzer to the bottom of the Switch Mount as shown in image below.
+
+![Buzzer Installed]({{ site.baseurl }}/assets/images/flight-controller/buzzer-installed.jpeg){: width="80%" .align-center}
+
+- Route the wires and plug into the flight control switch/buzzer port.
+
+Nice job!  This step is complete.  In the next steps we will install the rest of of our gear.  We will secure our wiring harness after we know everything works as it should.
 
