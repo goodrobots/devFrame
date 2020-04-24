@@ -52,7 +52,7 @@ Note -- Length of tube can vary depending on design intent.  Above figures are f
 - #1 and #2 Phillips screwdriver
 
 ## Step 1 - Cut Tubes 
-![Measure Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-01.jpeg){: width="60%" .align-center}
+![Measure Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-01.jpeg){: width="80%" .align-center}
 In this step we will measure, mark and cut the carbon fiber tubes for both the box frame and arms.  You will need:
 - (2) 10mm x 500mm Carbon Fiber Tube (or enough to get (4) x 250mm tubes)
 - (2) 12mm x 500mm Carbon Fiber Tube (or enough to get (4) x 170mm tubes)
@@ -65,7 +65,7 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 {:style="clear: left"} 
 
 ### 1.1 Measure and Mark Tubes
-![Mark Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-02.jpeg){: width="60%" .align-center}
+![Mark Tubes]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-02.jpeg){: width="80%" .align-center}
 #### 1.1.1 10mm Tube
 - We will create four lengths of 10mm tube at 250mm length
 - If you have two 500mm lengths of 10mm tube you are essentially cutting them in half
@@ -83,7 +83,7 @@ In this step we will measure, mark and cut the carbon fiber tubes for both the b
 {:style="clear: left"} 
 
 ### 1.2 Cut Tubes To Length
-![Cutting Tubes]({{ site.baseurl }}/assets/images/basic-frame/cutting-tube.jpeg){: width="60%" .align-center}
+![Cutting Tubes]({{ site.baseurl }}/assets/images/basic-frame/cutting-tube.jpeg){: width="80%" .align-center}
 Using a hacksaw or rotary tool with cutoff wheel cut the tubes to the marked lengths.  Take your time and rotate the tube as you make the cut.
 
 Note -- Don't forget safety glasses and a dust mask.  And carefully clean up any dust created.  A damp rag works well on carbon dust.
@@ -93,7 +93,7 @@ Note -- Don't forget safety glasses and a dust mask.  And carefully clean up any
 {:style="clear: left"} 
 
 ### 1.3 Tubes Complete
-![Tubes Complete]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-03.jpeg){: width="60%" .align-center}
+![Tubes Complete]({{ site.baseurl }}/assets/images/basic-frame/cut-tubes-03.jpeg){: width="80%" .align-center}
 At the end of this step you should have eight total tubes:
 - (4) 10mm x 250mm
 - (4) 12mm x 170mm
@@ -102,7 +102,7 @@ At the end of this step you should have eight total tubes:
 {:style="clear: left"} 
 
 ## Step 2 - Assemble Arm Tube Mounts
-![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-01.jpeg){: width="60%" .align-center}
+![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-01.jpeg){: width="80%" .align-center}
 In this step we will join the arms tubes and Arm Tube Mounts.  You will need:
 - (4) 12mm x 170mm Carbon Fiber Arm Tubes
 - (4) Arm Tube Mounts
@@ -110,7 +110,7 @@ In this step we will join the arms tubes and Arm Tube Mounts.  You will need:
 - #2 Phillips screwdriver
 
 ### 2.1 Clamp Arm Tube Mounts
-![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-02.jpeg){: width="60%" .align-center}
+![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-02.jpeg){: width="80%" .align-center}
 - We will assemble these one at a time.
 - Insert a 12mm carbon fiber arm tube into an Arm Tube Mount.
 - Noting orientation of tube and mount, insert the tube until it is flush on the end of the mount.  The screwdriver is pointing at the ziptie slot which should always be on the inside when the tubes are installed.
@@ -122,14 +122,14 @@ Note - Do not overtighten the screws in the frame or you could cause the parts t
 - Repeat three more times.
 
 ### 2.2 Arm Tube Mounts Complete
-![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-03.jpeg){: width="60%" .align-center}
+![Assemble Arm Tubes]({{ site.baseurl }}/assets/images/basic-frame/arm-tube-mounts-03.jpeg){: width="80%" .align-center}
 At the end of this step you should have four Arm Tube Mounts with arm tubes clamped.
 
 Note - The Arm Tube Mounts are identical for all arms.  This means when you assemble them to the Box Ends you will need to rotate them so that two have screw heads up and two have screw heads down.  See image above.  Note how ziptie slots are always to inside.
 {: .notice--primary} 
 
 ## Step 3 - Assemble Box Ends
-![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-01.jpeg){: width="60%" .align-center}
+![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-01.jpeg){: width="80%" .align-center}
 In this step we will assemble the box ends.  You will need:
 - (4) Arm Tube Assemblies (the parts from last step)
 - (2) Box End Round
@@ -143,7 +143,7 @@ Note -- Do not fully tigthen screws in this step.  We will tighten them in Step 
 {: .notice--primary} 
 
 ### 3.1 Box End Bottom
-![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-02.jpeg){: width="60%" .align-center}
+![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-02.jpeg){: width="80%" .align-center}
 We will start on the bottom of the Box Ends.  Remember, we are on the bottom so are working upside down for now.
 - We will do this one set and arm at a time.  
 - Match and align holes on a Box End Square and Box End Rounded.
@@ -157,13 +157,13 @@ Note -- The devFrame can support different arm geometries so there is an extra h
 - Repeat for opposite end of Box End Bottom.  Pay attention to orientation of each arm.  We want a stretch X, not another letter of the alphabet.
 - Repeat entire step for opposite Box End.
 
-![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-03.jpeg){: width="60%" .align-center}
+![Assemble Box End Bottom]({{ site.baseurl }}/assets/images/basic-frame/box-end-bottom-03.jpeg){: width="80%" .align-center}
 You should now have two assemblies as pictured above.   
 
 ### 3.2 Box End Top
-![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-01.jpeg){: width="60%" .align-center}
+![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-01.jpeg){: width="80%" .align-center}
 In this step we are going to assemble and attach the top parts of the Box Ends.
-![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-02.jpeg){: width="60%" .align-center}
+![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-02.jpeg){: width="80%" .align-center}
 - We will do this step one end at a time
 - Flip over one of your assemblies from the last step so it is right side up.
 - Align holes of a Box End Roll Cage and Box End Square.
@@ -172,12 +172,12 @@ In this step we are going to assemble and attach the top parts of the Box Ends.
 - Repeat for opposite end of Box End Top.  
 - Repeat entire step for opposite Box End.
 
-![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-03.jpeg){: width="60%" .align-center}
+![Assemble Box End Top]({{ site.baseurl }}/assets/images/basic-frame/box-end-top-03.jpeg){: width="80%" .align-center}
 You should now have two assemblies that look like the ones pictured above.  We are almost there.
 
 ## Step 4 - Install Box Tubes
 
-![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-01.jpeg){: width="60%" .align-center}
+![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-01.jpeg){: width="80%" .align-center}
 In this step we will clamp the 10mm frame tubes to the Box Ends.  If you fully tightened the screws from the previous Box End steps go ahead and loosen them up.  Told you.  We'll wait.  You will need:
 - (2) Box End Assemblies (parts from last step)
 - (4) 10mm x 250mm Carbon Fiber Tubes
@@ -191,13 +191,13 @@ Note -- We have chosen to leave the frame tubes long so they will extend beyond 
 {: .notice--primary} 
 
 ### 4.1 Box End Top
-![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-02.jpeg){: width="60%" .align-center}
+![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-02.jpeg){: width="80%" .align-center}
 - We will start on the top/rear and then move to top/front.  So, time to pick a front and rear Box End.
 - At this point there is really no difference in the assemblies, but we will install tubes with staggered overhang, so pick one to be a Box End Rear.
 - Place (2) 10mm tubes into the Box End Rear Assembly as pictured above.  
 - Align the end of the tubes so they are flush with the outside of the Box End Rear.
 - Slowly tighten the top screws of the Box End Rear to engage the clamps.  Again, if you get it wrong just loosen and do it again.  No worries. Unless you over tighten.
-![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-03.jpeg){: width="60%" .align-center}
+![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-03.jpeg){: width="80%" .align-center}
 - Slide the Box End Front on the two tubes you clamped to the Box End Rear in the last step.
 - Use the ruler to measure about 180mm from outside to outside of the Box End Assemblies.  See photo.
 - Once in place you can slowly tighten the top screws of the Box End Front to engage the clamps.
@@ -208,12 +208,12 @@ Note -- We have chosen to leave the frame tubes long so they will extend beyond 
 Note -- We build this with extra top tube length extending out the front and bottom tubes sticking out the rear.  This is to provide extra room to mount gear beyond both front and rear box ends.  You can change this later if desired.
 {: .notice--primary} 
 
-![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="60%" .align-center}
+![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="80%" .align-center}
 When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's updside down.  For next step.)
 
 ## Step 5 - Install Landing Gear
 
-![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-01.jpeg){: width="60%" .align-center}
+![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-01.jpeg){: width="80%" .align-center}
 In this step we will install the Landing Gear.  They are optional if you do not need the ground clearance, but we have found them to be very good at keeping wet grass out of electronics and sensors.  You will need:
 - Base Frame Assembly from last step
 - (2) Landing Gear
@@ -221,7 +221,7 @@ In this step we will install the Landing Gear.  They are optional if you do not 
 - (4) #4 x 1/2in Pan Head Screw
 - #1 Phillips screwdriver
 
-![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-02.jpeg){: width="60%" .align-center}
+![Install Landing Gear]({{ site.baseurl }}/assets/images/basic-frame/landing-gear-02.jpeg){: width="80%" .align-center}
 - We will do this one end at a time.  Make sure your Base Frame is upside down.
 - Place a #4 x 1/2in screw through each of the two holes on a Landing Gear
 - Align the screws with the holes in the bottom a Box End.  Either one.

@@ -26,7 +26,7 @@ The Arm Tube Clamps support mounting either perpindicular to the centerline, as 
 ![Arm Tube Clamp Top View]({{site.baseurl}}/assets/images/frame-details/arm-tube-clamp-top.jpeg){: width="80%" .align-center} *Top view of Arm Tube Clamp showing dual mounting options*
 {: .text-center}
 
-The 10mm box tubes are spaced 60mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
+The 10mm box tubes are spaced 80mm on center laterally so they are compatible with off the shelf payload and battery mounts such as this [Tarot gimbal hook](https://www.amazon.com/dp/B00V7P3K9A/). 
 
 ## 3D Printed Parts
 The following is a detailed list of currently available printed parts with build notes and print settings.

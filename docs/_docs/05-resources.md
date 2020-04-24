@@ -59,7 +59,7 @@ We prefer stranded wire with silicone jacket for robot builds since it is highly
 
 There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require spcial crimping tools, but we feel the crimp connections are superior to soldered.  Some builders do not like to use them as the 45A rating seems too low.  However, that rating has to do with the ampacity of the maximum supported wire size of the connector, which is 10AWG.  We have no problems using them in 100A robotics systems.  
 
-Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT60 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
+Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT80 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
 
 ### Fasteners Etc
 The fasteners used for the base devFrame can all be sourced from a local hardware store.  However, there are always specialty bits that come in handy to keep a build going.  A good example is nylon and rubber standoffs for mounting power distribution, flight controllers and similar electronics.  Below is an example of some of the parts we have found handy to keep on hand:

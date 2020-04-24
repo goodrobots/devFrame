@@ -28,7 +28,7 @@ Note -- We have a few tutorial links over in [Resources]({{ site.baseurl }}/docs
 Similar to what is pictured:
 - [Soldering Kit](https://www.amazon.com/Soldering-Upgraded-Adjustable-Temperature-Screwdrivers/)
 - [Soldering Station](https://www.amazon.com/KinCam-Soldering-Anti-Static-Temperature-Adjustable/dp/B07Y47Y934/)
-- [Heat Shrink Tubing](https://www.amazon.com/560PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW/)
+- [Heat Shrink Tubing](https://www.amazon.com/580PCS-Heat-Shrink-Tubing-Eventronic/dp/B072PCQ2LW/)
 - [2.54mm/0.1in Crimps, Pins and Housings](https://www.amazon.com/gp/product/B07DZB8NDW/)
 
 Soldering jigs are pretty easy to build to save a few quid.  Take a close look at the picture above and you will see a block of wood with clothes pins glued on.  Works well to get started.  If you have it in the budget then buy something fancy.  It's worth it.
