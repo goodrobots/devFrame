@@ -259,11 +259,6 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 
 ![Motor Wire Zip Tie]({{ site.baseurl }}/assets/images/power-esc-motors/motor-wire-ziptie.jpeg){: width="80%" .align-center}
 
-{% include figure image_path="/assets/images/power-esc-motors/motor-wire-ziptie.jpeg"
-  alt="testing figures"
-  caption="This is the caption"
-%}
-
 - Repeat until all motor wires are secured to arm tubes.
 
 ## Power System Complete
