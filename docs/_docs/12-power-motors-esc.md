@@ -165,13 +165,13 @@ In this step we will install the power system you just soldered up in last step 
 
 - Base Frame Assembly
 - Power System
-- 2 x Cross Mounts
-- 4 x M3 Anti-vibration Standoffs with M3 nuts
-- 4 x Nylon Standoffs
-- 8 x Motor Mount halves
-- 8 x M3 x 22mm Screws
+- (2) Cross Mounts
+- (4) M3 Anti-vibration Standoffs with M3 nuts
+- (4) Nylon Standoffs
+- (8) Motor Mount halves
+- (8) M3 x 22mm Screws
 - Double Sided Tape
-- 12 x Zip Ties
+- (12) Zip Ties
 - Drill
 - 3mm Drill Bit
 - Needle Nose Pliers (or very small wrench)
