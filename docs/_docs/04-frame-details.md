@@ -96,7 +96,7 @@ Various accessory mounts have been designed for sensors and companion computers.
 
 
 ## Carbon Fiber Tubes
-The devFrame requires the use of roll wrapped carbon fiber tubes.  They are not very cheap but they are very strong and light.  We are using metric tube sizes to help with international sourcing of tubes.  See our [Resource page]({{ site.baseurl }}/docs/resources/#carbon-fiber-tube)) for more tube details.
+The devFrame requires the use of roll wrapped carbon fiber tubes.  They are not very cheap but they are very strong and light.  We are using metric tube sizes to help with international sourcing of tubes.  See our [Resource page]({{ site.baseurl }}/docs/resources/#carbon-fiber-tube) for more tube details.
 
 ### Sizes 
 - 10mm carbon fiber tubes are used for the box frame, and arms for smaller builds 
