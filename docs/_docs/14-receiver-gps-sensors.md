@@ -195,7 +195,7 @@ Note -- Before proceeding you will need to reference the [TF Mini Pinout](https:
 
 ### 3.2 Install TFMini
 
-- Use (2) #4 x 3/8in pan head screws to attach the TFMini Mout to the rear box end.  See image below for mounting location.
+- Use (2) #4 x 3/8in pan head screws to attach the TFMini Mount to the rear box end.  See image below for mounting location.
 
 ![TFMini Installed]({{ site.baseurl }}/assets/images/gps-sensors/tfmini-installed.jpeg){: width="80%" .align-center}
 
