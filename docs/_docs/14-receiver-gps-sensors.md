@@ -171,7 +171,7 @@ Note -- We are about to install the GPS Mount and Cover, so make sure the holes 
 
 ![GPS Cover Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-cover-installed.jpeg){: width="80%" .align-center}
 
-## Step 3 - Install TFMini LiDAR 
+## Step 3 - Install LiDAR 
 
 In this step we will install and connect the Benewake TFMini LiDAR.  You will need:
 
