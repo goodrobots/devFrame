@@ -48,6 +48,10 @@ Qty | Part | Notes
 
 ### Misc
 - Double-sided Tape
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+
+**Caution** -- Before proceeding please make sure you are familiar with your flight controller and sensor port pinouts.  Incorrect wiring can cause systems failures and damage to hardware.  
+{: .notice--info}
 
 ## Step 1 - Flight Controller
 
@@ -56,6 +60,8 @@ We are going to attach the flight controller to PDB stack from the last step, an
 - PixRacer w/ case
 - (4) M3 x 20mm screws
 - Power Cable (6P JST-GH to 6P JST-GH) 
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+
 
 Note -- We modified the stock mRo PixRacer case by drilling out the four corner mounting holes with a 3mm drill bit.  This allows us to use M3 screws to attach through the case and into PDB stack.
 {: .notice--primary}
@@ -84,6 +90,7 @@ In this step we will install the safety switch and buzzer on the rear box end.  
 - (2) #4 x 3/8in pan head screws
 - Wire cutters
 - #1 Phillips screw driver
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
 
 ![Safety Switch Tools]({{ site.baseurl }}/assets/images/flight-controller/safety-switch-tools.jpeg){: width="80%" .align-center}
 
@@ -109,4 +116,12 @@ In this step we will install the safety switch and buzzer on the rear box end.  
 - Route the wires and plug into the flight control switch/buzzer port.
 
 Nice job!  This step is complete.  In the next steps we will install the rest of our gear.  We will secure our wiring harness after we know everything works as it should.
+
+## Step 3 - ESC Signal Wires
+
+In this step we will plug in the signal wires from the ESC to the flight controller's motor outputs.  What you need:
+
+- 
+
+
 

@@ -3,7 +3,15 @@ title: "Receiver, GPS, and Sensors"
 permalink: /docs/receiver-gps-sensors/
 ---
 
+Note -- An important factor in choosing a flight controller for your project is the number and types of ports supported by the board.  In particular, ensure that your flight controller has enough serial ports to support all sensor and telemetry connections. 
+{: .notice--primary}
 
+In this step we will install the RC receiver, GPS module and LiDAR sensor.  We have chosen our sensors for this build based on a mix of size, capabilities and support.  Any ArduPilot compatible GPS/compass module will work.  You also need to choose a receiver for your particular brand of radio.  We really like FrSky for it's pass-through telemetry support in ArduPilot.  The TFMini LiDAR is optional, but we like the better precision it offers in flight modes that can leverage the data.  Just remember, the parameter file we will include in a later step will be specific to these sensors, so adapt as required.
+
+![GPS Sensor Tools]({{ site.baseurl }}/assets/images/gps-sensors/gps-sensors-tools.jpeg){: width="80%" .align-center}
+
+**Caution** -- This section requires soldering.  A bad solder joint can cause complete loss of power so please make sure you are comfortable creating good solder joints before proceeding.
+{: .notice--info}
 
 ## What You Need (BOM)
 The following should be everything you need to install the Receiver, GPS and TFMini LiDAR.
@@ -21,7 +29,7 @@ Qty | Part | Notes
 
 Qty | Part | Notes 
 ---|---|---
-1 | mRo M8N GPS |
+1 | mRo M8N GPS | w/ compass
 1 | FrSky X8R Receiver | w/ PCB antennas
 1 | Benewake TFMini LiDAR | Serial
 
@@ -63,3 +71,8 @@ Qty | Part | Notes
 - Velcro (sticky back)
 - (2) Zip Ties
 - (2) 1/4in x ~1in Heat Shrink Tube
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+
+**Caution** -- Before proceeding please make sure you are familiar with your flight controller and sensor port pinouts.  Incorrect wiring can cause systems failures and damage to hardware.  
+{: .notice--info}
+
