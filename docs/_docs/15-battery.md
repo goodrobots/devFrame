@@ -77,5 +77,3 @@ In this step we will mount our spare BEC.  We are going to use double-sided tape
 ![Basic Build Complete]({{ site.baseurl }}/assets/images/battery-etc/basic-build-complete.jpeg){: width="80%" .align-center}
 
 Woohoo!  You just completed the hardware build for a basic 450 devFrame.  We will leave the wires and Cross Mounts loose until we make sure everything works right.  In the next section we will start configuring the firmware we need to fly. 
-
-
