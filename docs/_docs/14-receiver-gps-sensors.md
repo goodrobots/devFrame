@@ -72,6 +72,7 @@ Qty | Part | Notes
 - (2) Zip Ties
 - (2) 1/4in x ~1in Heat Shrink Tube
 - [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+- [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot)
 
 **Caution** -- Before proceeding please make sure you are familiar with your flight controller and sensor port pinouts.  Incorrect wiring can cause systems failures and damage to hardware.  
 {: .notice--info}
