@@ -6,7 +6,7 @@ permalink: /docs/tools/
 {: .notice--info}
 
 ## The Basics
-All you really need is a ruler, hacksaw blade, and Phillips screwdriver to build the base frame.
+All you really need is a ruler, hacksaw blade, and Phillips screwdriver to build the base frame.  But that will only get you started.  Read on for more info on tools that will help you succeed in building and maintaining your own small robot.
 
 ![Required Tools]({{ site.baseurl }}/assets/images/tools/required-tools.jpeg){: width="400px"}
 
