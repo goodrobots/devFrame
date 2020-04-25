@@ -7,7 +7,7 @@ main:
     url: /contribute/
   - title: "Roadmap"
     url: /roadmap/ 
-    - title: "About"
+  - title: "About"
     url: /about/
   - title: "Download"
     url: "https://github.com/goodrobots/devFrame/"
