@@ -133,11 +133,12 @@ In this step we will install the mRo GPS module.  Note that we are using all nyl
 - (2) M3 x 12mm Pan Head Screw, Nylon
 - (4) M2 x 20mm Pan Head Screw, Nylon
 - (4) M2 Nut, Nylon
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
 
 **Caution** -- Improper mounting/connection of the GPS and compass module can cause unpredictable position and heading errors that may lead to erratic behavior and/or fly aways.
 {: .notice--info}
 
-### 2.2 Install GPS Mount
+### 2.1 Install GPS Mount
 
 - We will start by installing the nylon M3 standoffs.  These will provide some seperation to clear our battery and reduce potential impacts from interference caused by motors and ESC's.
 - Use the 3mm drill bit to clear out the two mounting hols on top of the rear Box End Roll Cage.
@@ -154,14 +155,22 @@ Note -- We are about to install the GPS Mount and Cover, so make sure the holes 
 
 ![GPS Platform Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-platform-installed.jpeg){: width="80%" .align-center}
 
+### 2.2 Install GPS
+
 - Line up mRo GPS Module over four mounting holes in GPS Mount.  Pay attention to proper module orientation.
 
 ![GPS Placed]({{ site.baseurl }}/assets/images/gps-sensors/gps-in-place.jpeg){: width="80%" .align-center}
 
-- Place GPS Cver over GPS Modlule and Mount
+- Per the [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments) connect the GPS Module to the PixRacer GPS port using a 6 Pin to 6 Pin JST-GH cable.
+
+### 2.3 Install GPS Cover
+
+- Place GPS Cover over GPS Modlule and Mount
 - Secure GPS Cover with (4) M2 x 20mm Pan Head Screws and Nuts.  You may trim the ends of these screws once installed.
 
 ![GPS Cover Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-cover-installed.jpeg){: width="80%" .align-center}
+
+## Step 3 - Install TFMini LiDAR 
 
 
 
