@@ -46,7 +46,8 @@ Qty | Part | Notes
 
 Qty | Part | Notes 
 ---|---|---
-2 | #4 x 3/8in Pan Head Screw | TFMini mount, Phillips drive 
+2 | #4 x 3/8in Pan Head Screw | TFMini mount, Phillips drive
+2 | #2 x 3/8in Pan Head Scrw | TFMini, Phillips drive 
 2 | M3 x 12mm Pan Head Screw, Nylon | GPS mount
 4 | M2 x 20mm Pan Head Screw, Nylon | GPS cover
 4 | M2 Nut, Nylon | GPS Cover
@@ -172,8 +173,32 @@ Note -- We are about to install the GPS Mount and Cover, so make sure the holes 
 
 ## Step 3 - Install TFMini LiDAR 
 
+In this step we will install and connect the Benewake TFMini LiDAR.  You will need:
+
+- TFMini w/ cable
+- TFMini Mount Angle
+- (2) #2 x 3/8in Pan Head Screw
+- (2) #4 x 3/8in Pan Head Screw
+- #1 Phillips Screw Driver
+- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+- [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot)
+
+Note -- Before proceeding you will need to reference the [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot) to build a cable.
+{: .notice--primary}
 
 
+### 3.1 Mount TFMini
 
+- Use (2) #2 x 3/8in pan hed screws to attach the TFMini module to the TFMini Mount.
 
+![TFMini Tools]({{ site.baseurl }}/assets/images/gps-sensors/tfmini-tools.jpeg){: width="80%" .align-center}
 
+### 3.2 Install TFMini
+
+- Use (2) #4 x 3/8in pan head screws to attach the TFMini Mout to the rear box end.  See image below for mounting location.
+
+![TFMini Installed]({{ site.baseurl }}/assets/images/gps-sensors/tfmini-installed.jpeg){: width="80%" .align-center}
+
+- Per the [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments) connect the TFMini cable to the Telem1 port of the PixRacer
+
+Great job!  Next we will install the mounts for the battery and secure the 5V BEC.
