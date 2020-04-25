@@ -1,6 +1,6 @@
 ---
 title: "devFrame Roadmap"
-permalink: /docs/roadmap/
+permalink: /roadmap/
 toc: false
 ---
 

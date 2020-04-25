@@ -7,6 +7,8 @@ main:
     url: /contribute/
   - title: "About"
     url: /about/
+  - title: "Roadmap"
+    url: /roadmap/ 
   - title: "Download"
     url: "https://github.com/goodrobots/devFrame/"
       
@@ -22,9 +24,7 @@ docs:
       - title: "Frame Details"
         url: /docs/frame-details/
       - title: "Resources"
-        url: /docs/resources/
-      - title: "Roadmap"
-        url: /docs/roadmap/  
+        url: /docs/resources/ 
   - title: "Build Hardware"
     children:
       - title: "Build Intro"
