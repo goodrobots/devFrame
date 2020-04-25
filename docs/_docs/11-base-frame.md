@@ -209,7 +209,7 @@ Note -- We build this with extra top tube length extending out the front and bot
 {: .notice--primary} 
 
 ![Install Box Tubes]({{ site.baseurl }}/assets/images/basic-frame/box-tubes-04.jpeg){: width="80%" .align-center}
-When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's updside down.  For next step.)
+When you are done with this step you should have a nearly complete base frame as pictured (Yes, it's upside down.  For next step.)
 
 ## Step 5 - Install Landing Gear
 
@@ -231,4 +231,4 @@ In this step we will install the Landing Gear.  They are optional if you do not 
 
 ## Base Frame Complete
 ![Complete Base Frame]({{ site.baseurl }}/assets/images/basic-frame/base-frame-complete.jpeg){: width="80%" .align-center}
-Congrats!  Grab your favorite beverage and admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes as required.  In the next section we will start loading it up with gear.
+Congrats!  Grab your favorite beverage and admire your work.  You have just built a base frame.  The really cool thing is building another size or config is the same.  Just change the length of tubes and/or arm angle as required.  In the next section we will start loading it up with gear.
