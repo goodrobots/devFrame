@@ -117,6 +117,6 @@ Note -- Fastener nomenclature can be confusing.  The devFrame is intended to be 
 - #6 x 1in for Box Ends
 - #6 x 3/4in for Arm Mounts
 - #4 x 1/2in for Accessory Mounts
-- #2, #1, #0 Per Sensors 
+- #2, #1, #0 Varies Per Sensor 
 
 The detailed build documentation should call out the size and quantity of fastener required for each step in building the frame.
