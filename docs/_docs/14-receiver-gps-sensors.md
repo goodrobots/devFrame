@@ -77,3 +77,94 @@ Qty | Part | Notes
 **Caution** -- Before proceeding please make sure you are familiar with your flight controller and sensor port pinouts.  Incorrect wiring can cause systems failures and damage to hardware.  
 {: .notice--info}
 
+## Step 1 - Install Receiver
+
+In this step we will install the FrSky X8R reciever and connect it to flight controller.  You will need:
+
+- FrSky X8R Receiver w/ cables
+- (1) Cross Mount
+- Velcro (sticky back)
+- (2) Zip Ties
+- (2) 1/4in x ~1in heat shrink tube
+- Wire Cutters
+
+### 1.1 Install Velcro
+
+- We are using velcro to mount the reciever so we can more easily remove it for maintenance/binding etc.
+- Install loop on back of receiver
+- Install hook on top of Cross Mount
+
+![Receiver Velcro]({{ site.baseurl }}/assets/images/gps-sensors/receiver-velcro.jpeg){: width="80%" .align-center}
+
+### 1.2 Install Receiver
+
+- Install the Cross Mount behind the PDB/flight controller stack on the two bottom frame tubes.
+- Carefully place the receiver on the Cross Mount and push down to mate the velcro.
+- Per the [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments) route the sPort wire from the reciever to FrSky port on the PixRacer.
+- Per the [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments) route the SBUS out from the receiver to the RC IN/SBUS port on the PixRacer.
+
+![Receiver Installed]({{ site.baseurl }}/assets/images/gps-sensors/receiver-installed.jpeg){: width="80%" .align-center}
+
+### 1.3 Install Receiver Antennas
+
+- We like to keep the antennas in a good position to help maintain signal strength, and keep them out of the props.  So we will use two zip ties to act as antenna mounts.
+- Wrap a zip tie around one of the top frame tubes directly above receiver.
+
+![Receiver Antenna Mount]({{ site.baseurl }}/assets/images/gps-sensors/receiver-antenna-prep.jpeg){: width="80%" .align-center}
+
+- Place heat shrink tube over the tag end of the zip tie as shown above.
+- Insert one of the receiver's PCB antennas into the heat shrink tubing and carefully shrink the tube until snug around the antenna.
+- Repeat for other side and antenna.
+- Carefully trim the tag end of zip tie.
+
+![Receiver Antennas Installed]({{ site.baseurl }}/assets/images/gps-sensors/receiver-antennas-installed.jpeg){: width="80%" .align-center}
+
+- Rotate the zip ties/antennas so they are pointing about 45 degrees outboard.
+
+## Step 2 - Install GPS
+
+In this step we will install the mRo GPS module.  Note that we are using all nylon fasteners in this step to avoid causing interference with the GPS and compass.  Anything non-ferrous will work.  You will need:
+
+- mRo GPS Module
+- mRo GPS Mount
+- mRo GPS Cover
+- (2) M3 x 20mm, Male-Female, Nylon Standoffs
+- (2) M3 Nut, Nylon
+- (2) M3 x 12mm Pan Head Screw, Nylon
+- (4) M2 x 20mm Pan Head Screw, Nylon
+- (4) M2 Nut, Nylon
+
+**Caution** -- Improper mounting/connection of the GPS and compass module can cause unpredictable position and heading errors that may lead to erratic behavior and/or fly aways.
+{: .notice--info}
+
+### 2.2 Install GPS Mount
+
+- We will start by installing the nylon M3 standoffs.  These will provide some seperation to clear our battery and reduce potential impacts from interference caused by motors and ESC's.
+- Use the 3mm drill bit to clear out the two mounting hols on top of the rear Box End Roll Cage.
+- Insert the male end of the M3 x 20mm standoff into the Roll Cage mounting hole and secure with an M3 nut.
+- Repeat one more time.
+
+![GPS Standoffs]({{ site.baseurl }}/assets/images/gps-sensors/gps-standoffs.jpeg){: width="80%" .align-center}
+
+Note -- We are about to install the GPS Mount and Cover, so make sure the holes in the mount and cover are large enough for fasteners.  Due to printing tolerances they are likely too small straight off the printer.  Drill out all holes in cover with 2 or 2.5mm bit; drill out mounting holes in middle of GPS Mount with 3mm bit; and drill out GPS Mount corner cover mounting holes with 2 or 2.5mm bit.  Dry fit and adjust before you proceed.  
+{: .notice--primary}
+
+- Line up the mRo GPS Mount mounting holes over the two standoffs you just installed.
+- Secure the GPS Mount with (2) M3 x 12mm nylon pan head screws
+
+![GPS Platform Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-platform-installed.jpeg){: width="80%" .align-center}
+
+- Line up mRo GPS Module over four mounting holes in GPS Mount.  Pay attention to proper module orientation.
+
+![GPS Placed]({{ site.baseurl }}/assets/images/gps-sensors/gps-in-place.jpeg){: width="80%" .align-center}
+
+- Place GPS Cver over GPS Modlule and Mount
+- Secure GPS Cover with (4) M2 x 20mm Pan Head Screws and Nuts.  You may trim the ends of these screws once installed.
+
+![GPS Cover Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-cover-installed.jpeg){: width="80%" .align-center}
+
+
+
+
+
+
