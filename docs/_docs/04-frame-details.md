@@ -108,7 +108,7 @@ Each build will list the details of tube lengths and sizes used, but in general 
 {: .notice--info}
 
 ## Fasteners
-![Fastner Overview]({{site.baseurl}}/assets/images/frame-details/fastener-overview.jpeg){: width="40%" .align-left} The devFrame has been designed to use common fasteners to the maximum extent possible.  Pan head screws in various sizes should be available at any hardware store.
+![Fastner Overview]({{site.baseurl}}/assets/images/frame-details/fastener-overview.jpeg){: width="40%" .align-left} The devFrame has been designed to use common fasteners to the maximum extent possible.  Pan head screws in various sizes should be available at any hardware store.  For more details about fasteners and standoffs see our [Resource page]({{ site.baseurl }}/docs/resources/#fasteners-and-standoffs).
 
 Note -- Fastener nomenclature can be confusing.  The devFrame is intended to be used with pan head screws with a pointed end and Phillips drive style.  They are sometimes called sheet metal screws or self tapping.
 {: .notice--primary}
@@ -117,23 +117,6 @@ Note -- Fastener nomenclature can be confusing.  The devFrame is intended to be 
 - #6 x 1in for Box Ends
 - #6 x 3/4in for Arm Mounts
 - #4 x 1/2in for Accessory Mounts
+- #2, #1, #0 Per Sensors 
 
 The detailed build documentation should call out the size and quantity of fastener required for each step in building the frame.
-
-Most sensors and companion computers can be mounted with #2 or #4 screws, depending on mounting hole size. 
-
-There are some sensors that have small mounting holes and will require #0/M1.5 screws.  These can be a bit harder to find at local stores.  If you are having a hard time finding them check for eye glass repair kits as they often include small screws.
-
-### Imperial to Metric 
-
-Gauge | Millimeter
---- | ---
-#0 | 1.5
-#1 | 1.8
-#2 | 2.2
-#3 | 2.5
-#4 | 3
-#6 | 3.5
-
-Note -- Conversion from screw gauge to metric diameter may not be exact.  Clearance and pilot holes in the DevFrame should allow for either Imperial or Metric screws.  Some drilling for clearance holes may be required.
-{: .notice--primary}

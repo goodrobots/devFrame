@@ -61,12 +61,32 @@ There are several options for power connectors in the robotics community.  The c
 
 Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT60 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
 
-### Fasteners Etc
+### Fasteners and Standoffs
+Note -- Fastener nomenclature can be confusing.  The devFrame is intended to be used with pan head screws with a pointed end and Phillips drive style.  They are sometimes called sheet metal screws or self tapping.
+{: .notice--primary}
+
 The fasteners used for the base devFrame can all be sourced from a local hardware store.  However, there are always specialty bits that come in handy to keep a build going.  A good example is nylon and rubber standoffs for mounting power distribution, flight controllers and similar electronics.  Below is an example of some of the parts we have found handy to keep on hand:
 
 - [M3 Anti-Vibration Standoffs](https://www.getfpv.com/anti-vibration-flight-controller-standoff-7mm.html) or [here](https://www.amazon.com/Controller-Anti-Vibration-Mounting-Hardware-Standoffs/dp/B06ZXT21DX)
 - [M3 Nylon Standoffs](https://www.amazon.com/Litorange-Standoff-Threaded-Motherboard-Assortment/dp/B07D7828LC)
 - [Tiny Screws](https://www.amazon.com/dp/B078W7XQ5S)
+
+There are some sensors that have small mounting holes and will require #0 or M1.5 screws.  These can be a bit harder to find at local stores.  If you are having a hard time finding them check for eye glass repair kits as they often include small screws.
+
+
+#### Imperial to Metric Fasteners
+
+Gauge | Millimeter
+--- | ---
+#0 | 1.5
+#1 | 1.8
+#2 | 2.2
+#3 | 2.5
+#4 | 3
+#6 | 3.5
+
+Note -- Conversion from screw gauge to metric diameter may not be exact.  Clearance and pilot holes in the DevFrame should allow for either Imperial or Metric screws.  Some drilling for clearance holes may be required.
+{: .notice--primary}
 
 ### Carbon Fiber Tube
 The devFrame requires the use of roll wrapped carbon fiber tubes with 10mm and/or 12mm diameter. 
