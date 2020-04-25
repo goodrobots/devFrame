@@ -57,7 +57,7 @@ Hopefully you got a bag of cables with your flight controller.  But sometimes yo
 ### Power Cables and Connectors 
 We prefer stranded wire with silicone jacket for robot builds since it is highly flexible and designed for use in high vibration environments.  It's known as [silicone wire](https://www.amazon.com/12-Gauge-Silicone-Wire-Feet/dp/B0070RZXLW).
 
-There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require spcial crimping tools, but we feel the crimp connections are superior to soldered.  Some builders do not like to use them as the 45A rating seems too low.  However, that rating has to do with the ampacity of the maximum supported wire size of the connector, which is 10AWG.  We have no problems using them in 100A robotics systems.  
+There are several options for power connectors in the robotics community.  The connector we prefer in this shop for larger builds is [Anderson Powerpoles](https://powerwerx.com/anderson-power-powerpole-sb-connectors) 45A.  They are not the cheapest connector, and do require special crimping tools, but we feel the crimp connections are superior to soldered.  
 
 Perhaps the most popular soldered power connection in the drone community is the XT series.  XT connectors are available in XT30, XT60 and XT90 sizes.  [This is a good blog post](https://blog.ampow.com/rc-battery-connector-types/) on different styles of connectors.    
 
