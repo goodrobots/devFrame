@@ -11,10 +11,10 @@ This is a high level overview of how to build a devFrame.  Skip to the [build se
 
 ... designed to help you fail better.  Failing fast is only useful if you can learn and iterate after the fail.
 
-### The devFrame is not ...
+## The devFrame is not ...
 ... the [cheapest frame](https://www.readymaderc.com/products/details/flame-wheel-f450-frame-kit) to build, but we think it's one of the best values out there.  
 
-### Some Assumptions
+## Some Assumptions
 While we try to provide enough information to help you achieve your devFrame building goals, we do make some assumptions about skill and motivation levels.  The biggest goal for the devFrame project is to reduce the amount of time and effort involved to build, but it still takes a commitment to read and learn the required information.  
 
 We assume that you can either print the frame parts, or have access to someone who can.   More information on 3D printing the frame parts can be found [here]({{ site.baseurl }}/docs/printing/).
