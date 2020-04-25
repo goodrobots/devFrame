@@ -9,7 +9,7 @@ This is a high level overview of how to build a devFrame.  Skip to the [build se
 
 ... easy and fast to build, capable of taking a beating, and helps protect your gear while you are experimenting and innovating.
 
-... designed to help you fail better.  Fail fast is catchy.  But only useful if you can learn and iterate after the fail.
+... designed to help you fail better.  Fail fast is a technique that is only useful if you can learn and iterate after the fail.
 
 ### The devFrame is not ...
 ... the [cheapest frame](https://www.readymaderc.com/products/details/flame-wheel-f450-frame-kit) to build, but we think it's one of the best values out there.  
