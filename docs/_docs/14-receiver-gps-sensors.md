@@ -3,6 +3,8 @@ title: "Receiver, GPS, and Sensors"
 permalink: /docs/receiver-gps-sensors/
 ---
 
+
+
 ## What You Need (BOM)
 The following should be everything you need to install the Receiver, GPS and TFMini LiDAR.
 
@@ -19,9 +21,9 @@ Qty | Part | Notes
 
 Qty | Part | Notes 
 ---|---|---
-1 | GPS |
-1 | Receiver |
-1 | TFMini LiDAR |
+1 | mRo M8N GPS |
+1 | FrSky X8R Receiver | w/ PCB antennas
+1 | Benewake TFMini LiDAR | Serial
 
 ### Cables
 
