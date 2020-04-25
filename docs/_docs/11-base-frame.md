@@ -184,7 +184,7 @@ In this step we will clamp the 10mm frame tubes to the Box Ends.  If you fully t
 - #2 Phillips screwdriver
 - Ruler
 
-Note -- There is enough surface area in the clamps to self-align the tubes to an extent.  But it helps if you can make sure the frame is true and square while you tighten everything up if you have a nice flat bench on which to work.
+Note -- There is enough surface area in the clamps to self-align the tubes to an extent, but it helps if you build on a nice flat bench to help ensure the frame is true and square while you tighten everything up.
 {: .notice--primary}
 
 Note -- We have chosen to leave the frame tubes long so they will extend beyond the Box Ends.  This helps avoid wasting tube, and provides extra space to hang more gear.  We suggest building as documented in this section before you decide whether to modify tube length.
