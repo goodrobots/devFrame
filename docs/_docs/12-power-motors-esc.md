@@ -92,9 +92,9 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - Wire (if not supplied with motors or ESC's)
 
 ### 1.1 Motors to ESC's
-- To get accurate measurements, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zipties.  
+- To get accurate measurements, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zip ties.  
 
-- Measure and note distance between motors and ESC's.  Add a few millimeters to allow for overlappig solder joints.
+- Measure and note distance between motors and ESC's.  Add a few millimeters to allow for overlapping solder joints.
 
 ![Measure Motor ESC]({{ site.baseurl }}/assets/images/power-esc-motors/measure-esc-motor.jpeg){: width="80%" .align-center}
 
@@ -118,8 +118,8 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - Repeat three more times until all ESC wires are soldered to PDB
 
 ### 1.3 Battery and BEC Connections
-- In step two we will physically install the PDB to the frame, so now is a good time to soldered any other wires needed for your build.  
-- We soldered 14AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
+- In Step 2 we will physically install the PDB to the frame, which will limit access without removing, so now is a good time to solder any other wires needed for your build.  
+- We soldered 12AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
 - Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power to equipment such as companion computer and high power demand sensors.
 
 ### 1.4 ESC Telemetry Wires
@@ -134,7 +134,7 @@ Once you are done you should have a power system ready to be installed.
 ![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="80%" .align-center}
 
 ## Step 2 - Install Power System
-In this step we will install the power system you just soldered up in last step onto the base frame.  You will need:
+In this step we will install the power system from the last step onto the base frame.  You will need:
 
 - Base Frame Assembly
 - Power System
@@ -202,7 +202,7 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 - Slowly tighten each motor mount screw in an alternating pattern until full clamping force is achieved.
 - Repeat until all motors are mounted and aligned.
 
-**Caution** -- The motor mounts use clamping force and are not otherwise indexed to frame.  We have found that this works well in normal use, but in case of hard impacts and/or crashes the motors may twist on the tubes.  While this helps to avoid transferring some stress to rest of frame during impact, it can also cause thrust misalignment and severe flight issues if not corrected.  ALWAYS check motor alignment prior to flight.
+**Caution** -- The motor mounts use clamping force and are not otherwise indexed to frame.  We have found that this works well in normal use, but in case of hard impacts and/or crashes the motors may twist on the tubes.  While this helps to avoid transferring some stress to the frame during impact, it can also cause thrust misalignment and severe flight issues if not corrected.  ALWAYS check motor alignment prior to flight.
 {: .notice--info}
 
 ### 2.4 Install ESC's
@@ -219,7 +219,8 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 
 ![ESC Tape Installed]({{ site.baseurl }}/assets/images/power-esc-motors/esc-tape-installed.jpeg){: width="80%" .align-center}
 
-- Stick the ESC to the inside of the Arm Tube Mount.  See the slot in the Arm Tube Mount?  That's there for the zip tie to hold the ESC in place in case tape fails.
+- Stick the ESC to the inside of the Arm Tube Mount.
+- See the slot in the Arm Tube Mount?  That's there for the zip tie to hold the ESC in place in case tape fails.  Install a zip tie through slot and tighten around ESC.
 
 ![ESC Zip Tie]({{ site.baseurl }}/assets/images/power-esc-motors/esc-ziptie.jpeg){: width="80%" .align-center}
 
