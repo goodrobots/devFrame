@@ -240,6 +240,3 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 ![Power Sytem Installed]({{ site.baseurl }}/assets/images/power-esc-motors/power-system-installed.jpeg){: width="80%" .align-center}
 
 At least the big parts.  We will mount the extra BEC and battery in later steps.
-
-
-
