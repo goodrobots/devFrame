@@ -142,7 +142,7 @@ In this step we will install the mRo GPS module.  Note that we are using all nyl
 ### 2.1 Install GPS Mount
 
 - We will start by installing the nylon M3 standoffs.  These will provide some seperation to clear our battery and reduce potential impacts from interference caused by motors and ESC's.
-- Use the 3mm drill bit to clear out the two mounting hols on top of the rear Box End Roll Cage.
+- Use the 3mm drill bit to clear out the two mounting holes on top of the rear Box End Roll Cage.
 - Insert the male end of the M3 x 20mm standoff into the Roll Cage mounting hole and secure with an M3 nut.
 - Repeat one more time.
 
@@ -166,7 +166,7 @@ Note -- We are about to install the GPS Mount and Cover, so make sure the holes 
 
 ### 2.3 Install GPS Cover
 
-- Place GPS Cover over GPS Modlule and Mount
+- Place GPS Cover over GPS Module and Mount
 - Secure GPS Cover with (4) M2 x 20mm Pan Head Screws and Nuts.  You may trim the ends of these screws once installed.
 
 ![GPS Cover Installed]({{ site.baseurl }}/assets/images/gps-sensors/gps-cover-installed.jpeg){: width="80%" .align-center}
@@ -189,7 +189,7 @@ Note -- Before proceeding you will need to reference the [TF Mini Pinout](https:
 
 ### 3.1 Mount TFMini
 
-- Use (2) #2 x 3/8in pan hed screws to attach the TFMini module to the TFMini Mount.
+- Use (2) #2 x 3/8in pan head screws to attach the TFMini module to the TFMini Mount.
 
 ![TFMini Tools]({{ site.baseurl }}/assets/images/gps-sensors/tfmini-tools.jpeg){: width="80%" .align-center}
 
