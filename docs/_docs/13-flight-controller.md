@@ -79,10 +79,11 @@ Note -- We modified the stock mRo PixRacer case by drilling out the four corner 
 ### 1.2 ESC Telemetry Connection
 - Plug in ESC Telemetry wire as shown above.
 
+### 1.3 Flight Control Power
+- Per the [PixRacer Pinout](https://docs.px4.io/v1.9.0/en/flight_controller/pixracer.html) plug in one end of 6P JST-GH cable to PDB and other end to flight control power port.  We will clean up our wiring harness in a later step, so for now you can leave it loose.
+
 ![FC Power Wire]({{ site.baseurl }}/assets/images/flight-controller/fc-power-connect.jpeg){: width="80%" .align-center}
 
-### 1.3 Flight Control Power
-- Plug in one end of 6P JST-GH cable to PDB and other end to flight control power port.  We will clean up our wiring harness in a later step, so for now you can leave it loose.
 
 ### 1.4 ESC Signal Connection
 - Per the [PixRacer Pinout](https://docs.px4.io/v1.9.0/en/flight_controller/pixracer.html) plug in the ESC signal wires to the PixRacer motor outputs using the [Motor Order Diagram](https://ardupilot.org/copter/docs/connect-escs-and-motors.html#motor-order-diagrams) as a guide.
@@ -96,7 +97,7 @@ In this step we will install the safety switch and buzzer on the rear box end.  
 - (2) #4 x 3/8in pan head screws
 - Wire cutters
 - #1 Phillips screw driver
-- [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
+- Per the [PixRacer Pinout](https://docs.px4.io/v1.9.0/en/flight_controller/pixracer.html)
 
 ![Safety Switch Tools]({{ site.baseurl }}/assets/images/flight-controller/safety-switch-tools.jpeg){: width="80%" .align-center}
 
