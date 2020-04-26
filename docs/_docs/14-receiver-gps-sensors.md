@@ -3,9 +3,6 @@ title: "Receiver, GPS, and Sensors"
 permalink: /docs/receiver-gps-sensors/
 ---
 
-Note -- An important factor in choosing a flight controller for your project is the number and types of ports supported by the board.  In particular, ensure that your flight controller has enough serial ports to support all sensor and telemetry connections. 
-{: .notice--primary}
-
 In this step we will install the RC receiver, GPS module and LiDAR sensor.  We have chosen our sensors for this build based on a mix of size, capabilities and support.  Any ArduPilot compatible GPS/compass module will work.  You also need to choose a receiver for your particular brand of radio.  We really like FrSky for it's pass-through telemetry support in ArduPilot.  The TFMini LiDAR is optional, but we like the better precision it offers in flight modes that can leverage the data.  Just remember, the parameter file we will include in a later step will be specific to these sensors, so adapt as required.
 
 ![GPS Sensor Tools]({{ site.baseurl }}/assets/images/gps-sensors/gps-sensors-tools.jpeg){: width="80%" .align-center}
@@ -148,7 +145,7 @@ In this step we will install the mRo GPS module.  Note that we are using all nyl
 
 ![GPS Standoffs]({{ site.baseurl }}/assets/images/gps-sensors/gps-standoffs.jpeg){: width="80%" .align-center}
 
-Note -- We are about to install the GPS Mount and Cover, so make sure the holes in the mount and cover are large enough for fasteners.  Due to printing tolerances they are likely too small straight off the printer.  Drill out all holes in cover with 2 or 2.5mm bit; drill out mounting holes in middle of GPS Mount with 3mm bit; and drill out GPS Mount corner cover mounting holes with 2 or 2.5mm bit.  Dry fit and adjust before you proceed.  
+Note -- We are about to install the GPS Mount and Cover, so make sure the holes in the mount and cover are large enough for fasteners.  Due to printing tolerances they are likely too small straight off the printer.  Drill out, dry fit and adjust before you proceed.  
 {: .notice--primary}
 
 - Line up the mRo GPS Mount mounting holes over the two standoffs you just installed.
