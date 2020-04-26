@@ -3,6 +3,8 @@ title: "Battery, BEC, Etc"
 permalink: /docs/battery/
 ---
 
+Almost there!.  This is last major step before we start to program the firmware and get ready to fly.
+
 ## What You Need (BOM)
 The following should be everything you need to install the battery and our extra BEC.  This step may vary depending on how your power system is installed.
 
