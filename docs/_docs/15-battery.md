@@ -3,7 +3,7 @@ title: "Battery, BEC, Etc"
 permalink: /docs/battery/
 ---
 
-Almost there!.  This is last major step before we start to program the firmware and get ready to fly.
+Almost there!  This is last major step before we start to program the firmware and get ready to fly.
 
 ## What You Need (BOM)
 The following should be everything you need to install the battery and our extra BEC.  This step may vary depending on how your power system is installed.
@@ -48,8 +48,8 @@ This step is more about installing the battery mounts, but we will also test fit
 
 ### 1.2 Test Fit Battery
 
-- Place the battery on the Cross Mounts
-- Cinch the velcro straps
+- Place the battery on the Cross Mounts.
+- Tighten the velcro straps.
 - Check your power leads from PDB.  Now is a good time to make sure the leads are a good length.  Don't forget they need to stay clear of props.
 
 ![Battery Test Install]({{ site.baseurl }}/assets/images/battery-etc/battery-test-install.jpeg){: width="80%" .align-center}
