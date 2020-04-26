@@ -77,7 +77,7 @@ Note -- We modified the stock mRo PixRacer case by drilling out the four corner 
 ![FC Installed]({{ site.baseurl }}/assets/images/flight-controller/fc-installed.jpeg){: width="80%" .align-center}
 
 ### 1.2 ESC Telemetry Connection
-- Plug in ESC Telemetry wire as shown above.
+- Per the [PixRacer Pinout](https://docs.px4.io/v1.9.0/en/flight_controller/pixracer.html) plug in ESC Telemetry wire as shown above.
 
 ### 1.3 Flight Control Power
 - Per the [PixRacer Pinout](https://docs.px4.io/v1.9.0/en/flight_controller/pixracer.html) plug in one end of 6P JST-GH cable to PDB and other end to flight control power port.  We will clean up our wiring harness in a later step, so for now you can leave it loose.
