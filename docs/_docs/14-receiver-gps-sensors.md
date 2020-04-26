@@ -180,7 +180,7 @@ In this step we will install and connect the Benewake TFMini LiDAR.  You will ne
 - [PixRacer Pinout](https://ardupilot.org/copter/docs/common-pixracer-overview.html#connector-pin-assignments)
 - [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot)
 
-Note -- Before proceeding you will need to reference the [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot) to build a cable.
+Note -- Before proceeding you will need to reference the [TF Mini Pinout](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#connecting-to-the-autopilot) to build a 6 Pin JST-GH to 4 Pin JST-GH cable.
 {: .notice--primary}
 
 
