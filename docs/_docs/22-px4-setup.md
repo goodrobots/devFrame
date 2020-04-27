@@ -1,5 +1,5 @@
 ---
-title: "PX4"
+title: "PX4 Based Setup"
 permalink: /docs/px4/
 ---
 

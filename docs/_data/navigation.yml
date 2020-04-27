@@ -41,12 +41,12 @@ docs:
         url: /docs/battery/
   - title: "Configure Firmware"
     children:
-      - title: "ArduPilot"
+      - title: "Initial Setup"
+        url: /docs/setup/  
+      - title: "ArduPilot Setup"
         url: /docs/ardupilot/
-      - title: "PX4"
+      - title: "PX4 Setup"
         url: /docs/px4/
-      - title: "OpenTX"
-        url: /docs/opentx/  
   - title: "Test Tune Test"
     children:
       - title: "Preflight"

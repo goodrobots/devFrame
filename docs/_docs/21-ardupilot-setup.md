@@ -1,5 +1,5 @@
 ---
-title: "ArduPilot"
+title: "ArduPilot Based Setup"
 permalink: /docs/ardupilot/
 ---
 
