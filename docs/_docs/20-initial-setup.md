@@ -36,16 +36,19 @@ We will focus on ArduPilot, and therefore Mission Planner in this guide.  Howeve
 
 [QGroundControl Install](https://docs.qgroundcontrol.com/en/getting_started/download_and_install.html)
 
-We also suggest you download and install the latest [BLHeli_32 Suite](https://github.com/bitdump/BLHeli/tree/master/BLHeli_32%20ARM), which we will need to check, update and configure the ESC's
+We also suggest you download and install the latest [BLHeli_32 Suite](https://github.com/bitdump/BLHeli/tree/master/BLHeli_32%20ARM), which we will need to check, update and configure the ESC's.
 
 ## Radio Setup
-We will be focused on FrSky radios running OpenTX with Yaapu Telemetry script.  Initial setup of an RC radio can be overwhelming if you are a first time user.  Don't feel bad.  We still have to reference the docs when we need to do most things.  The good news is, with support for telemetry on your radio, simple situational awareness for the pilot has taken a huge leap.
+We will be focused on FrSky radios running OpenTX with the Yaapu telemetry script.  Initial setup of an RC radio can be overwhelming if you are a first time user.  Don't feel bad.  We still have to reference the docs when we need to do most things.  The good news is, with support for telemetry on your radio, simple situational awareness for the pilot has taken a huge leap.
 
 ### Radio Projects
 Here are the projects that you need to be familiar with in order to make your radio system work:
 - [FrSky Downloads](https://www.frsky-rc.com/download/) Make sure you have at least a digital copy of the manual for your transmitter and receiver.  Get familiar with all the buttons and switches.  Most of them are eye candy for basic uses but some will be used.  And a little muscle memory for reaching the right switch can save an aircraft.
 - [OpenTX](https://www.open-tx.org)  Open source firmware for FrSky and Jumper radios.  It can be a bit of work to get it installed and configured.  Again, you are not alone.  Take your time and understand how the system works.
 - [Yaapu Telemetry](https://ardupilot.org/copter/docs/common-frsky-yaapu.html) An open source LUA script for telemetry.  We now consider it mandatory for all of our builds.
+
+Note - We are using a PixRacer, which includes a port that supports FrSky telemetry without additional cables or convertors.  There are also more options for telemetry scripts.  [See this page](https://ardupilot.org/copter/docs/common-frsky-telemetry.html) for more FrSky telemetry options.
+{: .notice--primary}
 
 ### Setup Notes
 - Here's an [Introduction](http://open-txu.org/home/special-interests/multirotor/opentx-apm-px4-pixhawk/) to using OpenTX with a flight controller.  It even goes into custom mixes for advanced flight mode selection.
