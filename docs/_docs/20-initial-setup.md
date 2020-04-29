@@ -47,7 +47,7 @@ Here are the projects that you need to be familiar with in order to make your ra
 - [OpenTX](https://www.open-tx.org)  Open source firmware for FrSky and Jumper radios.  It can be a bit of work to get it installed and configured.  Again, you are not alone.  Take your time and understand how the system works.
 - [Yaapu Telemetry](https://ardupilot.org/copter/docs/common-frsky-yaapu.html) An open source LUA script for telemetry.  We now consider it mandatory for all of our builds.
 
-Note - We are using a PixRacer, which includes a port that supports FrSky telemetry without additional cables or convertors.  There are also more options for telemetry scripts.  [See this page](https://ardupilot.org/copter/docs/common-frsky-telemetry.html) for more FrSky telemetry options.
+Note - We are using a PixRacer, which includes a port that supports FrSky telemetry without the need for a convertor.  There are also more options for telemetry scripts.  [See this page](https://ardupilot.org/copter/docs/common-frsky-telemetry.html) for more FrSky telemetry options.
 {: .notice--primary}
 
 ### Setup Notes
