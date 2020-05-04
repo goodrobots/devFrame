@@ -5,7 +5,7 @@ permalink: /docs/ardupilot/
 
 WORK IN PROGRESS
 
-**CAUTION** -- DO NOT PROCEED WITH PROPELLORS ATTACHED.  We will be energizing the airframe/motors and they only pose a risk if left attached to motors.  Put them aside until we get ready to fly.
+**CAUTION** -- DO NOT PROCEED WITH PROPELLORS ATTACHED.  We will be energizing the airframe/motors and they pose a risk if left attached to motors.  Put them aside until we get ready to fly.
 {: .notice--info}
 
 ## Bind RX
@@ -151,11 +151,11 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 
 ## Advanced Configuration
 
-https://ardupilot.org/copter/docs/common-advanced-configuration.html
+To prepare for our first flights we need to set some [Advanced](https://ardupilot.org/copter/docs/common-advanced-configuration.html) parameters.
 
 ### Harmonic Notch
 
-- Per wiki but it's a bit confusing.  Only need to make two changes when using ESC Telem:
+- [Configure](https://ardupilot.org/copter/docs/common-imu-notch-filtering.html) the Harmonic Notch Filter per the wiki.  There is some good information on the wiki page, but most of it does not apply if we use ESC Telemtry, so here are the parameters we used:
 - INS_HNTCH_MODE = 3
 - INS_HNTCH_REF = 1
 
