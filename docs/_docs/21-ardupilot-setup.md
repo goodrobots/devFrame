@@ -117,9 +117,10 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 ### BLHeli
 - First disconnect Mission Planner, or anything else using serial ports.
 - As of this writing we are using BLHeli32 Suite 32710.
-- [Follow video on wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to check ESC firmware settings are all the same.  
-- Change motor rotations as required. 
-- Now is also a good time to update firmware.  We updated to 32.7 as of this writing. 
+- [Follow the video on wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to:
+  - Check ESC firmware settings are all the same.  
+  - Change motor rotations as required. 
+  - Now is also a good time to update firmware.  We updated to 32.7 as of this writing. 
 
 ## Motor Test 2
 - For this motor test we will makes sure the radio
