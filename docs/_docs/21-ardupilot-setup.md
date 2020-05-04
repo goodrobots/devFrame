@@ -111,7 +111,7 @@ Note - DShot does not require ESC calibration.
 Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  See wiki page.  Front right first; then move in clockwise fashion.
 {: .notice--primary}
 
-- Press and hold Safety Switch until you see solid LED to allow motor arming.
+- Press and hold the Safety Switch until you see solid LED to allow motor arming.
 - Test each motor and note rotation per the wiki image.  We will reverse motor directions as required in next step.
 
 ### BLHeli
