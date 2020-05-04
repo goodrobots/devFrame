@@ -55,7 +55,7 @@ Note - PixRacer includes a port that supports FrSky telemetry without the need f
 - Reboot PixRacer.
 
 ## Accel and Compass
-- [Calibrate](https://ardupilot.org/copter/docs/common-accelerometer-calibration.html) acceleromoteres per wiki.
+- [Calibrate](https://ardupilot.org/copter/docs/common-accelerometer-calibration.html) accelerometers per wiki.
 - [Calibrate](https://ardupilot.org/copter/docs/common-compass-calibration-in-mission-planner.html) compasses per wiki.  The default settings should work fine, so just perform a live calibration.  The PixRacer has two internal compasses that will act as backup to the primary external compass.
 - Reboot PixRacer. 
 - After reboot reconnect Mission Planner to PixRacer and check Flight Data HUD to ensure the heading works as expected.
@@ -66,16 +66,20 @@ Note - PixRacer includes a port that supports FrSky telemetry without the need f
 Note -- We only set the RC failsafe, but you should enable and configure failsafes per your local regulations.
 {: .notice--primary}
 
-**CAUTION** -- Make sure you [understand the actions](https://ardupilot.org/copter/docs/failsafe-landing-page.html) performed as a result of each Failsafe you enable.  If a failsafe is triggered, the aircraft will take several autonomous actions that may or may not be correct based on your local operating area and/or regulations.
+**CAUTION** -- Make sure you [understand the actions](https://ardupilot.org/copter/docs/failsafe-landing-page.html) performed as a result of each failsafe you enable.  If a failsafe is triggered, the aircraft will take several autonomous actions that may or may not be correct based on your local operating area and/or regulations.
 {: .notice--info}
 
 ## Flight Modes 
-- Leave all Flight Modes to stabilize for now.  Will set them during Preflight.
+- Make sure your channel 5 radio switch works as it should to [switch Flight Modes](https://ardupilot.org/copter/docs/common-rc-transmitter-flight-mode-configuration.html#common-rc-transmitter-flight-mode-configuration).
+- Leave all Flight Modes to stabilize for now.  We will set them later during Preflight.
+
+Note - Now is a good time to become familiar with the [many flight modes](https://ardupilot.org/copter/docs/flight-modes.html) available.
+{: .notice--primary}
 
 ## Battery Monitor
 - [Configure](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html) the Analog Voltage and Current Monitor
 - For the MRo ACSP4 Power Module we use the following settings:
-  - Moniter:  Analog and Voltage
+  - Monitor:  Analog and Voltage
   - Sensor: Other
   - APM Ver: Pixhawk 
   - Volt/volt: 13.4545
@@ -87,12 +91,13 @@ Note -- We only set the RC failsafe, but you should enable and configure failsaf
 Note - In order to obtain correct voltage and current values it is important to [calibrate](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html#calibration) your power module.  A power analyzer, or similar device, will be required.  The video shows how to measure current with props reversed.  If you use that method please be careful.
 {: .notice--primary}
 
-## Motor Setup
-- Wiki Pages
-- MOT_PWM_TYPE = 4 = DShot
-- SERVO_BLH_AUTO = 1
-- SERVO_BLH_POLES = 12 (per your motor specs)
-- SERIAL5_PROTOCOL = 16 (ESC telem but we set it at the start; just check it)
+## Motor and ESC Setup
+- You should have your ESC's plugged into the PixRacer from a previous step.  Now is a good time to [double-check](https://ardupilot.org/copter/docs/connect-escs-and-motors.html#motor-order-diagrams).
+- [Configure](https://ardupilot.org/copter/docs/common-dshot-blheli32-telemetry.html#connecting-your-escs-for-use-with-dshot-protocol-and-blheli-32-features) ArduCopter for DShot and BLHeli32 support. 
+  - MOT_PWM_TYPE = 4 = DShot
+  - SERVO_BLH_AUTO = 1
+  - SERVO_BLH_POLES = 12 (per your motor specs)
+  - SERIAL5_PROTOCOL = 16 (ESC telem, but we set it at the start; just check it)
 - Reboot the PixRacer
 
 Note - DShot does not require ESC calibration.
