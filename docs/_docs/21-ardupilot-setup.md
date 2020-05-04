@@ -120,14 +120,14 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 - [Follow the video on wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to:
   - Check ESC firmware settings are all the same.  
   - Change motor rotations as required. 
-  - Now is also a good time to update firmware.  We updated to 32.7 as of this writing. 
+  - Now is also a good time to update ESC firmware.  We updated to 32.7 as of this writing. 
 
 ## Motor Test 2
-- For this motor test we will makes sure the radio
-- Flt battery
-- Move throttle stick to bottom right and hold until armed
-- Motors should spin slowly
-- See wiki for tweaking motor spin when armed etc
+- For this motor test we will makes sure the motor rotation is correct and that the radio works to arm the motors.
+- Connect your flight battery and wait for tones to complete.
+- Press and hold Safety Switch until LED is solid.
+- Move throttle stick to bottom right and hold until armed.
+- Motors should spin slowly.  And in the [right directions](https://ardupilot.org/copter/docs/connect-escs-and-motors.html).
 
 ## Range Finder (LiDAR) 
 - Per Wiki
