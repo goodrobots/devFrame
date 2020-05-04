@@ -161,8 +161,10 @@ To prepare for our first flights we need to set some [Advanced](https://ardupilo
 
 ### Tuning Params
 
-- Per Tuning Prcess Instructions wiki
-- Pull from charts on wiki page or use spreadsheet here:  https://discuss.ardupilot.org/t/new-tuning-instructions-wiki-page/44953/53
+In order to configure the aircraft for first flight we need to set some important PID related parameters:  
+
+- Set initial values per the [Tuning Process Instructions](https://ardupilot.org/copter/docs/tuning-process-instructions.html) wiki
+- You can infer the numbers from the charts on the Tuning Process wiki page or use [this handy spreadsheet](https://discuss.ardupilot.org/t/new-tuning-instructions-wiki-page/44953/53).
 
 ## Logging
 
