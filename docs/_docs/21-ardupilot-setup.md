@@ -88,11 +88,11 @@ Note - Now is a good time to become familiar with the [many flight modes](https:
 - Reboot the PixRacer
 - Plug in flight battery and check values in Mission Planner.
 
-Note - In order to obtain correct voltage and current values it is important to [calibrate](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html#calibration) your power module.  A power analyzer, or similar device, will be required.  The video shows how to measure current with props reversed.  If you use that method please be careful.
+Note - In order to obtain correct voltage and current values it is important to [calibrate](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html#calibration) your power module.  A power analyzer, or similar device, will be required.  The video on the wiki shows how to measure current with props reversed.  If you use that method please be careful.
 {: .notice--primary}
 
 ## Motor and ESC Setup
-- You should have your ESC's plugged into the PixRacer from a previous step.  Now is a good time to [double-check](https://ardupilot.org/copter/docs/connect-escs-and-motors.html#motor-order-diagrams).
+- You should have your ESC's plugged into the PixRacer's PWM output ports from a previous step.  Now is a good time to [double-check](https://ardupilot.org/copter/docs/connect-escs-and-motors.html#motor-order-diagrams).
 - [Configure](https://ardupilot.org/copter/docs/common-dshot-blheli32-telemetry.html#connecting-your-escs-for-use-with-dshot-protocol-and-blheli-32-features) ArduCopter for DShot and BLHeli32 support. 
   - MOT_PWM_TYPE = 4 = DShot
   - SERVO_BLH_AUTO = 1
@@ -104,22 +104,25 @@ Note - DShot does not require ESC calibration.
 {: .notice--primary}
 
 ## Motor Test 1
-- Plug in flt battery
-- Connect telem
-- Initial Setup >> Optional Hardware >> Motor Test
+- Plug in your flight battery.
+- [Connect](https://ardupilot.org/copter/docs/common-connect-mission-planner-autopilot.html) Mission Planner to PixRacer via USB.
+- In Mission Planner go to Initial Setup >> Optional Hardware >> Motor Test
 
 Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  See wiki page.  Front right first; then move in clockwise fashion.
 {: .notice--primary}
 
-- Press and hold Safety Switch to allow motor arming
-- Test each motor and note rotation per the wiki image
+- Press and hold Safety Switch until you see solid LED to allow motor arming.
+- Test each motor and note rotation per the wiki image.  We will reverse motor directions as required in next step.
 
 ### BLHeli
-- Disconnect MP or anything else using serial ports
-- Follow wiki.  Using BLHeli Suite 32710 Change rotations as required.  Also a good time to update firmware.  32.7 as of this writing 
+- First disconnect Mission Planner, or anything else using serial ports.
+- As of this writing we are using BLHeli32 Suite 32710.
+- [Follow video on wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to check ESC firmware settings are all the same.  
+- Change motor rotations as required. 
+- Now is also a good time to update firmware.  We updated to 32.7 as of this writing. 
 
 ## Motor Test 2
-- This time we will use the radio
+- For this motor test we will makes sure the radio
 - Flt battery
 - Move throttle stick to bottom right and hold until armed
 - Motors should spin slowly
