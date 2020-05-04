@@ -18,9 +18,16 @@ WORK IN PROGRESS
 Note -- Initial Setup in Mission Planner and the ArduPilot Wiki lists steps under "Mandatory" and others under "Optional" or "Advanced".  Mandatory items in this case refer to calibrations that must be performed to pass pre-arm safety checks.  In this guide we consider each of these steps mandatory for a good flying copter.  The general workflow is to start with items listed as mandatory, proceed to optional items, and then finish with advanced items.
 {: .notice--primary}
 
-## Radio Calibration
+## Frame Type
 - [Connect](https://ardupilot.org/copter/docs/common-connect-mission-planner-autopilot.html) Mission Planner to PixRacer via USB.
-- Perform [Radio Calibration per wiki](https://ardupilot.org/copter/docs/common-radio-control-calibration.html).  Note pitch input - it might need to be reversed in radio.  Think of pushing the nose down or pulling it up with the stick.
+- [Configure](https://ardupilot.org/copter/docs/frame-type-configuration.html) Frame Type as Quad X.
+
+## Radio Calibration
+- Perform [Radio Calibration per wiki](https://ardupilot.org/copter/docs/common-radio-control-calibration.html).  
+
+Note - Pitch input might need to be reversed in radio.  Think of pushing the nose down or pulling it up with the stick.
+{: .notice--primary}
+
 
 ## Serial Ports
 Before we proceed we will configure all of our serial ports.  We want to make sure the port that the GPS/Compass module is plugged into is properly configured before we go to compass calibrations.  And since we are configuring one port we like to do them all.  It's a preference, but we have found it prevents missing an assignment.
@@ -65,9 +72,20 @@ Note -- We only set the RC failsafe, but you should enable and configure failsaf
 ## Flight Modes 
 - Leave all Flight Modes to stabilize for now.  Will set them during Preflight.
 
-## Batt Mon
-- Analog Voltage and Current; Other; etc ; [insert ss]
-- Plug in flight battery and check values in HUD.  Wiki for more?
+## Battery Monitor
+- [Configure](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html) the Analog Voltage and Current Monitor
+- For the MRo ACSP4 Power Module we use the following settings:
+  - Moniter:  Analog and Voltage
+  - Sensor: Other
+  - APM Ver: Pixhawk 
+  - Volt/volt: 13.4545
+  - Amp/volt: 36.3636
+
+- Reboot the PixRacer
+- Plug in flight battery and check values in Mission Planner.
+
+Note - In order to obtain correct voltage and current values it is important to [calibrate](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html#calibration) your power module.  A power analyzer, or similar device, will be required.  The video shows how to measure current with props reversed.  If you use that method please be careful.
+{: .notice--primary}
 
 ## Motor Setup
 - Wiki Pages
@@ -75,16 +93,18 @@ Note -- We only set the RC failsafe, but you should enable and configure failsaf
 - SERVO_BLH_AUTO = 1
 - SERVO_BLH_POLES = 12 (per your motor specs)
 - SERIAL5_PROTOCOL = 16 (ESC telem but we set it at the start; just check it)
-- Reboot
+- Reboot the PixRacer
 
-Note that DShot does not require ESC calibration
+Note - DShot does not require ESC calibration.
+{: .notice--primary}
 
 ## Motor Test 1
 - Plug in flt battery
 - Connect telem
 - Initial Setup >> Optional Hardware >> Motor Test
 
-Note - Motor assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  See wiki page.  Front right first; then move in clockwise fashion.
+Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  See wiki page.  Front right first; then move in clockwise fashion.
+{: .notice--primary}
 
 - Press and hold Safety Switch to allow motor arming
 - Test each motor and note rotation per the wiki image
