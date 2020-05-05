@@ -3,9 +3,7 @@ title: "ArduPilot Based Setup"
 permalink: /docs/ardupilot/
 ---
 
-WORK IN PROGRESS
-
-**CAUTION** -- DO NOT PROCEED WITH PROPELLORS ATTACHED.  We will be energizing the airframe/motors and they pose a risk if left attached to motors.  Put them aside until we get ready to fly.
+**CAUTION** -- DO NOT PROCEED WITH PROPELLORS ATTACHED.  We will be energizing the airframe/motors and they pose a risk if left attached to motors.  
 {: .notice--info}
 
 ## Bind RX
@@ -17,7 +15,7 @@ WORK IN PROGRESS
 - [Connect](https://ardupilot.org/copter/docs/common-loading-firmware-onto-pixhawk.html) Mission Planner to PixRacer via USB.
 - [Load latest stable firmware](https://ardupilot.org/copter/docs/common-loading-firmware-onto-pixhawk.html#install-firmware) We are using ArduCopter 4.0.3 as of April 2020.
 
-Note -- Initial Setup in Mission Planner and the ArduPilot Wiki lists steps under "Mandatory" and others under "Optional" or "Advanced".  Mandatory items in this case refer to calibrations that must be performed to pass pre-arm safety checks.  In this guide we consider each of these steps mandatory for a good flying copter.  The general workflow is to start with items listed as mandatory, proceed to optional items, and then finish with advanced items.
+Note -- Initial Setup in Mission Planner and the ArduPilot Wiki lists steps under "Mandatory" and others under "Optional" or "Advanced".  Mandatory items in this case refer to calibrations that must be performed to pass pre-arm checks.  In this guide we consider each of these steps mandatory for a good flying copter.  The general workflow is to start with items listed as mandatory, proceed to optional items, and then finish with advanced items.
 {: .notice--primary}
 
 ## Frame Type
@@ -29,12 +27,12 @@ Note -- Initial Setup in Mission Planner and the ArduPilot Wiki lists steps unde
 
 - Perform [Radio Calibration per wiki](https://ardupilot.org/copter/docs/common-radio-control-calibration.html).  
 
-Note - Pitch input might need to be reversed in radio.  Think of pushing the nose down or pulling it up with the stick.
+Note - Pitch input might need to be reversed in your radio.  Think of pushing the nose/green bar or pulling the nose/green bar up with the stick.
 {: .notice--primary}
 
 ## Serial Ports
 
-Before we proceed we will configure all of our serial ports.  We want to make sure the port that the GPS/Compass module is plugged into is properly configured before we go to compass calibrations.  And since we are configuring one port we like to do them all.  It's a preference, but we have found it prevents missing an assignment.
+Before we proceed we will configure all of our serial ports.  We want to make sure the port that the GPS/Compass module is plugged into is properly configured before we go to compass calibrations.  Since we are configuring one port we like to do them all.  It's a preference, but we have found it prevents missing an assignment.
 
 ### PixRacer Serial Ports
 
@@ -73,7 +71,7 @@ Note - PixRacer includes a port that supports FrSky telemetry without the need f
 Note -- We only set the RC failsafe, but you should enable and configure failsafes per your local regulations.
 {: .notice--primary}
 
-**CAUTION** -- Make sure you [understand the actions](https://ardupilot.org/copter/docs/failsafe-landing-page.html) performed as a result of each failsafe you enable.  If a failsafe is triggered, the aircraft will take several autonomous actions that may or may not be correct based on your local operating area and/or regulations.
+**CAUTION** -- Make sure you [understand the actions](https://ardupilot.org/copter/docs/failsafe-landing-page.html) performed as a result of each failsafe you enable.  If a failsafe is triggered, the aircraft will take autonomous actions that may or may not be correct based on your local operating area and/or regulations.
 {: .notice--info}
 
 ## Flight Modes
@@ -95,7 +93,7 @@ Note - Now is a good time to become familiar with the [many flight modes](https:
   - Amp/volt: 36.3636
 
 - Reboot the PixRacer
-- Plug in flight battery and check values in Mission Planner.
+- Plug in your flight battery and check values in Mission Planner.
 
 Note - In order to obtain correct voltage and current values it is important to [calibrate](https://ardupilot.org/copter/docs/common-power-module-configuration-in-mission-planner.html#calibration) your power module.  A power analyzer, or similar device, will be required.  The video on the wiki shows how to measure current with props reversed.  If you use that method please be careful.
 {: .notice--primary}
@@ -115,6 +113,7 @@ Note - DShot does not require ESC calibration.
 
 ## Motor Test 1
 
+- NO PROPS INSTALLED.
 - Plug in your flight battery.
 - [Connect](https://ardupilot.org/copter/docs/common-connect-mission-planner-autopilot.html) Mission Planner to PixRacer via USB.
 - In Mission Planner go to Initial Setup >> Optional Hardware >> Motor Test
@@ -129,13 +128,14 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 
 - First disconnect Mission Planner, or anything else using serial ports.
 - As of this writing we are using BLHeli32 Suite 32710.
-- [Follow the video on wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to:
+- [Follow the video on the wiki](https://ardupilot.org/copter/docs/common-blheli32-passthru.html#the-following-section-shows-how-to-setup-blheli-32-pass-through-support) to use BLHeli32 Suite to:
   - Check ESC firmware settings are all the same.  
   - Change motor rotations as required.
   - Now is also a good time to update ESC firmware.  We updated to 32.7 as of this writing.
 
 ## Motor Test 2
 
+- NO PROPS INSTALLED.
 - For this motor test we will makes sure the motor rotation is correct and that the radio works to arm the motors.
 - Connect your flight battery and wait for tones to complete.
 - Press and hold Safety Switch until LED is solid.
@@ -144,16 +144,22 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 
 ## Range Finder (LiDAR)
 
-- Per Wiki
-- MAX 600
-- CLEAR 5
-- Make sure to verify per wiki
+IN this step we will configure the Benewake TFMini LiDAR parameters.
+
+- [Configure](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html) per the wiki page.  Remeber, we set the serial ports in a previous step.  We are going to be flying outdoors so here are the settings we used:
+- RNGFND1_MIN_CM = 30
+- RNGFND1_MAX_CM = 600
+- RNGFND1_GNDCLEAR = 5
+
+Make sure to [verify the results](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html#testing-the-sensor) per wiki.
 
 ## Advanced Configuration
 
 To prepare for our first flights we need to set some [Advanced](https://ardupilot.org/copter/docs/common-advanced-configuration.html) parameters.
 
 ### Harmonic Notch
+
+The Harmonic Notch Filter is a relatively new addition to ArduCopter which helps filter out vibration noise from IMU sensors in order to provide more predictable control of your copter.
 
 - [Configure](https://ardupilot.org/copter/docs/common-imu-notch-filtering.html) the Harmonic Notch Filter per the wiki.  There is some good information on the wiki page, but most of it does not apply if we use ESC Telemtry, so here are the parameters we used:
 - INS_HNTCH_MODE = 3
@@ -168,12 +174,18 @@ In order to configure the aircraft for first flight we need to set some importan
 
 ## Logging
 
+[Logging in ArduPilot](https://ardupilot.org/copter/docs/common-logs.html) is a very important process that should be well understood in order to properly analyze and troubleshoot performance.
+
 ### Logging Params
 
-- Preference to have new log saved after disarmed LOG_FILE_DSRMROT = 1
-- For troubleshooting Log bitmask etc per wiki
+- Our preference is to have a new log saved after disarmed so we set this parameter:
+  - LOG_FILE_DSRMROT = 1
+- If you need troubleshooting help, please post your data flash logs when posting to [ArduPilot Discuss Forum](https://discuss.ardupilot.org).
+- You may need to change your [log bitmask](https://ardupilot.org/copter/docs/parameters.html#log-bitmask-log-bitmask) depending on what information you need to analize.
 
-## Full Param Files
+## d450 Parameter Files
+
+COMING SOON.
 
 - Link to pre autotune
 - Link to post autotune

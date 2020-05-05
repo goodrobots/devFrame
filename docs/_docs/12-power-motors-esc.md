@@ -6,7 +6,7 @@ permalink: /docs/power-motors-escs/
 **Caution** -- This section requires soldering.  A bad solder joint can cause complete loss of power so please make sure you are comfortable creating good solder joints before proceeding.
 {: .notice--info}
 
-In this section we will install power distribution, motors, and electronic speed controls (ESC's). 
+In this section we will install power distribution, motors, and electronic speed controls (ESC's).
 
 ![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="80%" .align-center}
 
@@ -17,16 +17,17 @@ There are many different types and brands of equipment that can meet your onboar
 
 
 ## What You Need (BOM)
+
 Besides the base frame from the last section, the following should be everything you need to install power distribution, motors and ESC's.
 
 ### Printed Parts
 
-Qty | Part | Notes 
+Qty | Part | Notes
 ---|---|---
-8 | Motor Mount Half 12mm | 
-2 | Cross Mount | 
+8 | Motor Mount Half 12mm |
+2 | Cross Mount |
 
-### Fasteners 
+### Fasteners
 
 Qty | Size | Note
 --- | --- | ---
@@ -36,21 +37,21 @@ Qty | Size | Note
 
 Qty | Size | Note
 --- | --- | ---
-4 | M3 x 6mm  |  Vibration Isolation 
-4 | M3 Hex Nut | 
+4 | M3 x 6mm  |  Vibration Isolation
+4 | M3 Hex Nut |
 
 ### Power Distribution
 
 Qty | Size | Note
 --- | --- | ---
-1 | MRo ACSP4 Power Module |  Or equivalent 
+1 | MRo ACSP4 Power Module |  Or equivalent
 1 | Castle Creations 10A BEC | Or equivalent
 
 ### Flight Power
 
 Qty | Size | Note
 --- | --- | ---
-4 | T Motor 2213/920KV Motors |  Or equivalent 
+4 | T Motor 2213/920KV Motors |  Or equivalent
 4 | Luminier 36A BLHeli32 ESC | Or equivalent
 
 ### Wire and Connectors
@@ -58,16 +59,18 @@ Qty | Size | Note
 Qty | Size | Note
 --- | --- | ---
 1ft | 12-14 AWG Silicone Wire | Battery to PDB
-1ft | 16 AWG Silicone Wire | Optional - depends on motors and ESC's 
-2 pair | Anderson Power Poles 45A | XT80 or equivalent 
+1ft | 16 AWG Silicone Wire | Optional - depends on motors and ESC's
+2 pair | Anderson Power Poles 45A | XT80 or equivalent
 
 ### Misc
+
 - Small zipties
 - Double sided tape
 - Heat Shrink Tube
 - (2) 0.1in Single Row Header Pins - Optional; depends on ESC telemetry connection
 
 ### Tools
+
 - #1 and #2 Phillips screwdriver
 - Needle Nose Pliers
 - Wire Cutters
@@ -80,6 +83,7 @@ Note -- The motor mounts are designed to support routing the wires inside the ar
 {: .notice--primary}
 
 In this step we will connect wires between motors and ESC's, between ESC's and PDB, connect our battery leads, and add a 5V BEC.  You will need:
+
 - Motors
 - ESC's
 - PDB
@@ -92,6 +96,7 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - Wire (if not supplied with motors or ESC's)
 
 ### 1.1 Motors to ESC's
+
 - To get accurate measurements, first locate mounting position for the ESC's. We will install our ESC's for this build on the Arm Tube clamps using double-sided tape and zip ties.  
 
 - Measure and note distance between motors and ESC's.  Add a few millimeters to allow for overlapping solder joints.
@@ -102,10 +107,10 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 
 ![Motor ESC Soldered]({{ site.baseurl }}/assets/images/power-esc-motors/solder-motor-esc.jpeg){: width="80%" .align-center}
 
-- Repeat three more times until all motor to ESC wires are soldered.   
-
+- Repeat three more times until all motor to ESC wires are soldered.
 
 ### 1.2 ESC's to PDB
+
 - We will be mounting the PDB under the flight controller in the middle of the bottom set of frame tubes.
 - Measure and note distance between ESC's and PDB.  Add a few millimeters to allow for overlappig solder joints.
 
@@ -118,11 +123,13 @@ In this step we will connect wires between motors and ESC's, between ESC's and P
 - Repeat three more times until all ESC wires are soldered to PDB
 
 ### 1.3 Battery and BEC Connections
+
 - In Step 2 we will physically install the PDB to the frame, which will limit access without removing, so now is a good time to solder any other wires needed for your build.  
 - We soldered 12AWG silicone wire to our battery connections. We recommend leaving these wires long if you are not sure how your battery will mount.  We plan on mounting our battery to the top level of the frame so know our approximate wire length.
 - Now is also a good time to solder on any extra connections to PDB.  We installed a 5V BEC to provide power to equipment such as companion computer and high power demand sensors.
 
 ### 1.4 ESC Telemetry Wires
+
 - We plan on using ESC telemetry for this build, which requires soldering each of the ESC telemetry wires together.
 - The telemetry wire bundle needs to be connected to a serial port on the flight controller.  You will need to solder the telemetry wires to a harness/connector supported by your choice of autopilot.
 - We will use the WiFi module port on the top of the PixRacer.  As that port accepts 0.1in Dupont pins we will solder our ESC telemetry wires to a header pin.  We actually use two pins, but one is blank to help keep the connection more secure.  
@@ -134,6 +141,7 @@ Once you are done you should have a power system ready to be installed.
 ![Power System]({{ site.baseurl }}/assets/images/power-esc-motors/power-motor-escs.jpeg){: width="80%" .align-center}
 
 ## Step 2 - Install Power System
+
 In this step we will install the power system from the last step onto the base frame.  You will need:
 
 - Base Frame Assembly
@@ -153,6 +161,7 @@ In this step we will install the power system from the last step onto the base f
 - Knife
 
 ### 2.1 Install Cross Mounts
+
 - First, we will install two cross mounts on the lower two frame tubes.
 - The Cross Mounts have index holes but we need some through holes to mount the standoffs.  So we will need a drill.
 
@@ -171,6 +180,7 @@ In this step we will install the power system from the last step onto the base f
 ![FC Cross Mounts Installed]({{ site.baseurl }}/assets/images/power-esc-motors/fc-cross-mounts-installed.jpeg){: width="80%" .align-center}
 
 ### 2.2 Install PDB
+
 - Use the PDB to align the Cross Mounts and standoffs.
 - Use the four nylon standoffs to attach the PDB to the anti-vibration standoffs
 
@@ -206,7 +216,8 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 {: .notice--info}
 
 ### 2.4 Install ESC's
-- Time to install ESC's to inside of Arm Tube Mounts. 
+
+- Time to install ESC's to inside of Arm Tube Mounts.
 - Remember, we are routing wires on outside of arm tubes.
 
 ![ESC Install Tools]({{ site.baseurl }}/assets/images/power-esc-motors/esc-install-tools.jpeg){: width="80%" .align-center}
@@ -227,6 +238,7 @@ Note -- Now is a good time to route your ESC's and Motors to respective arms.  I
 - Repeat three more times, and don't forget to trim the zip ties.
 
 ### 2.5 Secure Motor Wires
+
 - For this step you could use zip ties or tape.  Intent is to secure motor wires that can cause vibrations and/or interfere with props.
 
 - Zip tie motor wires to arm tube.
