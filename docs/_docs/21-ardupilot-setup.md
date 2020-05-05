@@ -118,7 +118,7 @@ Note - DShot does not require ESC calibration.
 - [Connect](https://ardupilot.org/copter/docs/common-connect-mission-planner-autopilot.html) Mission Planner to PixRacer via USB.
 - In Mission Planner go to Initial Setup >> Optional Hardware >> Motor Test
 
-Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  See wiki page.  Front right first; then move in clockwise fashion.
+Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assignements.  [See wiki page](https://ardupilot.org/copter/docs/connect-escs-and-motors.html#checking-the-motor-numbering-with-the-mission-planner-motor-test) for diagrams.  Front right first; then move in clockwise fashion.
 {: .notice--primary}
 
 - Press and hold the Safety Switch until you see solid LED to allow motor arming.
