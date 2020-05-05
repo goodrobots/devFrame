@@ -122,7 +122,7 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 {: .notice--primary}
 
 - Press and hold the Safety Switch until you see solid LED to allow motor arming.
-- Test each motor and note rotation per the wiki image.  We will reverse motor directions as required in next step.
+- Test each motor and note rotation per the [wiki diagram](https://ardupilot.org/copter/_images/APM_2_5_MOTORS_QUAD_enc.jpg).  We will reverse motor directions as required in next step.
 
 ### BLHeli
 
@@ -136,7 +136,7 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 ## Motor Test 2
 
 - NO PROPS INSTALLED.
-- For this motor test we will makes sure the motor rotation is correct and that the radio works to arm the motors.
+- For this motor test we will make sure the motor rotation is correct and that the radio works to arm the motors.
 - Connect your flight battery and wait for tones to complete.
 - Press and hold Safety Switch until LED is solid.
 - Move throttle stick to bottom right and hold until armed.
@@ -144,9 +144,9 @@ Note - Motor Test assigments A-D ARE NOT THE SAME as the motor 1-4 number assign
 
 ## Range Finder (LiDAR)
 
-IN this step we will configure the Benewake TFMini LiDAR parameters.
+In this step we will configure the Benewake TFMini LiDAR parameters.
 
-- [Configure](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html) per the wiki page.  Remeber, we set the serial ports in a previous step.  We are going to be flying outdoors so here are the settings we used:
+- [Configure](https://ardupilot.org/copter/docs/common-benewake-tfmini-lidar.html) per the wiki page.  Remember, we set the serial ports in a previous step.  We are going to be flying outdoors so here are the settings we used:
 - RNGFND1_MIN_CM = 30
 - RNGFND1_MAX_CM = 600
 - RNGFND1_GNDCLEAR = 5
@@ -178,10 +178,10 @@ In order to configure the aircraft for first flight we need to set some importan
 
 ### Logging Params
 
-- Our preference is to have a new log saved after disarmed so we set this parameter:
+- Our preference is to have a new log saved after each disarm event so we set this parameter:
   - LOG_FILE_DSRMROT = 1
 - If you need troubleshooting help, please post your data flash logs when posting to [ArduPilot Discuss Forum](https://discuss.ardupilot.org).
-- You may need to change your [log bitmask](https://ardupilot.org/copter/docs/parameters.html#log-bitmask-log-bitmask) depending on what information you need to analize.
+- You may need to change your [log bitmask](https://ardupilot.org/copter/docs/parameters.html#log-bitmask-log-bitmask) depending on what information you need to analyze.
 
 ## d450 Parameter Files
 
