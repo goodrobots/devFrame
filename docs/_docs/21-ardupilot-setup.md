@@ -27,7 +27,7 @@ Note -- Initial Setup in Mission Planner and the ArduPilot Wiki lists steps unde
 
 - Perform [Radio Calibration per wiki](https://ardupilot.org/copter/docs/common-radio-control-calibration.html).  
 
-Note - Pitch input might need to be reversed in your radio.  Think of pushing the nose/green bar or pulling the nose/green bar up with the stick.
+Note - Pitch input might need to be reversed in your radio.  Think of pushing the nose/green bar down or pulling the nose/green bar up with the stick.
 {: .notice--primary}
 
 ## Serial Ports
